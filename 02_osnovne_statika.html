@@ -1,0 +1,672 @@
+﻿<!DOCTYPE html> 
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+
+<![endif]-->
+<meta name="description" content="Građevinski fakultet Subotica">
+<meta name="keywords" content="Илија, Миличић, fakultet, građevinski, Subotica, univerzitet, Novi Sad, upis, Faculty of Civil Engineering, International Conference">
+<meta name="author" content="Илија Миличић">
+<title>Илија М. МИЛИЧИЋ</title>
+<link rel="shortcut icon" href="img/ilija.ico" type="image/x-icon">
+<!------------------------------------------------------------------------------------------------------------------->
+<!-- Styles -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+<link href="css/style.css" rel="stylesheet" type="text/css" media="all">
+<link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />
+
+<!-- Scripts -->
+<script type='text/javascript' src='js/jquery.min.js'></script>
+<script type='text/javascript' src='js/menu.js'></script>
+<script type="text/javascript" src="js/jquery.flexslider-min.js"></script>
+<script type="text/javascript">
+ $(window).load(function() {
+    $('.flexslider').flexslider({
+      animation: "fade",
+      controlsContainer: ".flex-container", 
+	  controlNav: true,
+	  slideshowSpeed: 8000, 
+	  animationLoop: true,
+	  pauseOnAction: true,   
+	  pauseOnHover: true,
+	   start: function(slider) {
+         // animate your caption ... 
+         // find the item that is the current slide's .slidecaption and animate it
+         $('.flex-active-slide').find('.flex-caption').css("display", "block");
+		  $('ul#menu').hover(
+		  function(){
+            slider.pause();        
+			}
+		);
+        },
+	  before: function(slider) {
+         // animate your caption ... 
+         // find the item that is the current slide's .slidecaption and animate it
+         $('.flex-active-slide').find('.flex-caption').css("display", "none");        
+    }, 
+        after: function(slider) {
+         // animate your caption ... 
+         // find the item that is the current slide's .slidecaption and animate it	 
+         $('.flex-active-slide').find('.flex-caption').fadeIn("400");
+      }
+    });  
+});
+</script>
+<!------------------------------------------------------------------>
+<style>
+hr { 
+    display: block;
+    margin-top: 0.1em;
+    margin-bottom: 0.1em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 0.5px;
+} 
+</style>
+<!------------------------------------------------------------------>
+</head>
+<!--------------------------------------------------------- Body ----------------------------------------------------->
+<table>
+<tbody>
+<tr>
+<td><img src="img/uns.png" alt="Smiley face" height="50" width="50"></td>
+<td> UNIVERSITY OF NOVI SAD <hr /></div> УНИВЕРЗИТЕТ У НОВОМ САДУ </td>
+</tr>
+
+</tbody>
+</table>
+
+<div id="linija"></div>
+<table style="width:100%">
+  	<tr>
+   	<th style="background-color: #FFFFFF;">
+<!--<center><img src="img/ilija.jpg" class="w3-border" height="115" width="109" alt="praksa" /></center></th>-->
+<center><img src="img/ilija.jpg" class="w3-border w3-padding" height="115" width="109" alt="praksa" /></center></th>
+    	<td style="background-color: #FFFFFF;" rowspan="1"><h1 id="ime">проф. др <b>Илија М. МИЛИЧИЋ</b></h1>ВАНРЕДНИ ПРОФЕСОР УНИВЕРЗИТЕТА У НОВОМ САДУ
+	<hr /></div>
+	Катедрa за инжењерску механику
+	<br>шеф Катедре за инжењерску механику (2016-2022)</td>
+</tr>
+</table>
+
+<div id="linija"></div>
+<ul id="jezik">
+	<li><a href="#">ћир</a></li>
+	<li><a href="#">lat</a></li>
+	<li><a href="#">eng</a></li>
+	</ul>
+<!------------------------------------- ГЛАВНИ МЕНИ ----------------------------------------------------------------->
+<div id="linija"></div>
+<nav id="glavni_meni">
+<ul id="glavni">
+  <li><a href="index.html"><img src="img/home.png" alt="kucica" /></a></li>
+  <li><a href="01_biografija.html">Curriculum vitae</a></li>
+  <li><a href="02_osnovne.html">Поверена настава</a></li>
+  <li><a href="05_moja_istrazivanja.html">Моја истраживања</a></li>
+  <li><a href="06_mostovi.html">Мостови</a></li>
+  <li><a href="index.html#kontakt">Контакт</a></li>
+<!------<li><a href="https://plus.google.com/u/0/100868037933547941108/posts"> <p><span style="color: #0000ff;">G</span><span style="color: #ff0000;">o</span><span style="color: #ffcc00;">o</span><span style="color: #0000ff;">g</span><span style="color: #008000;">l</span><span style="color: #ff0000;">e</span>+</p></a></li>
+</ul>------->
+  <li><a href="https://classroom.google.com/h"> <p><span style="color: #0000ff;">G</span><span style="color: #ff0000;">o</span><span style="color: #ffcc00;">o</span><span style="color: #0000ff;">g</span><span style="color: #008000;">l</span><span style="color: #ff0000;">e</span> Classroom</p></a></li>
+</ul>
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------- ПЛУТАЈУЋИ МЕНИ -------------------------------------------------------->
+<div class="flip"><img src="img/home.png" alt="kucica" /> Мени</div>
+<div id='glavni2'>
+<ul>
+<li><a href="index.html">Почетна страна</a></li>
+<li class='active has-sub'><a href='#'><span>Curriculum vitae</span></a>
+  <ul>
+  <li><a href="01_biografija.html">Биографија</a></li>
+  <li><a href="01_1_radovi.html">Научни рад</a></li>
+  <li><a href="01_2_radovi.html">Стручни рад</a></li>
+  <li><a href="01_3_recenzije.html">Рецензије</a></li>
+  <li><a href="01_4_uredjivanje.html">Уређивање часописа</a></li>
+  </ul>
+</li>
+<li class='active has-sub'><a href='#'><span>Поверена настава</span></a>
+  <ul>
+  <li><a href="02_osnovne.html">Основне академске студије</a></li>
+  <li><a href="03_master.html">Мастер академске студије</a></li>
+  <li><a href="04_doktorske.html">Докторске академске студије</a></li>
+  </ul>
+</li>
+<li class='active has-sub'><a href='#'><span>Моја истраживања</span></a>
+  <ul>
+  <li><a href="05_moja_istrazivanja.html">Магистарски рад</a></li>
+  <li><a href="05_2_moja_istrazivanja.html">Докторска дисертација</a></li>
+  <li><a href="05_3_moja_istrazivanja.html">Етно-еко-пасивна кућа</a></li>
+  </ul>
+</li>
+<li><a href="06_mostovi.html">Мостови</a></li>
+<li><a href="07_mentorstvo.html">Менторство</a></li>
+<li><a href='index.html#kontakt'><span><p>Контакт</p></span></a></li>
+<li class='last'><a href="https://classroom.google.com/h"><p><span style="color: #0000ff;">G</span><span style="color: #ff0000;">o</span><span style="color: #ffcc00;">o</span><span style="color: #0000ff;">g</span><span style="color: #008000;">l</span><span style="color: #ff0000;">e</span> Classroom</p></a></li>
+</ul>
+</div>
+</nav>
+<div class="clear"></div>
+<div id="linija"></div>
+<div class="clear" /></div>
+<!----------------------------------------- End plutajući meni ------------------------------------------------------>
+<!-------------------------------------------------- End Menu ------------------------------------------------------->
+
+<!----------------------------------------------- СРЕДЊИ ДЕО ------------------------------------------------------>
+<div id="maincontainer">
+<div id="contentwrapper">
+<div id="contentcolumn">
+<div class="innertube">
+</div>
+
+<p><h1>Статика конструкција 1</h1></p>
+<p>акредитација: 2008., 2013., 2018., 2022.</p>
+<br>
+<!--<div class="container">-->
+  <div class="servisi">
+<!--<h2>Предавања</h2>-->
+  
+  <ul class="nav nav-tabs">
+    <li class="active"><a data-toggle="tab" href="#home">1</a></li>
+    <!--<li><a data-toggle="tab" href="#menu1">1</a></li>-->
+    <li><a data-toggle="tab" href="#menu2">2</a></li>
+    <li><a data-toggle="tab" href="#menu3">3</a></li>
+    <li><a data-toggle="tab" href="#menu4">4</a></li>
+    <li><a data-toggle="tab" href="#menu5">5</a></li>
+    <li><a data-toggle="tab" href="#menu6">6</a></li>
+    <li><a data-toggle="tab" href="#menu7">7</a></li>
+    <li><a data-toggle="tab" href="#menu8">8</a></li>
+    <li><a data-toggle="tab" href="#menu9">9</a></li>
+    <li><a data-toggle="tab" href="#menu10">10</a></li>
+    <li><a data-toggle="tab" href="#menu11">11</a></li>
+    <li><a data-toggle="tab" href="#menu12">12</a></li>
+    <li><a data-toggle="tab" href="#menu13">13</a></li>
+  </ul>
+
+  <div class="tab-content">
+    <div id="home" class="tab-pane fade in active">
+    <p>Презентација предавања</p>
+      	<center>
+	<iframe height="435px" width="100%" src="1/SK1/01_SK1_IMM/index.html" style="border:none"></iframe>
+	</center>
+    </div>
+
+    <div id="menu2" class="tab-pane fade">
+      <p> . </p>
+	<center>
+	<iframe height="435px" width="100%" src="1/SK1/02_SK1_IMM/index.html" style="border:none"></iframe>
+	</center>
+    </div>
+
+    <div id="menu3" class="tab-pane fade">
+      <p> .</p>
+	<center>
+	<iframe height="435px" width="100%" src="1/SK1/03_SK1_IMM/index.html" style="border:none"></iframe>
+	</center>
+    </div>
+
+    <div id="menu4" class="tab-pane fade">
+      <p> . </p>
+	<center>
+	<iframe height="435px" width="100%" src="1/SK1/04_SK1_IMM/index.html" style="border:none"></iframe>
+	</center>
+    </div>
+
+    <div id="menu5" class="tab-pane fade">
+      <p> . </p>
+	<center>
+	<iframe height="435px" width="100%" src="1/SK/05_SK_IMM/index.html" style="border:none"></iframe>
+	</center>
+    </div>
+
+    <div id="menu6" class="tab-pane fade">
+      <p> . </p>
+	<center>
+	<iframe height="435px" width="100%" src="1/SK/06_SK_IMM/index.html" style="border:none"></iframe>
+	</center>
+    </div>
+
+    <div id="menu7" class="tab-pane fade">
+      <p> . </p>
+	<center>
+	<iframe height="435px" width="100%" src="1/SK/07_SK_IMM/index.html" style="border:none"></iframe>
+	</center>
+    </div>
+
+    <div id="menu8" class="tab-pane fade">
+      <p> . </p>
+	<center>
+	<iframe height="435px" width="100%" src="1/SK/08_SK_IMM/index.html" style="border:none"></iframe>
+	</center>
+    </div>
+
+    <div id="menu9" class="tab-pane fade">
+      <p> . </p>
+	<center>
+	<iframe height="435px" width="100%" src="1/SK/09_SK_IMM/index.html" style="border:none"></iframe>
+	</center>
+    </div>
+
+    <div id="menu10" class="tab-pane fade">
+      <p> . </p>
+	<center>
+	<iframe height="435px" width="100%" src="1/SK/10_SK_IMM/index.html" style="border:none"></iframe>
+	</center>
+    </div>
+
+    <div id="menu11" class="tab-pane fade">
+      <p> . </p>
+	<center>
+	<iframe height="435px" width="100%" src="1/SK/11_SK_IMM/index.html" style="border:none"></iframe>
+	</center>
+    </div>
+
+    <div id="menu12" class="tab-pane fade">
+      <p> . </p>
+	<center>
+	<iframe height="435px" width="100%" src="1/SK/12_SK_IMM/index.html" style="border:none"></iframe>
+	</center>
+    </div>
+
+    <div id="menu13" class="tab-pane fade">
+      <p> . </p>
+	<center>
+	<iframe height="435px" width="100%" src="1/SK/13_SK_IMM/index.html" style="border:none"></iframe>
+	</center>
+    </div>
+
+</div>
+</div>
+<br>
+
+<!---------------------------------------------------------------------------------------------------------------------------->
+  <div class="servisi">
+  <!--<h2>Вежбе</h2>-->
+  <p><b>2. Вежбе</b></p>
+  <br>
+<!--<ul class="nav nav-tabs">-->
+  <ul class="nav nav-pills">
+    <li class="active"><a data-toggle="tab" href="#homev">1</a></li>
+    <!--<li><a data-toggle="tab" href="#menu1">1</a></li>-->
+    <li><a data-toggle="tab" href="#menu2v">2</a></li>
+    <li><a data-toggle="tab" href="#menu3v">3</a></li>
+    <li><a data-toggle="tab" href="#menu4v">4</a></li>
+    <li><a data-toggle="tab" href="#menu5v">5</a></li>
+    <li><a data-toggle="tab" href="#menu6v">6</a></li>
+    <li><a data-toggle="tab" href="#menu7v">7</a></li>
+    <li><a data-toggle="tab" href="#menu8v">8</a></li>
+    <li><a data-toggle="tab" href="#menu9v">9</a></li>
+    <li><a data-toggle="tab" href="#menu10v">10</a></li>
+    <li><a data-toggle="tab" href="#menu11v">11</a></li>
+    <li><a data-toggle="tab" href="#menu12v">12</a></li>
+    <li><a data-toggle="tab" href="#menu13v">13</a></li>
+  </ul>
+
+  <div class="tab-content">
+    <div id="homev" class="tab-pane fade in active">
+    <p>Уводне напомене</p>
+<!--<iframe height="435px" width="100%" src="1/SK/SK_vezbe_2022/01_vezba_SK.html" target="_blank" style="border:none"></iframe>
+-->
+<iframe src="1/SK/SK_vezbe_2022/01_vezba_SK.pdf" toolbar="0" width="100%" height="500px" style="border:none"></iframe>
+<!--
+<a href="1/SK/SK_vezbe_2022/01_vezba_SK.html" target="_blank" width="100%" height="500px">SK_predispitni test</a>
+-->
+    </div>
+
+    <div id="menu2v" class="tab-pane fade">
+    <p> .</p>
+    <iframe src="1/SK/SK_vezbe_2022/02_vezba_SK.pdf" toolbar="0" width="100%" height="500px" style="border:none"></iframe>
+    </div>
+
+    <div id="menu3v" class="tab-pane fade">
+    <p> .</p>
+    <iframe src="1/SK/SK_vezbe_2022/03_vezba_SK.pdf" toolbar="0" width="100%" height="500px" style="border:none"></iframe>
+    </div>
+
+    <div id="menu4v" class="tab-pane fade">
+    <p> .</p>
+    <iframe src="1/SK/SK_vezbe_2022/04_vezba_SK.pdf" toolbar="0" width="100%" height="500px" style="border:none"></iframe>
+    </div>
+
+    <div id="menu5v" class="tab-pane fade">
+    <p> .</p>
+    <iframe src="1/SK/SK_vezbe_2022/05_vezba_SK.pdf" toolbar="0" width="100%" height="500px" style="border:none"></iframe>  
+    </div>
+
+    <div id="menu6v" class="tab-pane fade">
+    <p> .</p>
+    <iframe src="1/SK/SK_vezbe_2022/06_vezba_SK.pdf" toolbar="0" width="100%" height="500px" style="border:none"></iframe>
+    </div>
+
+    <div id="menu7v" class="tab-pane fade">
+    <p> .</p>
+    <iframe src="1/SK/SK_vezbe_2022/07_vezba_SK.pdf" toolbar="0" width="100%" height="500px" style="border:none"></iframe>
+    </div>
+
+    <div id="menu8v" class="tab-pane fade">
+    <p> .</p>
+    <iframe src="1/SK/SK_vezbe_2022/08_vezba_SK.pdf" toolbar="0" width="100%" height="500px" style="border:none"></iframe>
+    </div>
+
+    <div id="menu9v" class="tab-pane fade">
+    <p> .</p>
+    <iframe src="1/SK/SK_vezbe_2022/09_vezba_SK.pdf" toolbar="0" width="100%" height="500px" style="border:none"></iframe>
+    </div>
+
+    <div id="menu10v" class="tab-pane fade">
+    <p> .</p>
+    <iframe src="1/SK/SK_vezbe_2022/10_vezba_SK.pdf" toolbar="0" width="100%" height="500px" style="border:none"></iframe>
+    </div>
+
+    <div id="menu11v" class="tab-pane fade">
+    <p> .</p>
+    <iframe src="1/SK/SK_vezbe_2022/11_vezba_SK.pdf" toolbar="0" width="100%" height="500px" style="border:none"></iframe>
+    </div>
+
+    <div id="menu12v" class="tab-pane fade">
+    <p> .</p>
+    <iframe src="1/SK/SK_vezbe_2022/12_vezba_SK.pdf" toolbar="0" width="100%" height="500px" style="border:none"></iframe>
+    </div>
+
+    <div id="menu13v" class="tab-pane fade">
+    <p> .</p>
+    <li><a href="1/SK/SK_vezbe_2022/SK_predispitni_test.pdf" target="_blank" width="100%" height="500px">СК предиспитни тест.</a></li>
+    <li><a href="1/SK/SK_vezbe_2022/SK_resen_ispitni_rok.pdf" target="_blank" width="100%" height="500px">СК решен испитни рок.</a></li>
+    Блок настава:
+    <li><a href="1/SK/SK_vezbe_2022/SK_graficki_zadatak_2021.pdf" target="_blank" width="100%" height="500px">СК графички задатак_2021.</a></li>
+    </div>
+
+</div>
+</div>
+<!------------------------------------------------------------------------------------------------------------------------>
+<br>
+<br>
+<!--<div id="linija"></div>-->
+
+<!--------------------------- End intertube ---------------------------->
+
+</div>
+</div>
+
+<!------------------------------------------ ЛЕВИ СТУБАЦ --------------->
+<div id="leftcolumn">
+<div class="innertube">
+<div class="leftnav">
+<ul>
+	<li><a href="02_osnovne.html">Основне академске студије</a></li>
+	<li><a href="03_master.html">Мастер академске студије</a></li>
+	<li><a href="04_doktorske.html">Докторске академске студије</a></li>
+</ul>
+<!------------------------------------------------------------------->
+<br>
+<section>
+<img src="slike/osnovne.png"></a>
+</section>
+</br>
+<div class="small">Основне академске студије</div>
+<!----------------------------------------------------------------------->
+<p><h1>Статика конструкција</h1></p>
+<!-------------------------------------------------------------------------------->
+<!br>
+<!--<div class="container">-->
+<!--<div class="servisi">-->
+<!--<div class="btn-group">-->
+  <div class="btn-group">
+  <button type="button" class="btn btn-success dropdown-toggle" data-toggle="dropdown">Редовне студије.................................<span class="caret"></span></button>
+    <ul class="dropdown-menu" role="menu">
+      <li><a href="#">Предиспитне обавезе:</a></li>
+		<h3><ol>
+		<li><a href="#">предавања ... 10 поена</a></li>
+		<li><a href="#">вежбе ... 10 поена</a></li>
+		<li><a href="#">предиспитни тест ... 20 поена</a></li>
+		</ol>
+      <li><a href="#">Испитне обавезе:</a></li>
+		<ol>
+		<li><a href="#">писмени испит ... 30 поена</a></li>
+		<li><a href="#">усмени испит ... 30 поена</a></li>
+		</ol>
+    </ul></h3>
+  </div>
+<!br>
+<br>
+  <div class="btn-group">
+  <button type="button" class="btn btn-info dropdown-toggle" data-toggle="dropdown">Блок настава - студије уз рад...........<span class="caret"></span></button>
+    <ul class="dropdown-menu" role="menu">
+      <li><a href="#">Предиспитне обавезе:</a></li>
+		<ol>
+		<li><a href="#">предавања ... 5 поена</a></li>
+		<li><a href="#">вежбе ... 5 поена</a></li>
+		<li><a href="#">графички задатак ... 15 поена</a></li>
+		<li><a href="#">одбрана графичког <br>
+                               задатка ................... 15 поена</a></li>
+		</ol>
+      <li><a href="#">Испитне обавезе:</a></li>
+		<ol>
+		<li><a href="#">писмени испит ... 30 поена</a></li>
+		<li><a href="#">усмени испит ... 30 поена</a></li>
+		</ol>
+    </ul>
+  </div>
+<!br>
+<br>
+  <div class="btn-group">
+  <button type="button" class="btn btn-warning dropdown-toggle" data-toggle="dropdown">Наставници и сарадници..................<span class="caret"></span></button>
+    <ul class="dropdown-menu" role="menu">
+      <li><a href="#">наставник:</a></li>
+		<ol>
+		<li><a href="#">проф. др Илија М. МИЛИЧИЋ, дипл.инж.грађ.</a></li>
+		</ol>
+      <li><a href="#">сарадници:</a></li>
+		<ol>
+		<li><a href="#">доц. др Смиља БУРСАЋ, маст.инж.грађ.</a></li>
+		</ol>
+    </ul>
+  </div>
+<!--<div id="linija"></div>-->
+<!----------------------------------------------------------------------->
+<div class="servisi">
+  <!--<h2>Accordion Example</h2>-->
+  <!--<p> The data-parent attribute makes sure that all collapsible elements under the specified parent will be closed when one of the collapsible item is shown.</p>-->
+  <div class="panel-group" id="accordion">
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">1. Информације</a>
+        </h4>
+      </div>
+      <div id="collapse1" class="panel-collapse collapse in">
+      <div class="panel-body">
+
+<table style="height: 100%;" border="1" width="100%">
+<tbody>
+
+<tr>
+<td style="text-align: center; background-color: #eee;">Шифра предмета:</td>
+<td style="text-align: center; background-color: #eee;">Course Code:</td>
+</tr>
+
+<tr>
+<td style="text-align: center;">19.ГР1022</td>
+<td style="text-align: center;">19.GR1022</td></tr>
+</tr>
+
+<tr>
+<td style="text-align: center; background-color: #eee;">ЕСПБ кредит:</td>
+<td style="text-align: center; background-color: #eee;">ECTS Credits:</td>
+</tr>
+
+<tr>
+<td style="text-align: center;">6</td>
+<td style="text-align: center;">6</td>
+</tr>
+
+<tr>
+<td style="text-align: center; background-color: #eee;">Фонд часова:</td>
+<td style="text-align: center; background-color: #eee;">Number of hours:</td>
+</tr>
+
+<tr>
+<td style="text-align: center;">3+3</td>
+<td style="text-align: center;">3+3</td>
+</tr>
+
+</tbody>
+</table> 
+
+      </div>                  
+      </div>
+      </div>
+
+      <div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">2. Циљ предмета</a>
+        </h4>
+      </div>
+      <div id="collapse2" class="panel-collapse collapse">
+      <div class="panel-body">
+Теоријске основе и неопходна знања из области статике конструкција.
+      </div>
+      </div>
+      </div>
+
+      <div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">3. Исход предмета</a>
+        </h4>
+      </div>
+      <div id="collapse3" class="panel-collapse collapse">
+      <div class="panel-body">
+Реализација предвиђених циљева.
+      </div>
+      </div>
+      </div>
+
+      <div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" data-parent="#accordion" href="#collapse4">4. Садржај предмета</a>
+        </h4>
+      </div>
+      <div id="collapse4" class="panel-collapse collapse">
+      <div class="panel-body">
+Уводне напомене. Основне једначине техничке теорије савијања штапа. Основне непознате и основне једначине равних линијских носача и њихова класификација. Носачи који се састоје од једне круте плоче. Проста греда, конзола, греда са препустима. Носачи који се састоје од две и више кинематички крутих плоча. Решеткасти носачи. Метода чворова. Максвел – Кремонин план сила. Метода пресека. Аналитички изрази за силе у штаповима. Веза могућег равнотежног стања и могућег стања деформација. Теореме о узајамности. Деформација статички одређених носача. Одређивање генералисаних сила и генералисаних померања. Дијаграми померања статички одређених носача. Статичко – кинематичка аналогија штапа. Статичко – кинематичка аналогија носача. Основне предпоставке линеарне теорије (теорија првог реда). Систем диференцијалних једначина теорије првог реда. Статички одређени и статички неодређени штапови. Прорачун сила у пресецима. Метода сила – услови равнотеже носача. Статички неодређене величине. Основни систем. Метода сила – условне једначине за статички неодређене величине пуних и решеткастих ночаса у равни.      
+      </div>
+      </div>
+      </div>
+
+      <div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+      <a data-toggle="collapse" data-parent="#accordion" href="#collapse5">5. Обавештења</a>
+        </h4>
+      </div>
+      <div id="collapse5" class="panel-collapse collapse">
+      <div class="panel-body">
+06.01.2023. Обновљена страница предмета.
+      </div>
+      </div>
+      </div>
+<br>
+<!----------------------------------------------------------------------->
+<br>
+<p><b>Напомена:</b></p>
+<p> Прилози су у циљу едукације студената.</p>
+<br>
+<!----------------------------------------------------------------------->
+<!------------- Grafička metoda - "Povratak Džedaja" -------------------->                     
+		<iframe width="100%" height="150" src="https://www.youtube.com/embed/Z6b_bx-B37w" frameborder="0" allowfullscreen></iframe>
+		<div id="linija"></div>
+	        <p><b>IWSS2020:</b>
+                <p>3D Graphic Statics: Polyhedron-Based and Vector-Based Approaches</p>
+		<div id="linija"></div>
+<!------------- Grafička metoda - "Povratak Džedaja" -------------------->
+
+<!------------------------------------------------------------------->
+</div>
+</div> 
+<!--------------------------------------------------------------------------------->
+</div>
+</div>
+</div>
+</div>
+
+<!--------------------------------------- ДЕСНИ СТУБАЦ ----------------------------------------------->
+<div id="rightcolumn">
+<div class="innertube">
+<div id="linija"></div>	
+	<a target="_blank" href="https://www.eduroam.org/"><img src="img/eduroam.png"></a>
+	<div id="linija" /></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+<!--------------------------------------- End Wrapper -------------------------------------------------->
+
+<!div id="linija"></div>
+<div id="linija"></div>
+<div class="linija"></div>
+<footer>
+	<section>
+		<ul>
+	<li><a href="index.html">| Почетна</a> |</li>
+	<li><a href="01_biografija.html">Curriculum vitae</a> |</li>
+	<li><a href="02_osnovne.html">Поверена настава</a> |</li>
+	<li><a href="05_moja_istrazivanja.html">Моја истраживања</a> |</li>
+	<li><a href="06_mostovi.html">Мостови</a> |</li>
+	<li><a href="index.html#kontakt">Контакт</a> |</li>
+		</ul>
+	</section>
+
+	<section>	
+		<ul>
+	<li><a href="02_osnovne.html">| Основне академске студије</a> |</li>
+	<li><a href="03_master.html">Мастер академске студије</a> |</li>
+	<li><a href="04_doktorske.html">Докторске академске студије</a> |</li>
+	<li><a href="07_mentorstvo.html">Менторство</a> |</li>
+		</ul>
+	</section>	
+	<section>
+		<ul>
+	<li><a href="http://nastavnik.gf.uns.ac.rs/12sawst1r9v9ld12qhv6h1i4se4b/">| Наставнички</a> |</li>
+	<li><a href="http://athos.gf.uns.ac.rs/moodle/">E-learning</a> |</li>
+	<li><a href="http://webmail.gf.uns.ac.rs/">Webmail</a> |</li> 
+	<li><a href="http://www.gf.uns.ac.rs/~zbornik/">Зборник радова Грађевинског факултета |</a></li>	
+		</ul>
+	</section>
+
+<section>&nbsp;</section>
+
+<section><a href="http://www.gf.uns.ac.rs/">www.gf.uns.ac.rs</a></section>
+</footer>	
+<div class="linija"></div>
+<a href="#" class="to_top"></a>
+<script>
+jQuery(document).ready(function() {
+    var offset = 220;
+    var duration = 500;
+    jQuery(window).scroll(function() {
+        if (jQuery(this).scrollTop() > offset) {
+            jQuery('.to_top').fadeIn(duration);
+        } else {
+            jQuery('.to_top').fadeOut(duration);
+        }
+    });
+    
+    jQuery('.to_top').click(function(event) {
+        event.preventDefault();
+        jQuery('html, body').animate({scrollTop: 0}, duration);
+        return false;
+    })
+});
+</script>
+</body>
+</html>

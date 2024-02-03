@@ -1,0 +1,1697 @@
+﻿<!DOCTYPE html> 
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+
+<![endif]-->
+<meta name="description" content="Građevinski fakultet Subotica">
+<meta name="keywords" content="Илија, Миличић, fakultet, građevinski, Subotica, univerzitet, Novi Sad, upis, Faculty of Civil Engineering, International Conference">
+<meta name="author" content="Илија Миличић">
+<title>Илија М. МИЛИЧИЋ</title>
+<link rel="shortcut icon" href="img/ilija.ico" type="image/x-icon">
+<!------------------------------------------------------------------------------------------------------------------->
+<!-- Styles -->
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+<link href="css/style.css" rel="stylesheet" type="text/css" media="all">
+<link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />
+
+<!-- Scripts -->
+<script type='text/javascript' src='js/jquery.min.js'></script>
+<script type='text/javascript' src='js/menu.js'></script>
+<script type="text/javascript" src="js/jquery.flexslider-min.js"></script>
+
+<script type="text/javascript">
+ $(window).load(function() {
+    $('.flexslider').flexslider({
+      animation: "fade",
+      controlsContainer: ".flex-container", 
+	  controlNav: true,
+	  slideshowSpeed: 8000, 
+	  animationLoop: true,
+	  pauseOnAction: true,   
+	  pauseOnHover: true,
+	   start: function(slider) {
+         // animate your caption ... 
+         // find the item that is the current slide's .slidecaption and animate it
+         $('.flex-active-slide').find('.flex-caption').css("display", "block");
+		  $('ul#menu').hover(
+		  function(){
+            slider.pause();        
+			}
+		);
+        },
+	  before: function(slider) {
+         // animate your caption ... 
+         // find the item that is the current slide's .slidecaption and animate it
+         $('.flex-active-slide').find('.flex-caption').css("display", "none");        
+    }, 
+        after: function(slider) {
+         // animate your caption ... 
+         // find the item that is the current slide's .slidecaption and animate it	 
+         $('.flex-active-slide').find('.flex-caption').fadeIn("400");
+      }
+    });  
+});
+</script>
+<!------------------------------------------------------------------------------------------------------------------>
+<style>
+hr { 
+    display: block;
+    margin-top: 0.1em;
+    margin-bottom: 0.1em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 0.5px;
+}
+</style>
+<!------------------------------------------------------------------------------------------------------------------->
+</head>
+<!--------------------------------------------------------- Body ---------------------------------------------------->
+<table>
+<tbody>
+<tr>
+<td><img src="img/uns.png" alt="Smiley face" height="50" width="50"></td>
+<td> UNIVERSITY OF NOVI SAD <hr /></div> УНИВЕРЗИТЕТ У НОВОМ САДУ </td>
+</tr>
+</tbody>
+</table>
+
+<div id="linija"></div>
+<table style="width:100%">
+  	<tr>
+   	<th style="background-color: #FFFFFF;">
+    <center><img src="img/ilija.jpg" class="img" height="115" width="109" alt="praksa" /></center></th>
+    <td style="background-color: #FFFFFF;" rowspan="1"><h1 id="ime">проф. др <b>Илија М. МИЛИЧИЋ</b></h1>ВАНРЕДНИ ПРОФЕСОР УНИВЕРЗИТЕТА У НОВОМ САДУ
+	<hr /></div>
+	Катедрa за инжењерску механику
+	<br>шеф Катедре за инжењерску механику (2016-2022)</td>
+</tr>
+</table>
+
+<div id="linija"></div>
+<ul id="jezik">
+	<li><a href="#">ћир</a></li>
+	<li><a href="#">lat</a></li>
+	<li><a href="#">eng</a></li>
+	</ul>
+<!------------------------------------- ГЛАВНИ МЕНИ ----------------------------------------------------------------->
+<div id="linija"></div>
+<nav id="glavni_meni">
+<ul id="glavni">
+    <li><a href="index.html"><img src="img/home.png" alt="kucica" /></a></li>
+    <li><a href="01_biografija.html">Curriculum vitae</a></li>
+    <li><a href="02_osnovne.html">Поверена настава</a></li>
+    <li><a href="05_moja_istrazivanja.html">Моја истраживања</a></li>
+    <li><a href="06_mostovi.html">Мостови</a></li>
+    <li><a href="index.html#kontakt">Контакт</a></li>
+<!------<li><a href="https://plus.google.com/u/0/100868037933547941108/posts"> <p><span style="color: #0000ff;">G</span><span style="color: #ff0000;">o</span><span style="color: #ffcc00;">o</span><span style="color: #0000ff;">g</span><span style="color: #008000;">l</span><span style="color: #ff0000;">e</span>+</p></a></li>
+</ul>------->
+    <li><a href="https://classroom.google.com/h"> <p><span style="color: #0000ff;">G</span><span style="color: #ff0000;">o</span><span style="color: #ffcc00;">o</span><span style="color: #0000ff;">g</span><span style="color: #008000;">l</span><span style="color: #ff0000;">e</span> Classroom</p></a></li>
+</ul>
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------- ПЛУТАЈУЋИ МЕНИ -------------------------------------------------------->
+<div class="flip"><img src="img/home.png" alt="kucica" /> Мени</div>
+<div id='glavni2'>
+<ul>
+<li><a href="index.html">Почетна страна</a></li>
+<li class='active has-sub'><a href='#'><span>Curriculum vitae</span></a>
+  <ul>
+  <li><a href="01_biografija.html">Биографија</a></li>
+  <li><a href="01_1_radovi.html">Научни рад</a></li>
+  <li><a href="01_2_radovi.html">Стручни рад</a></li>
+  <li><a href="01_3_recenzije.html">Рецензије</a></li>
+  <li><a href="01_4_uredjivanje.html">Уређивање часописа</a></li>
+  </ul>
+</li>
+<li class='active has-sub'><a href='#'><span>Поверена настава</span></a>
+  <ul>
+  <li><a href="02_osnovne.html">Основне академске студије</a></li>
+  <li><a href="03_master.html">Мастер академске студије</a></li>
+  <li><a href="04_doktorske.html">Докторске академске студије</a></li>
+  </ul>
+</li>
+<li class='active has-sub'><a href='#'><span>Моја истраживања</span></a>
+  <ul>
+  <li><a href="05_moja_istrazivanja.html">Магистарски рад</a></li>
+  <li><a href="05_2_moja_istrazivanja.html">Докторска дисертација</a></li>
+  <li><a href="05_3_moja_istrazivanja.html">Етно-еко-пасивна кућа</a></li>
+  </ul>
+</li>
+<li><a href="06_mostovi.html">Мостови</a></li>
+<li><a href="07_mentorstvo.html">Менторство</a></li>
+<li><a href='index.html#kontakt'><span><p>Контакт</p></span></a></li>
+<li class='last'><a href="https://classroom.google.com/h"><p><span style="color: #0000ff;">G</span><span style="color: #ff0000;">o</span><span style="color: #ffcc00;">o</span><span style="color: #0000ff;">g</span><span style="color: #008000;">l</span><span style="color: #ff0000;">e</span> Classroom</p></a></li>
+</ul>
+</div>
+</nav>
+<div class="clear"></div>
+<div id="linija"></div>
+<div class="clear" /></div>
+<!----------------------------------------- End plutajući meni ------------------------------------------------------>
+<!-------------------------------------------------- End Menu ------------------------------------------------------->
+
+<!----------------------------------------------- СРЕДЊИ ДЕО -------------------------------------------------------->
+<div id="maincontainer">
+<div id="contentwrapper">
+<div id="contentcolumn">
+<div class="innertube">
+</div>
+
+<section>
+<h1  id="Наслов">Микро и макро механичко моделирање материјала</h1>
+</section>
+<br>
+<section>
+<h1  id="Сепарат 1">Сепарат 1</h1>
+</section>
+<!-------------------------------------------------------------------->     
+    <div style="background-color:MidnightBlue ;color:white;padding:20px;">
+    <h2>Rezime</h2>
+    <p>U radu se posebna pažnja poklanja inženjerskom pristupu računskim modelima namenjenih modeliranju građevinskih materijala i konstrukcija sa posebnim osvrtom na interakciju baznih parametara. Definišu se i klasifikuju inženjerski modeli sa mikro i makro gledišta. Na taj način se "alat" za konstruktersko rešavanje problema dopunjuje sa primenom prisutnih novih tehničkih rešenja – informacioni tehnologija. Tom prilikom nametnut je jednostavniji način sporazumevanja u inženjerskom konstrukterstvu, sa gledišta predmeta, cilja i metoda istraživanja.</p>
+    <h2>Summary</h2>
+    <p>This paper specific solicitous engineering accept calculations models assigned to design engineering materiel and structures by detached retrospective view with interaction based parameter. Defined and classified engineering models of micro and macro point of view. At that mode "Tools" for civil engineering conclusion problem adding with by using attendance new technical report – Information technology. This occasionally superimposing is plain living apprehension of civil engineering with aspect theme, target and investigation method.</p>
+    </div>  
+    <iframe height="570px" width="100%" src="1/MMMMM/2006_9_DQM/index.html" style="border:none" allowfullscreen></iframe>
+<!-------------------------------------------------------------------->
+<br>  
+<br>
+<br>
+<section>
+<h1  id="Сепарат 2">Сепарат 2</h1>
+</section>
+<!-----------------------------почетак хоризонталног менија--------------------------------------->
+ <div class="servisi">
+ <ul class="nav nav-tabs">
+<!--<ul class="nav nav-pills">-->
+    <li class="active"><a data-toggle="tab" href="#home-2c">1</a></li>
+    <li><a data-toggle="tab" href="#menu2-2c">2</a></li>
+    <li><a data-toggle="tab" href="#menu2-3c">3</a></li>
+    </ul>
+
+  <div class="tab-content">
+    <div id="home-2c" class="tab-pane fade in active">
+<!--<p>Уводне напомене</p>-->
+  <br>
+<!-------------------------------------------------------------------->
+    <iframe height="570px" width="100%" src="1/MMMMM/Reologija_seminarski/index.html" style="border:none"allowfullscreen></iframe>
+    <div id="linija"></div>
+    <b>ИММ</b>: Реологија материјала - семинарски рад |1998|.
+    <div id="linija"></div>
+<!-------------------------------------------------------------------->         
+    </div>
+
+    <div id="menu2-2c" class="tab-pane fade">
+<!--<p> Prilog 2. </p>-->
+    <br>
+<!-------------------------------------------------------------------->
+    <iframe width="100%" height="377" src="https://www.youtube.com/embed/R6nl556c4B8" title="YouTube video player" frameborder="0"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                    
+    <div id="linija"></div>
+    <p><b>Instron</b>: Instron® | Understanding Strain Rate to ISO 6892-1 and ASTM E8. |05:45|</p>
+    <div id="linija"></div>
+<!-------------------------------------------------------------------->
+    </div>
+
+    <div id="menu2-3c" class="tab-pane fade">
+<!--<p> Prilog 3. </p>-->
+    <br>
+<!-------------------------------------------------------------------->
+    <iframe width="100%" height="377" src="https://www.youtube.com/embed/ms5NWISYkX4" title="Take a Closer Look at Fatigue & Fracture:  Basic Tensile Test" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+    <div id="linija"></div>
+    <p><b>MTS Systems</b>: Take a Closer Look at Fatigue & Fracture: Basic Tensile Test |01:42|</p>
+    <div id="linija"></div>    
+<!-------------------------------------------------------------------->
+    </div>
+</div>
+</div>
+<!------------------------------крај хоризонталног менија------------------------------------------------------------>
+<br>        
+<br>
+<section>
+<h1  id="Сепарат 3">Сепарат 3</h1>
+</section>
+<!-----------------------------почетак хоризонталног менија---------------------------------------------------------->
+    <div class="servisi">
+    <ul class="nav nav-tabs">
+<!--<ul class="nav nav-pills">-->
+    <li class="active"><a data-toggle="tab" href="#home-3">1</a></li>
+    <li><a data-toggle="tab" href="#menu2-3">2</a></li>
+    </ul>
+
+    <div class="tab-content">
+    <div id="home-3" class="tab-pane fade in active">
+<!--<p>Уводне напомене</p>-->
+  <br>
+<!-------------------------------------------------------------------->     
+	<center>
+	<iframe width="100%" height="377" src="https://www.youtube.com/embed/0ORGlPAGA8Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</center>
+	<div id="linija"></div>
+    <p><b>Instron</b>: Mechanical Testing of Additive Manufactured Materials & Components. |02:52|</p>
+    <div id="linija"></div>
+<!-------------------------------------------------------------------->         
+    </div>
+
+    <div id="menu2-3" class="tab-pane fade">
+<!--<p> Prilog 2. </p>-->
+    <br>
+<!--------------------------------------------------------------------> 
+    <iframe width="100%" height="377" src="https://www.youtube.com/embed/TsR4ZQrGsTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	
+	<div id="linija"></div>
+    <p><b>Instron</b>: Instron® AVE 2 Non-Contacting Video Extensometer.(30.3.2022.) |01:52|</p>
+    <div id="linija"></div>    
+<!-------------------------------------------------------------------->
+    </div>
+</div>
+</div>
+<!------------------------------крај хоризонталног менија----------------------------------------------------------->
+               
+<br>
+<br>
+<section>
+  <h1  id="Сепарат 4">Сепарат 4</h1>
+  </section>
+<!----------------почетак хоризонталног менија---------------------------->
+ <div class="servisi">
+ <ul class="nav nav-tabs">
+<!--<ul class="nav nav-pills">-->
+    <li class="active"><a data-toggle="tab" href="#homea">1</a></li>
+    <li><a data-toggle="tab" href="#menu2a">2</a></li>
+    <li><a data-toggle="tab" href="#menu3a">Белешка</a></li>
+    </ul>
+
+  <div class="tab-content">
+    <div id="homea" class="tab-pane fade in active">
+<!--<p>Уводне напомене</p>-->
+  <br>
+<!---------------------------------------------------------------------->     
+    <div style="background-color:MidnightBlue ;color:white;padding:20px;">
+    <h2>Резиме</h2>
+    <p>Материјал је настао као резултат истраживања из предмета Нумеричка анализа у оквиру Магистарских студија са циљем да се рачунарским моделирањем и симулацијама потврде одређена својства материјала под дејством оптерећења у времену.</p>
+    </div>  
+    <iframe height="570px" width="100%" src="1/MMMMM/Numericka_seminarski/index.html" style="border:none"allowfullscreen></iframe>
+<!-------------------------------------------------------------------->         
+    </div>
+
+    <div id="menu2a" class="tab-pane fade">
+<!--<p> Prilog 2. </p>-->
+    <br>
+<!------------------------------------------------------------------->     
+	<iframe width="100%" height="377" src="https://www.youtube.com/embed/tuOlM3P7ygA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<div id="linija"></div>
+    <p><b>The Efficient Engineer</b>: Understanding Poisson's Ratio. (10.4.2019.) |09:46|</p>
+    <div id="linija"></div>
+<!-------------------------------------------------------------------> 
+    </div>
+
+
+    <div id="menu3a" class="tab-pane fade">
+    <p> 16.IV.2022. godine</p>
+    <br>
+    <h3>
+<!--------------------------------------------------------------------> 
+<div id="linija"></div>
+<p><b>Naučna rasprava </b> sa studentom doktorskih studija u vezi Poasonovog koeficijenta (Poisson`s ratio)</p>
+<div id="linija"></div>
+<br>
+<p>Ako, zamislimo "asfalt kada oščvršćava-asfaltiramo put" da će se ta mešavina prvo ponašati kao viskoelastični materijal 
+(da li kao elastičan...?) jako je važno da se odgovori na nekoliko meni mogućih "ili prvih ili trenutno najbitnijih" 
+sada pitanja (modul "E" neka bude u senci istraživanja), i njih pišem redom:</p>
+<br>
+<ol>
+<li>da li se može uzeti da su Poasonovi koeficijenti (koeficijent) u viskoelastičnosti konstantni?</li>
+<li>da li su oni ili on uvek funkcija vremena?</li>
+<li>ako ih i usvojimo da su konstantni, pod kojim uslovima to važi?</li>
+<li>ako nisu konstantni, kakvi su matematički modeli-zakonitosti ili analitički izrazi takvih modela "ipak ću reći" vremenski zavisnih funkcija?</li>
+<li>ako su i konstante da li su Poasonovi koeficijenti međusobno jednaki, pri relaksaciji napona i pri viskoznom tečenju?</li>
+<li>da li su Poasonovi koeficijenti uvek pozitivni?</li>
+<p>(neću više da nabrajam, a imam ih još malo...)</p>
+</ol>
+
+<p>S druge strane,<br>
+ako tvrdimo da su Poasonovi koeficijenti vremenski nezavisni, odnosno, definitivno kažemo da su konstantni 
+Poasonovi koeficijenti, oni to mogu da budu samo pri ovim i to opet određenim uslovima:
+<ol>
+<li>da su naponi i deformacije funkcije dve nezavisne, vremenske i prostorne promenljive,</li>
+<li>da se "moduli" relaksacije pri zatezanju i smicanju, kao i zapreminski moduli, napisani pomoću istih vremenskih funkcija. (kod nas je pritisak u pitanju ?)</li>
+</ol>
+ 
+<p>Inače,<br>
+za drugačije uslove, Poasonovi koeficijenti zavise od vremena, i ta zavisnost se mora konkretno definisati, 
+odrediti--napisati (kako god eksperimentalno--teorijski pristupom nađeni).
+<p>Da se zna, konstantne Poasonove koeficijente koristimo samo radi pojednostavljenja u obimnim našim statičkim (pa i dinamičkim - ja nisam za to) metodama proračuna uticaja u nosačima, dok moji (drvo, čelik, kompozitni materijal prirodnog porekla) i mnogobrojni eksperimenti drugih istraživača za realne materijale pokazuju, da, u izrazima za Poasonove koeficijente, postoje specifične funkcionalne vremenske zavisnosti. Oblik takvih vremenskih zavisnih funkcija, koje pokazuju promenu Poasonovog koeficijenta (pazi šta će biti ako ih imamo više, a imamo) tokom vremena, zavise od usvajanja i sprovođenja opita pri testiranju, pogotovo uslova u kojima se sprovodi celokupan eksperiment (ovo se sve piše decidno i ne dvosmisleno u Programu svakog sveobuhvatno vođenog pojedinačnog ili serijskog ali uvek kao ponaosob eksperimenta).
+
+Ovde kod nas,
+samo za jednu "makro" komponentu materijala koju zovemo polimerom (bitumen), odnosno ako asfalt (bitumen+agregat) 
+razumemo kao "recimo izrazito" viskoelastičan materijal, karakteristično je da se za testove relaksacije napona i 
+viskoznog tečenja dobijaju različite vremenske zavisnosti upravo za Poasonove koeficijente, to tvrde 
+(Lakes, 1992., Hilton, 2001., Lakes, 2009.), i još neki pa i naši istraživači da ih ne brojim.</p>
+<br>
+ 
+<li><a href="1/MMMMM/Poason/s2.0-S002076831730063X-main.pdf" target="_blank">Menitorna referenca publikovana, 2017. godine</a></li>
+<li><a href="https://ascelibrary.org/doi/epdf/10.1061/9780784479346.145" target="_blank">Menitorna referenca publikovana, 2015. godine</a> <a href="1/MMMMM/Poason/aili2015.pdf" target="_blank">, ili.........(pdf)</a></li>
+</li>
+<!--https://ascelibrary.org/doi/epdf/10.1061/9780784479346.145-->
+<div id="linija"></div>
+</h3>      
+<!-------------------------------------------------------------------->
+    </div>
+
+</div>
+</div>
+<!------------------------------крај хоризонталног менија----------------------------------------------------------->
+<br>
+<br>
+
+  <section>
+  <h1  id="Сепарат 5">Сепарат 5</h1>
+  </section>
+  <div style="background-color:MidnightBlue ;color:white;padding:20px;">
+  <h2>Резиме</h2>
+  <p>У раду се анализира одзив бетонске призме (Hirtst and Neville, 1997) за аплицирани линеарни темпо наношења оптерећења у времену по теорији реолошко - динамичке аналогије (РДА). Симулација одзива бетонске призме изведена је по динамичкој аналогији са реолошким виско-еласто-пластичним моделом (Д.Д. Милашиновић, 1996). Ток симулације са познатом функцијом оптерећења у времену по РДА описује стање понашања материјала као еластично, виско-еластично и виско-пластично. Потврђује се да притисна чврстоћа бетонске призме зависи од брзине наношења оптерећења.</p>
+  <h2>Abstract</h2>
+  <p>The paper is concerned with a new proposal regarding the analysis of visco-elasto-plasticity of concrete and is based on rheological - dynamic analogy (RDA) (Milašinović, 1996). Due to the analogy between rheological model and dynamic model with viscous damping, it become obvious that inelastic response of members is essentialy a dynamical problem. For the effect of rate of stress, and rate of strain on the basic creep, the data of Hirtst and Neville (1997) are used for their comparison with the numerical RDA results.</p>
+  </div>
+  <iframe height="570px" width="100%" src="1/MMMMM/2005_ZR_GFS_14/index.html" style="border:none" allowfullscreen></iframe>
+<br>
+<br>
+<br>
+
+  <section>
+  <h1  id="Сепарат 6">Сепарат 6</h1>
+  </section>
+<!-----------------------------почетак хоризонталног менија--------------------------------------------------------->
+ <div class="servisi">
+ <ul class="nav nav-tabs">
+<!--<ul class="nav nav-pills">-->
+    <li class="active"><a data-toggle="tab" href="#home">1</a></li>
+    <li><a data-toggle="tab" href="#menu2">2</a></li>
+    <li><a data-toggle="tab" href="#menu3">3</a></li>
+    <li><a data-toggle="tab" href="#menu4">4</a></li>
+  </ul>
+
+  <div class="tab-content">
+    <div id="home" class="tab-pane fade in active">
+<!--<p>Уводне напомене</p>-->
+  <br>
+<!-------------------------------------------------------------------->     
+    <div style="background-color:MidnightBlue ;color:white;padding:20px;">
+    <h2>Rezime</h2>
+    <p>U radu se pomoću reološkog modela (D.D. Milašinović, 1996) analizira izvijanje čeličnih štapova po reološko-dinamičkoj analogiji (RDA) u području pre i posle tačke proporcionalnosti. Pokazano je da je kritični napon izvijanja u oblasti elastičnosti saglasan sa Euler-ovim kritičnim naponom, a da se posle granice proporcionalnosti rezultati proračuna dobro slažu sa rezultatima dobijenih na osnovu teorije tangentnog modula.</p>
+    <h2>Abstract</h2>
+    <p>The paper deals with the buckling problem of steel columns using by rheological-dynamic analogy (RDA). The analogy exist between a new rheological model and dynamical model with viscous damping. Due to the analogy, it becomes obvious that inelastic response of engineering structures is essentially a dynamical problem. Using the examples of typical columns, it has been demonstrated that results obtained by RDA are in good accordance with those available in cited references.</p>
+    </div>
+    <iframe height="570px" width="100%" src="1/MMMMM/2003_MiK_IMM/index.html" style="border:none" allowfullscreen></iframe>
+<!-------------------------------------------------------------------->         
+    </div>
+
+    <div id="menu2" class="tab-pane fade">
+<!--<p> Prilog 2. </p>-->
+    <br>
+<!--------------------------------------------------------------------> 
+	<iframe width="100%" height="380" src="https://www.youtube.com/embed/fdeTUe30pkI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	
+	<div id="linija"></div>
+	<p><b>Chris Martin:</b> Thermally Induced Lateral Buckling of Subsea Pipelines - Oxford Engineering (8. 8. 2019.) |28:58|</p>
+    <div id="linija"></div>       
+<!-------------------------------------------------------------------->
+    </div>
+
+    <div id="menu3" class="tab-pane fade">
+<!--<p> Prilog 3. </p>-->
+    <br>
+<!------------------------------------------------------------------->     
+	<iframe width="100%" height="380" src="https://www.youtube.com/embed/21G7LA2DcGQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<div id="linija"></div>
+	<p><b>The Efficient Engineer:</b> Understanding Buckling (17.8.2021.) |14:49|</p>
+    <div id="linija"></div> 
+<!-------------------------------------------------------------------> 
+    </div>
+
+    <div id="menu4" class="tab-pane fade">
+<!--<p> Prilog 4. </p>-->
+<br>
+<!-------------------------------------------------------------------> 
+    <iframe width="100%" height="380" src="https://www.youtube.com/embed/p9qrHdPEe28" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div id="linija"></div>
+    <p><b>Physics Videos by Eugene Khutoryansky:</b> Stability Analysis, State Space - 3D visualization. |24:48|  </p>
+    <div id="linija"></div>
+<!------------------------------------------------------------------->
+   </div>
+
+</div>
+</div>
+<!------------------------------крај хоризонталног менија------------------------------------------------------->    
+<br>
+<br>
+<section>
+  <h1  id="Сепарат 7">Сепарат 7</h1>
+</section>
+    <div style="background-color:MidnightBlue ;color:white;padding:20px;">
+    <h2>Резиме</h2>
+    <p> Термичка формулација на примеру једног научног рада са нагласком на коришћење електричног система намењеног топљењу снега при заштити асфалтних коловоза од пуцања при ниским температурама.</p>
+    </div>
+    <div id="linija"></div>
+    <p><b> Quentin Felix Adam, Eyal Levenberg, Thomas Ingeman-Nielsen</b>: Utilizing an electric snow-melting system to protect asphalt pavements against low-temperature cracking, Denmark Technical University, Denmark.</p>
+    <div id="linija"></div>   
+    <center>
+    <iframe width="100%" height="377px" src="https://www.youtube.com/embed/uB6fhTbr4Ts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>      
+    </center>
+    <div id="linija"></div>     
+<br>
+<br>
+<section>
+<h1  id="Сепарат 8: семинарски рад">Сепарат 8: семинарски рад</h1>
+</section>
+<!-----------------------------почетак хоризонталног менија------------------------------------------------------->
+ <div class="servisi">
+ <ul class="nav nav-tabs">
+<!--<ul class="nav nav-pills">-->
+    <li class="active"><a data-toggle="tab" href="#home8">1</a></li>
+    <li><a data-toggle="tab" href="#menu28">2</a></li>
+    <li><a data-toggle="tab" href="#menu38">3</a></li>
+    <li><a data-toggle="tab" href="#menu48">4</a></li>
+  </ul>
+
+  <div class="tab-content">
+    <div id="home8" class="tab-pane fade in active">
+<!--<p>Уводне напомене</p>-->
+  <br>
+<!-------------------------------------------------------------------->     
+    <div style="background-color:MidnightBlue ;color:white;padding:20px;">
+    <h2>Резиме</h2>
+    <p>Угледни пример једног студијског истраживачког рада на докторским академским студијама.</p>
+    </div>
+    <iframe height="570px" width="100%" src="1/MMMMM/2020_DAS_Nemanja/index.html" style="border:none" allowfullscreen></iframe>     
+<!-------------------------------------------------------------------->         
+    </div>
+
+    <div id="menu28" class="tab-pane fade">
+<!--<p> Prilog 2. </p>-->
+    <br>
+<!-------------------------------------------------------------------->
+    <iframe width="100%" height="380" src="https://www.youtube.com/embed/O15fWvU-_BA" title="Abaqus shear test tutorial 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 	
+	<div id="linija"></div>
+	<p><b>최흥재:</b> Abaqus shear test tutorial 1 |10:00|</p>
+    <div id="linija"></div>       
+<!-------------------------------------------------------------------->
+    </div>
+
+    <div id="menu38" class="tab-pane fade">
+<!--<p> Prilog 3. </p>-->
+    <br>
+<!------------------------------------------------------------------->
+    <iframe width="100%" height="380" src="https://www.youtube.com/embed/OXtAePQD-O4" title="Abaqus shear test tutorial 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>     
+	<div id="linija"></div>
+	<p><b>최흥재:</b> Abaqus shear test tutorial 2 |05:09|</p>
+    <div id="linija"></div> 
+<!-------------------------------------------------------------------> 
+    </div>
+
+    <div id="menu48" class="tab-pane fade">
+<!--<p> Prilog 4. </p>-->
+<br>
+<!------------------------------------------------------------------->
+	<iframe width="100%" height="380" src="https://www.youtube.com/embed/RNgeTUI6gBE" title="Abaqus shear test tutorial 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+	<div id="linija"></div>
+	<p><b>최흥재:</b> Abaqus shear test tutorial 3 |01:15|</p>
+	<div id="linija"></div>
+<!------------------------------------------------------------------->
+   </div>
+
+</div>
+</div>
+<!------------------------------крај хоризонталног менија-------------------------------------->
+<br>
+<br>
+
+<section>
+<h1  id="Сепарат 9: тема за истраживања">Сепарат 9: Актуелни проблеми за истраживање</h1>
+</section>
+<!-----------------------------почетак хоризонталног менија--------------------------------------->
+ <div class="servisi">
+ <ul class="nav nav-tabs">
+<!--<ul class="nav nav-pills">-->
+    <li class="active"><a data-toggle="tab" href="#home9">1</a></li>
+    <li><a data-toggle="tab" href="#menu29">2</a></li>
+    <li><a data-toggle="tab" href="#menu39">3</a></li>
+    <li><a data-toggle="tab" href="#menu49">4</a></li>
+    <li><a data-toggle="tab" href="#menu59">5</a></li>
+    <li><a data-toggle="tab" href="#menu69">6</a></li>
+    <li><a data-toggle="tab" href="#menu79">7</a></li>
+    <li><a data-toggle="tab" href="#menu89">CDOT-CMOD</a></li>
+    <li><a data-toggle="tab" href="#menu99">8</a></li>
+    <li><a data-toggle="tab" href="#menu109">9</a></li>
+    <li><a data-toggle="tab" href="#menu119">Белешка</a></li>
+  </ul>
+
+  <div class="tab-content">
+    <div id="home9" class="tab-pane fade in active">
+<p>Експеримент - Experiment</p>
+<!-----------------------видео---------------------------------------->
+    <iframe width="100%" height="380" src="https://www.youtube.com/embed/ms46abaxTuQ" title="ASTM E399 Fracture Toughness Test with ZwickRoell Vibrophore" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>                            
+    <div id="linija"></div>
+    <p><b>ZwickRoellTV</b>: ASTM E399 Fracture Toughness Test with ZwickRoell Vibrophore|01:45|</p>
+    <div id="linija"></div>                 
+<!---------------------- крај-видео---------------------------------------->
+<!-----------------------видео-------------------------------
+    <iframe width="100%" height="380" src="https://www.youtube.com/embed/IRKCGSXSpDI" title="Fracture Mechanics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>	                                       
+    <div id="linija"></div>
+    <p><b>Egon Rolf Delgado Ramírez</b>: Fracture Mechanics |01:35|</p>
+    <div id="linija"></div>                 
+------------------- крај-видео---------------------------------------->
+<br>
+<p>Теорија - Theory</p>
+<!-----------------------видео---------------------------------------->
+     <iframe width="100%" height="380" src="https://www.youtube.com/embed/2uIs7G_GB2Q" title="simulation of crack propagation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>		                                       
+     <div id="linija"></div>
+     <p><b>Xiangxiong Kong</b>: Simulation of crack propagation |00:32|</p>
+     <div id="linija"></div>                 
+<!---------------------- крај-видео----------------------------------->         
+    </div>
+
+    <div id="menu29" class="tab-pane fade">
+    <p>Експеримент - Experiment</p>
+<!------------------------------------------------------------------->
+    <iframe width="100%" height="380" src="https://www.youtube.com/embed/Bgsi3AK1ju4" title="Take a Closer Look at Fatigue and Fracture:  Fatigue Crack Growth Test" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <div id="linija"></div>
+    <p><b>MTS Systems:</b> Take a Closer Look at Fatigue and Fracture: Fatigue Crack Growth Test |01:23|  </p>
+    <div id="linija"></div>
+<!------------------------------------------------------------------->
+<br>
+    <p>Теорија - Theory</p>
+<!------------------------------------------------------------------->
+    <iframe width="100%" height="380" src="https://www.youtube.com/embed/qnIyqAwrQDk" title="#Compact_Tension #Specimen  part 1 :#XFEM #Crack Growth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+    <div id="linija"></div>
+    <p><b>ABAQUS SIMULATION:</b> #Compact_Tension #Specimen part 1 :#XFEM #Crack Growth |14:28|  </p>
+    <div id="linija"></div>
+<!------------------------------------------------------------------->
+   </div>
+
+    <div id="menu39" class="tab-pane fade">
+<!--<p> Prilog 3. </p>-->
+    <br>
+<!------------------------------------------------------------------->
+    <iframe width="100%" height="377" src="https://www.youtube.com/embed/R7mPImKJbRg" title="Compact_Tension Specimen  part 2 :#Stress Intensity Factor(#XFEM+#COUNTOUR INTEGRAL)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <div id="linija"></div>
+    <p><b>ABAQUS SIMULATION:</b> Compact_Tension Specimen part 2 :Stress Intensity Factor(XFEM+COUNTOUR INTEGRAL) |13:58|</p>
+    <div id="linija"></div>
+<!------------------------------------------------------------------->
+<br>
+<!------------------------------------------------------------------->
+    <iframe width="100%" height="380" src="https://www.youtube.com/embed/K-oSE8QN2Kg?list=PLUuvboik46U4dU7QounThJNxtNOlQz0pT" title="2D CT specimen stress intensity factor analysis using abaqus #2 : elastic plastic analysis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <div id="linija"></div>
+    <p><b>ABAQUS SIMULATION:</b> 2D CT specimen stress intensity factor analysis using abaqus #2 : elastic plastic analysis |05:28|  </p>
+    <div id="linija"></div>
+<!------------------------------------------------------------------->
+    </div>
+
+    <div id="menu49" class="tab-pane fade">
+<!--<p> Prilog 4. </p>-->
+    <br>
+<!------------------------------------------------------------------->
+    <iframe width="100%" height="380" src="https://www.youtube.com/embed/ty0WE6SMKFQ" title="3D CT specimen #XFEM #crack growth using #abaqus" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <div id="linija"></div>
+    <p><b>Аbaqus tutorials:</b> 3D CT specimen #XFEM #crack growth using #abaqus |16:52|  </p>
+    <div id="linija"></div>
+<!------------------------------------------------------------------->
+    </div>
+
+    <div id="menu59" class="tab-pane fade">
+<!--<p> Prilog 5. </p>-->
+    <br>
+<!------------------------------------------------------------------->
+    <div id="linija"></div>
+    <iframe width="100%" height="380" src="https://www.youtube.com/embed/M5F7UUESydU" title="Lecture - Fracture Toughness" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <div id="linija"></div>
+    <p><b>Zachary Neale:</b> Lecture - Fracture Toughness |35:12|</p>
+    <div id="linija"></div>
+<!------------------------------------------------------------------->
+    </div>
+
+    <div id="menu69" class="tab-pane fade">
+<!--<p> Prilog 6. </p>-->
+    <br>
+<!------------------------------------------------------------------->
+    <div id="linija"></div>
+    <iframe width="100%" height="380" src="https://www.youtube.com/embed/ylDgkK5ikCk" title="ENGR170 / MSCI 201 - Fracture Toughness, Kc, KIc, and example calculation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <div id="linija"></div>
+    <p><b>Prof. Rider's WWU Channel:</b> Lecture - Fracture Toughness |09:36|</p>
+    <div id="linija"></div>
+<!------------------------------------------------------------------->
+    </div>
+
+    <div id="menu79" class="tab-pane fade">
+<!--<p> Prilog 7. </p>-->
+    <br>
+<!------------------------------------------------------------------->
+    <div id="linija"></div>
+    <iframe width="100%" height="380" src="https://www.youtube.com/embed/mAMA_nEqZlI" title="Instron® | An Introduction to Fracture Testing | Webinar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <div id="linija"></div>
+    <p><b>Instron®:</b> Instron® | An Introduction to Fracture Testing | Webinar |1:03:23|</p>
+    <div id="linija"></div>
+<!------------------------------------------------------------------->
+    </div>
+
+    <div id="menu89" class="tab-pane fade">
+<!--<p> Prilog 9. </p>-->
+    <br>
+<!------------------------------------------------------------------->
+<iframe width="100%" height="377" src="https://www.youtube.com/embed/ljx1GGQCVZk" title="CTOD Vs CMOD (Crack Tip Opening Displacement Vs Crack Mouth Opening Displacement)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div id="linija"></div>
+<p><b>S-G Mechanical Lectures:</b> CTOD Vs CMOD (Crack Tip Opening Displacement Vs Crack Mouth Opening Displacement) |05:56|</p>
+<div id="linija"></div>
+<!------------------------------------------------------------------->
+    </div>
+
+    <div id="menu99" class="tab-pane fade">
+<!--<p> Prilog 10. </p>-->
+    <br>
+<!------------------------------------------------------------------->
+<iframe width="100%" height="377" src="https://www.youtube.com/embed/wlBFZw_bryE" title="CMOD test" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div id="linija"></div>
+<p><b>Matest SpA:</b> CMOD test |05:15|</p>
+<div id="linija"></div>
+<!------------------------------------------------------------------->
+
+    </div>
+    <div id="menu109" class="tab-pane fade">
+<!--<p> Prilog 11. </p>-->
+    <br>
+<!------------------------------------------------------------------->
+<iframe width="100%" height="377" src="https://www.youtube.com/embed/YCMxZMx8rho" title="Deflection test" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div id="linija"></div>
+<p><b>Matest SpA:</b> Deflection test |06:02|</p>
+<div id="linija"></div>
+<!------------------------------------------------------------------->
+    </div>
+
+    <div id="menu119" class="tab-pane fade">
+<!--<p> Prilog 7. </p>-->
+    <br>
+<!------------------------------------------------------------------->
+<!---<p>---------- Forwarded message ---------</p>
+<p>Од: Milan Kekanovic <milan.kekec@gmail.com></p>---->
+<p>Date: суб, 27. мар 2021. у 15:20</p>
+<!------<p>Subject: Fwd: N/A</p>
+<p>To: Milan Kekanovic <milan.kekec@gmail.com></p>---->
+<br>
+
+<p>Милане,</p>
+
+<p>с обзиром да си ми показао твоју АБ греду која има јасну, оком видну
+„прслину“ (*то је рез намеран, више него прслина, која би се морала
+дотерати за предлог теста за испитивања жилавости материјала*), ипак не
+обрађене контуре коју би требало дорадити и ону цевку у средини требало би
+извадити да би експеримент уопште спровели - тако би био по мени састављен
+један добар физички модел конструкције типа АБ проста греда.</p>
+<br>
+<p>За шта би био такав модел конструкције можда интересантан?</p>
+<br>
+<p><b>Одговор:</b> За одређивање (експериментално и теоријско) параметара Механике
+лома у домену линеарно еластичног понашања материјала услед утицаја
+хетерогене структуре мешавине твог бетона од чега је израђена греда.</p>
+<br>
+<p>Важно брзо истичем (према Fracture Mechanics, Damage mechanics, Механике
+лома), ми када имамо понашање материјала линеарно еластично,
+израчунавање Ј-интеграла
+(контурног интеграла независног од путање прслине) у одређеном узорку
+(епрувета или епрувете су то обично) или „можда“ мањој структури (нпр.
+твоја АБ греда Т-пресека, јер није ми познато да је много тренирана као
+модел) би било релативно једноставно. Једноставност би била зато што би га
+проналазили довођењем у везу са фактором интензитета нормалних напона. За
+сада, мишљења сам да се он (Ј-интеграл) може израчунати из оптерећења и
+величине прслине коју статичко дејство изазове (дакле, ово би било на
+основу критеријума употребљивости – третирајући прслину као оштећење).
+Проматрати критеријум употребљивости са гледишта науке и праксе има смисла,
+при чему наука захтева за почетак увек јаку теоријску основу. Пракси треба
+само резултат. Теорија има и разноврсне су, али мање је познато метода за
+експериментално истраживање његово одређивање. С друге стране путем физички
+префињеног рачунарског моделирања по МКЕ, мислим да има много више наде да
+ће бити могуће урадити и истраживати Ј-интеграл. Само да истакнем једну
+могућност за коју знамо да уз претпоставку К-фактора (нашег фактора
+интензитета напона из Отпорности материјала) решење за неку доступну,
+рецимо твоју геометрију би био нађен овај интеграл. Овде немам сумње данас
+сви те феномене „дељају рачунарима“ и дају већином лепе слике пропагација
+прслина, шта оне кажу односно одакле се пошло, шта се жели рећи, ја тога
+помало нађем. Како видиш, ја би имао свој неки став по овом проблему и радо
+бих га поредио са свима Вама које овде помињем и раде, теби у овом писму.
+Радим ја колико могу ову проблематику, понајвише сам (нити ко зове ме-нити
+се ја нудим, ево теби пишем јер си ми нешто показао), некада са нашим
+докторантима помало теоријски – рачунарским алатима и са мојим
+експерименталним спроведеним моделима, челичних, дрвених епрувета. Не
+објављујем још ништа од тог материјала, треба ми мало самоконтроле (два
+семинарска рада су урађена, треба још мало времена). Пишем ти да ме
+интересује и можда би и сам „излетео“ у науци трагајући за овим
+Ј-интегралом у неким следећим семинарским радовима на докторским студијама
+из предмета Макро и микро механичко моделирање материјала ко буде
+заинтересован и коме ово треба у животу за потребе критеријума
+употребљивости.</p>
+<br>
+<p>Знам да је израчунавање Ј-интеграла „нешто теже“ хоћу да кажем
+компликованије и можда неизвесније у погледу граничних услова за одређивање
+константи интеграције, када је материјал нелинеаран (зато би еластичну
+средину узео јер ту „раде“ реалне наше греде), и када би математички модел
+само искључиво радили.</p>
+
+<p>Још горе долази да кажем, а то је да ту принцип суперпозиције више не
+важи, тако
+да интеграл Ј, није пропорционалан наметнутом оптерећењу. Али, али,..ово је
+увек околност која не може бити савладана (два добра саставити никако и
+никада не можемо) евентуално је могуће и ову околност слично проблемима
+стабилности донекле превазићи. Оно што знам јесте да, постојећа „контурна
+метода“ за одређивање Ј интеграла у већини случајева је непрактична решавајући
+га експерименталним метода (CTOD-мера отварања прслине) и то са гледишта
+бројности и коришћења различите опреме и инструмената у простору около
+модела, што бих рекао оперативно манипулативним али прецизним послом. Често
+срећем да је та контурна метода кажу непрактична и за нумерику анализу, али
+ту нисам сасвим сагласан јер софтвер може свашта да нам да-то знам сигурно.
+Нажалост сви ови критеријуми и нихови модели су прецизно рађени на тачно
+утврђеним узорцима-епруветама како кажемо, мој засигурно ентузијазам би био
+реално гледање са реалним носачем твојом АБ гредом Т-пресека.</p>
+<br>
+<p>Милане, твоја АБ греда по мени имају велику масу, ТЕШКА је за манипулације,
+и захтевала би много потребног БАЛАСТА на малој површини при тестирање било
+где (унутра или напољу). Аплицирање статичког дејства хидрауличном пресом
+рецимо може бити али треба видети како и одакле (одоздо).?</p>
+<br>
+<p>Много пишем, али како другачије да кажем било шта да знам шта бих да радимо
+са твојом гредом у научном смислу. Ово је мој један од мотива за
+истраживање у складу са мојим компетенцијама и то око овога Ј-интеграла и
+то концептом заснован на Механици оштећења и Механиком лома.</p>
+<br>
+<p>Такође, хоћу да теби кажем, нисам ја све ово довољно прецизно комплетирао
+на папиру што се каже, (како радим лично ја ове ствари, када ради као
+тему), али „лајик сам како наука каже прво“ па тако и пишем сада.</p>
+
+<p>Имам поприлично довољних информација у овој проблематици и овде сам ти
+изнео најједноставније своје сазнање и могућност истраживања и личног
+ангажовања. Можда изгледа све да је елементарно, али другачије нисам ни
+хтео како би ти нешто писмено саставио и како бих рекао у пар „паметних“
+ових реченица важно да би ако буде интереса могли и реализовали.</p>
+
+<p>Проследи овај е-мајл проф. др Милашиновићу, проф. др Прокићу, проф. др
+Шумарцу, "само ако хоћеш", ти их познајеш, ја сам их лично навео, претходно
+нисам био ни у каквом консултативном договарању око овога свега што пишем –
+потпуно је ово моја лична идеја (стоји горе у одговору, то би била тема),
+да чујеш њихова мишљења. Јер неко од них или сви они ће ме потпуно
+демантовати како треба (надам се) или рећи другачије, ако ја овде грешим.
+Да се не лажемо, људи смо ми ипак, и ја и ти, јер ја не желим да обмањујем
+никога, па ни тебе, зато дајем овакав предлог.</p>
+<br>
+
+<p>Споменућу истраживаче, од Грифита, Мора, Треске, Хуберта, Хенкија, Мизеса,
+Ritza, Бажанта, Крајчиновића, Шумарца, Којића, Седмака (Ленарт),
+Милашиновића, итд. (нећу више, многе сам их изоставио) ово датира и
+интересује понекога и од нас.</p>
+
+<br>
+<!----------
+<p>Милане, о свему ово молим те размисли ако сматраш ваљаним, па се можемо
+договарати, само нека то остане међу нама (Кекановић, Милашиновић, Прокић,
+Миличић), све у свему да не будем „ја“ погрешно протумачен и компромитован.</p>
+-------------->
++++++
+
+<p>Какве везе (ја) имам са овим што пишем?</p>
+<br>
+<p>Рећићу укратко у своје име да сам прерасподелу статичког пробног оптерећења
+(колико год било некоме не логично што кажем сада и овом тренутку) код
+мостова што сам радио за (магистарски и докторат), као и предлог
+еквивалентног модула еластичности спрегнутог пресека „челик-бетон“, као и
+функцију преноса „одзив-побуда“ нисам напамет дао нити реда ради публиковао
+(што би рекао сам себи, нисам се срамотио). То је заиста био плод ових
+МЕХАНИКА и дуготрајног рада без понављања ових теорија које сам овде сада
+таксативно износио. Морао сам окончати прво своје и менторски руковођено
+истраживање (проф. др Љубомир Влајић) за конструкцију моста (ланчани мост)
+и мостова које сам радио и обрађивао као физичке моделе – наше објекте.
+Наука у главама нас уметника није иста ВИЗИЈОМ нити касније МИСИЈОМ. Ја сам
+критеријум употребљивост (Гранично стање употребљивости) при статичком
+дејству највише тренирао. Гледао сам и гледам величине УГИБА и НАГИБА на
+еластичну линију као параметре, и са тим сам ја окончао своја истраживања.
+Данас још узимам и УЧЕСТАНОСТ осциловања због дејстава динамичког
+карактера, и то је то. Све је ово публиковано у мојим (нашим) радовима и
+као закључке сам износио, с тим да је све то добро тренирано кроз све три
+горе поменуте дисциплине МЕХАНИКЕ уз још да кажем општу азбуку Механику
+континуума (проф. др Јово Јарић), и потпуно нову данас Компјутерску
+механику.</p>
+
+<p> Али, ово што сад износим теби као идеју би био и мени изазов, мали искорак
+од онога што сам радио, што радим и шта ћу радити, са гледишта наметнутих
+побуда статичког или топлотног дејства.</p>
+
+<br>
+<p>Срдачан поздрав,</p>
+<p>И.М.Миличић</p>
+<br>
+<p>П.С.</p>
+<p>Само да знаш Милане да ме ниси одвео да видим твоју АБ греду, успут рекао
+коју паметну, небих ништа ни размишљао у научном правцу (имао сам времена
+успут у аутобусу да размишљам), а поготово неби ти било шта од овога
+написао. Веруј ми на реч.</p>
+
+<br>
+<div id="linija"></div>   
+<li><a href="1/MMMMM/J_integral/rsta.1921.0006.pdf" target="_blank">Мениторна референца публикована, 1921. године</a></li>
+<li><a href="https://imechanica.org/node/449" target="_blank">iMechanica</a></li>
+<li><a href="1/MMMMM/J_integral/rsta.1921.0006.pdf" target="_blank">Мениторна референца публикована, 1921. године-са коментарима и питањима</a></li>
+<li><a href="1/MMMMM/J_integral/rice1968.pdf" target="_blank">Мениторна референца публикована, 1968. године</a></li>
+<div id="linija"></div>   
+<!------------------------------------------------------------------->
+    </div>
+</div>
+</div>
+<!------------------------------крај хоризонталног менија----------------------------------------------------------->
+<br>
+<br>
+<section>
+<h1  id="Сепарат 10">Сепарат 10: Потребна стечена искуства</h1>
+</section>
+<!--<div class="container">-->
+      <div class="servisi">
+<!--<h2>Предавања</h2>-->
+  <ul class="nav nav-tabs">
+    <li class="active"><a data-toggle="tab" href="#home-10">1</a></li>
+    <!--<li><a data-toggle="tab" href="#menu-10">1</a></li>-->
+    <li><a data-toggle="tab" href="#menu2-10">2</a></li>
+    <li><a data-toggle="tab" href="#menu3-10">3</a></li>
+    <li><a data-toggle="tab" href="#menu4-10">4</a></li>
+    <li><a data-toggle="tab" href="#menu5-10">5</a></li>
+    <li><a data-toggle="tab" href="#menu6-10">6</a></li>
+    <li><a data-toggle="tab" href="#menu7-10">7</a></li>
+    <li><a data-toggle="tab" href="#menu8-10">8</a></li>
+    <li><a data-toggle="tab" href="#menu9-10">9</a></li>
+    <li><a data-toggle="tab" href="#menu10-10">10</a></li>
+    <li><a data-toggle="tab" href="#menu11-10">11</a></li>
+    <li><a data-toggle="tab" href="#menu12-10">12</a></li>
+    </ul>
+
+    <div class="tab-content">
+    <div id="home-10" class="tab-pane fade in active">
+    <p>физике, математике, механике,...</p>
+    <iframe width="100%" height="360" src="https://www.youtube.com/embed/WUvTyaaNkzM?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div id="linija"></div>
+    <p><b>3Blue1Brown:</b> The essence of calculus.</p>
+    <div id="linija"></div>    
+    </div>
+
+    <div id="menu2-10" class="tab-pane fade">
+    <p>физике, математике, механике,...</p>
+    <iframe width="100%" height="360" src="https://www.youtube.com/embed/p_di4Zn4wz4?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div id="linija"></div>
+    <p><b>3Blue1Brown:</b> Differential equations, a tourist's guide | DE1.</p>
+    <div id="linija"></div>    </div>
+
+    <div id="menu3-10" class="tab-pane fade">
+      <p>физике, математике, механике,...</p>
+    <iframe width="100%" height="360" src="https://www.youtube.com/embed/rB83DpBJQsE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div id="linija"></div>
+    <p><b>3Blue1Brown:</b> Divergence and curl: The language of Maxwell's equations, fluid flow, and more.</p>
+    <div id="linija"></div>
+    </div>
+
+    <div id="menu4-10" class="tab-pane fade">
+    <p>физике, математике, механике,...</p>
+    <iframe width="100%" height="360" src="https://www.youtube.com/embed/_UoTTq651dE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div id="linija"></div>
+    <p><b>3Blue1Brown:</b> Why 5/3 is a fundamental constant for turbulence.</p>
+    <div id="linija"></div>
+    </div>
+
+    <div id="menu5-10" class="tab-pane fade">
+    <p>физике, математике, механике,...</p>
+    <iframe width="100%" height="360" src="https://www.youtube.com/embed/Ra7aQlenTb8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div id="linija"></div>
+    <p><b>Vcubingx:</b> The million dollar equation (Navier-Stokes equations).</p>
+    <div id="linija"></div>
+    </div>
+
+    <div id="menu6-10" class="tab-pane fade">
+    <p>физике, математике, механике,...</p>
+    <iframe width="100%" height="360" src="https://www.youtube.com/embed/zWdnf3Uh1RE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div id="linija" /></div>
+    <p><b>Jousef Murad:</b> Derivation of the Navier-Stokes Equations.</p>
+    <div id="linija"></div>
+    </div>
+
+    <div id="menu7-10" class="tab-pane fade">
+    <p> из математике </p>
+    <iframe width="100%" height="377" src="https://www.youtube.com/embed/W8QZ-yxebFA" title="To Understand the Fourier Transform, Start From Quantum Mechanics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <div id="linija"></div>
+    <p><b>Physics with Elliot:</b> To Understand the Fourier Transform, Start From Quantum Mechanics |31:36|</p>
+    <div id="linija"></div>
+    </div>
+
+    <div id="menu8-10" class="tab-pane fade">
+    <p> из математике </p>
+    <iframe width="100%" height="360" src="https://www.youtube.com/embed/mgXSevZmjPc" title="The Fourier Series and Fourier Transform Demystified" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><div id="linija" /></div>
+    <p><b>Up and Atom:</b> The Fourier Series and Fourier Transform Demystified (30.6.2022.).</p>
+    <div id="linija"></div>
+    </div>
+
+    <div id="menu9-10" class="tab-pane fade">
+    <p> из математике </p>
+    <iframe width="100%" height="360" src="https://www.youtube.com/embed/spUNpyF58BY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div id="linija"></div>
+    <p><b>3Blue1Brown:</b> But what is the Fourier Transform? A visual introduction.</p>
+    <div id="linija"></div>
+    </div>
+
+    <div id="menu10-10" class="tab-pane fade">
+    <p> из математике </p>
+    <iframe width="100%" height="360" src="https://www.youtube.com/embed/r18Gi8lSkfM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div id="linija"></div>
+    <p><b>Physics Videos by Eugene Khutoryansky:</b> Fourier Transform, Fourier Series, and frequency spectrum.</p>
+    <div id="linija"></div>
+    </div>
+
+    <div id="menu11-10" class="tab-pane fade">
+    <p> из математике </p>
+    <iframe width="100%" height="360" src="https://www.youtube.com/embed/n2y7n6jw5d0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div id="linija"></div>
+    <p><b>Zach Star:</b> What does the Laplace Transform really tell us? A visual explanation (plus applications).</p>
+    <div id="linija" /></div>
+    </div>
+
+    <div id="menu12-10" class="tab-pane fade">
+    <p> из математике </p>
+    <iframe width="100%" height="360" src="https://www.youtube.com/embed/6MXMDrs6ZmA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div id="linija"></div>
+    <p><b>Physics Videos by Eugene Khutoryansky:</b> Laplace transform - Explanation and intuitive visualization.</p>
+    <div id="linija"></div>
+    </div>
+</div>
+</div>
+<br>
+<br>
+<!-------------------------- End intertube ---------------------->
+</div>
+</div>
+<!-------------------------------------------------- ЛЕВИ СТУБАЦ ----------------------------------------------->
+<div id="leftcolumn">
+<div class="innertube">
+<div class="leftnav">
+
+<ul><h3>
+	<li><a href="11_mmmmm.html#Сепарат 1">Сепарат 1</a></li>
+	<li><a href="11_mmmmm.html#Сепарат 2">Сепарат 2</a></li>
+	<li><a href="11_mmmmm.html#Сепарат 3">Сепарат 3</a></li>
+        <li><a href="11_mmmmm.html#Сепарат 4">Сепарат 4</a></li>
+        <li><a href="11_mmmmm.html#Сепарат 5">Сепарат 5</a></li>
+        <li><a href="11_mmmmm.html#Сепарат 6">Сепарат 6</a></li>
+        <li><a href="11_mmmmm.html#Сепарат 7">Сепарат 7</a></li>
+        <li><a href="11_mmmmm.html#Сепарат 8: семинарски рад">Сепарат 8: семинарски рад</a></li>
+        <li><a href="11_mmmmm.html#Сепарат 9: тема за истраживања">Сепарат 9: тема за истраживања</a></li>
+        <li><a href="11_mmmmm.html#Сепарат 10">Сепарат 10</a></li>
+</h3></ul>
+<br>
+<img src="slike/mmmmm/2020-05-25.png"></a>
+<br>
+<br>
+<img src="slike/mmmmm/2020-06-14.png"></a>
+<br>
+<div class="small">Менторство: дипломски - завршни - мастер - докторски радови<br></div>
+<br>
+<!----------------------------------------------------------------------->
+<p><b>Напомена:</b></p> Прилози су у циљу шире едукације студената из предмета Микро и макро механичко моделирање материјала.</p>
+<br>
+<!--------------------------------------default-primary--success--warning-danger--info-link-----////---------------->
+<button type="button" class="btn btn-default btn-block btn-center" data-toggle="modal" data-target="#mml_1"><p> >>> Прилог </p></button>
+<ol><p><b>Instron</b>: What is Compression Testing? |01:36|</p></ol>
+<div id="mml_1" class="modal fade" role="dialog">
+  <div class="modal-dialog"> <!---- modal-lg ---->
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Imm-2023</h4>
+      </div>
+      <div class="modal-body">
+<!-----------------------видео--------------------------------------->                            
+<iframe width="100%" height="320px" src="https://www.youtube.com/embed/p00nMx-ULlA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<div id="linija"></div>
+<p><b>Instron</b>: What is Compression Testing? |01:36|</p>
+<div id="linija"></div>        
+<!-------------------------------------------------------------------->
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!------------------------------------------///////------------------------------------------------------------------>
+
+<!--------------------------------------default-primary--success--warning-danger--info-link-----////---------------->
+<button type="button" class="btn btn-default btn-block btn-center" data-toggle="modal" data-target="#mml_2"><p> >>> Прилог </p></button>
+<ol><p><b>Instron</b>: Analysis Module in Bluehill® Universal |01:45|</p></ol>
+<div id="mml_2" class="modal fade" role="dialog">
+  <div class="modal-dialog"> <!---- modal-lg ---->
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Imm-2023</h4>
+      </div>
+      <div class="modal-body">
+<!-----------------------видео--------------------------------------->                            
+<iframe width="100%" height="320px" src="https://www.youtube.com/embed/6lGVTOXuPyM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div id="linija"></div>
+<p><b>Instron</b>: Analysis Module in Bluehill® Universal |01:45|</p>
+<div id="linija"></div>        
+<!-------------------------------------------------------------------->
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!------------------------------------------///////------------------------------------------------------------------>
+
+<!--------------------------------------default-primary--success--warning-danger--info-link-----////---------------->
+<button type="button" class="btn btn-default btn-block btn-center" data-toggle="modal" data-target="#mml_3"><p> >>> Прилог </p></button>
+<ol><p><b>Instron</b>: Instron® | An Introduction to Fracture Testing | Webinar |01:03:24|</p></ol>
+<div id="mml_3" class="modal fade" role="dialog">
+  <div class="modal-dialog"> <!---- modal-lg ---->
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Imm-2023</h4>
+      </div>
+      <div class="modal-body">
+<!-----------------------видео--------------------------------------->                            
+<iframe width="100%" height="320px" src="https://www.youtube.com/embed/mAMA_nEqZlI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div id="linija"></div>
+<p><b>Instron</b>: Instron® | An Introduction to Fracture Testing | Webinar |01:03:24|</p>
+<div id="linija"></div>        
+<!-------------------------------------------------------------------->
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!------------------------------------------///////------------------------------------------------------------------>
+
+<!--------------------------------------default-primary--success--warning-danger--info-link-----////---------------->
+<button type="button" class="btn btn-default btn-block btn-center" data-toggle="modal" data-target="#mml_4"><p> >>> Прилог </p></button>
+<ol><p><b>Dr. A.Gupta, Dr. R.Kamat</b>: Polymer Viscoelasticity |09:50|</p></ol>
+<div id="mml_4" class="modal fade" role="dialog">
+  <div class="modal-dialog"> <!---- modal-lg ---->
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Imm-2023</h4>
+      </div>
+      <div class="modal-body">
+<!-----------------------видео--------------------------------------->                            
+<iframe width="100%" height="320px" src="https://www.youtube.com/embed/Cd4m5qmNZP0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div id="linija"></div>
+<p><b>Dr. A. Gupta, Dr. R. Kamat</b>: Polymer Viscoelasticity |09:50|</p>
+<div id="linija"></div>        
+<!-------------------------------------------------------------------->
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!------------------------------------------///////------------------------------------------------------------------>
+
+<!--------------------------------------default-primary--success--warning-danger--info-link-----////---------------->
+<button type="button" class="btn btn-default btn-block btn-center" data-toggle="modal" data-target="#mml_5"><p> >>> Прилог </p></button>
+<ol><p><b>M. Emin Kutay</b>: Dynamic modulus of asphalt mixtures and binders |13:36|</p></ol>
+<div id="mml_5" class="modal fade" role="dialog">
+  <div class="modal-dialog"> <!---- modal-lg ---->
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Imm-2023</h4>
+      </div>
+      <div class="modal-body">
+<!-----------------------видео--------------------------------------->                            
+<iframe width="100%" height="320px" src="https://www.youtube.com/embed/q81qztI6b5g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div id="linija"></div>
+<p><b>M. Emin Kutay</b>: Dynamic modulus of asphalt mixtures and binders |13:36|</p>
+<div id="linija"></div>        
+<!-------------------------------------------------------------------->
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!------------------------------------------///////------------------------------------------------------------------>
+
+<!--------------------------------------default-primary--success--warning-danger--info-link-----////---------------->
+<button type="button" class="btn btn-default btn-block btn-center" data-toggle="modal" data-target="#mml_6"><p> >>> Прилог </p></button>
+<ol><p><b>E. Barbero</b>: Example 7.6 Calculate viscoelastic stress relaxation of a composite material using Abaqus |04:27|</p></ol>
+<div id="mml_6" class="modal fade" role="dialog">
+  <div class="modal-dialog"> <!---- modal-lg ---->
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Imm-2023</h4>
+      </div>
+      <div class="modal-body">
+<!-----------------------видео--------------------------------------->                            
+<iframe width="100%" height="320px" src="https://www.youtube.com/embed/l6NpiDLfuII" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div id="linija"></div>
+<p><b>E. Barbero</b>: Example 7.6 Calculate viscoelastic stress relaxation of a composite material using Abaqus |04:27|</p>
+<div id="linija"></div>        
+<!-------------------------------------------------------------------->
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!------------------------------------------///////------------------------------------------------------------------>
+
+<!--------------------------------------default-primary--success--warning-danger--info-link-----////---------------->
+<button type="button" class="btn btn-default btn-block btn-center" data-toggle="modal" data-target="#mml_7"><p> >>> Прилог </p></button>
+<ol><p><b>E. Barbero</b>: Example 7.7 Linear visco-elasticity of orthotropic laminated composite with Abaqus UMAT |06:21|</p></ol>
+<div id="mml_7" class="modal fade" role="dialog">
+  <div class="modal-dialog"> <!---- modal-lg ---->
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Imm-2023</h4>
+      </div>
+      <div class="modal-body">
+<!-----------------------видео--------------------------------------->                            
+<iframe width="100%" height="320px" src="https://www.youtube.com/embed/C4Y6_lPzoYI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div id="linija"></div>
+<p><b>E. Barbero</b>: Example 7.7 Linear visco-elasticity of orthotropic laminated composite with Abaqus UMAT |06:21|</p>
+<div id="linija"></div>        
+<!-------------------------------------------------------------------->
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!------------------------------------------///////------------------------------------------------------------------>
+
+<!--------------------------------------default-primary--success--warning-danger--info-link-----////---------------->
+<button type="button" class="btn btn-default btn-block btn-center" data-toggle="modal" data-target="#mml_7_1"><p> >>> Прилог </p></button>
+<ol><p><b>E. Barbero</b>: Example 7.8 Viscoelastic Computational Micromechanics Homogenization of Fiber Composite using Abaqus |11:36|</p></ol>
+<div id="mml_7_1" class="modal fade" role="dialog">
+  <div class="modal-dialog"> <!---- modal-lg ---->
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Imm-2023</h4>
+      </div>
+      <div class="modal-body">
+<!-----------------------видео--------------------------------------->                            
+<iframe width="100%" height="320" src="https://www.youtube.com/embed/NjGLOMbgnic" title="Example 7.8 Viscoelastic Computational Micromechanics Homogenization of Fiber Composite using Abaqus" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div id="linija"></div>
+<p><b>E. Barbero</b>: Example 7.8 Viscoelastic Computational Micromechanics Homogenization of Fiber Composite using Abaqus |11:36|</p>
+<div id="linija"></div>        
+<!-------------------------------------------------------------------->
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!------------------------------------------///////------------------------------------------------------------------>
+
+<!--------------------------------------default-primary--success--warning-danger--info-link-----////---------------->
+<button type="button" class="btn btn-default btn-block btn-center" data-toggle="modal" data-target="#mml_8"><p> >>> Прилог </p></button>
+<ol><p><b>E. Barbero</b>: Example 8.3 Abaqus UMAT for Rosen's damage model of unidirectional composite materials |08:06|</p></ol>
+<div id="mml_8" class="modal fade" role="dialog">
+  <div class="modal-dialog"> <!---- modal-lg ---->
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Imm-2023</h4>
+      </div>
+      <div class="modal-body">
+<!-----------------------видео--------------------------------------->                            
+<iframe width="100%" height="320px" src="https://www.youtube.com/embed/vw6e0_c6NOk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div id="linija"></div>
+<p><b>E. Barbero</b>: Example 8.3 Abaqus UMAT for Rosen's damage model of unidirectional composite materials |08:06|</p>
+<div id="linija"></div>        
+<!-------------------------------------------------------------------->
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!------------------------------------------///////------------------------------------------------------------------>
+
+<!--------------------------------------default-primary--success--warning-danger--info-link-----////---------------->
+<button type="button" class="btn btn-default btn-block btn-center" data-toggle="modal" data-target="#mml_9"><p> >>> Прилог </p></button>
+<ol><p><b>Abaqus Acumen</b>: Abaqus Explicit - Crash Test/Impact Test |16:23|</p></ol>
+<div id="mml_9" class="modal fade" role="dialog">
+  <div class="modal-dialog"> <!---- modal-lg ---->
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Imm-2023</h4>
+      </div>
+      <div class="modal-body">
+<!-----------------------видео--------------------------------------->                            
+<iframe width="100%" height="320px" src="https://www.youtube.com/embed/USHhS5S5u7s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div id="linija"></div>
+<p><b>Abaqus Acumen</b>: Abaqus Explicit - Crash Test/Impact Test |16:23|</p>
+<div id="linija"></div>        
+<!-------------------------------------------------------------------->
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!------------------------------------------///////------------------------------------------------------------------>
+
+<!--------------------------------------default-primary--success--warning-danger--info-link-----////---------------->
+<button type="button" class="btn btn-default btn-block btn-center" data-toggle="modal" data-target="#mml_10"><p> >>> Прилог </p></button>
+<ol><p><b>Abdullah Khalifa</b>: Car crash in Abaqus |09:47|</p></ol>
+<div id="mml_10" class="modal fade" role="dialog">
+  <div class="modal-dialog"> <!---- modal-lg ---->
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Imm-2023</h4>
+      </div>
+      <div class="modal-body">
+<!-----------------------видео--------------------------------------->                            
+<iframe width="100%" height="320px" src="https://www.youtube.com/embed/duTMAyiCZs4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div id="linija"></div>
+<p><b>Abdullah Khalifa</b>: Car crash in Abaqus |09:47|</p>
+<div id="linija"></div>        
+<!-------------------------------------------------------------------->
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!------------------------------------------///////------------------------------------------------------------------>
+
+<!--------------------------------------default-primary--success--warning-danger--info-link-----////---------------->
+<button type="button" class="btn btn-default btn-block btn-center" data-toggle="modal" data-target="#mml_11"><p> >>> Прилог </p></button>
+<ol><p><b>Ahmed Elkady</b>: #21 ABAQUS Tutorial: Defining Concrete Damage Plasticity Model + Failure and Element Deletion |32:12|</p></ol>
+<div id="mml_11" class="modal fade" role="dialog">
+  <div class="modal-dialog"> <!---- modal-lg ---->
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Imm-2023</h4>
+      </div>
+      <div class="modal-body">
+<!-----------------------видео--------------------------------------->                            
+<iframe width="100%" height="320px" src="https://www.youtube.com/embed/wy84XGamn3g" frameborder="0" allowfullscreen></iframe>
+<div id="linija"></div>
+<p><b>Ahmed Elkady</b>: #21 ABAQUS Tutorial: Defining Concrete Damage Plasticity Model + Failure and Element Deletion |32:12|</p>
+<div id="linija"></div>        
+<!-------------------------------------------------------------------->
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!------------------------------------------///////------------------------------------------------------------------>
+
+<!--------------------------------------default-primary--success--warning-danger--info-link-----////---------------->
+<button type="button" class="btn btn-default btn-block btn-center" data-toggle="modal" data-target="#mml_12"><p> >>> Прилог </p></button>
+<ol><p><b>Ahmed Elkady</b>: #22 ABAQUS Tutorial: Concrete Compression Cylinder Test Deletion |35:17|</p></ol>
+<div id="mml_12" class="modal fade" role="dialog">
+  <div class="modal-dialog"> <!---- modal-lg ---->
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Imm-2023</h4>
+      </div>
+      <div class="modal-body">
+<!-----------------------видео--------------------------------------->                            
+<iframe width="100%" height="320px" src="https://www.youtube.com/embed/PTRQib7C6po" frameborder="0" allowfullscreen></iframe>
+<div id="linija"></div>
+<p><b>Ahmed Elkady</b>: #22 ABAQUS Tutorial: Concrete Compression Cylinder Test |35:17|</p>
+<div id="linija"></div>        
+<!-------------------------------------------------------------------->
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!------------------------------------------///////------------------------------------------------------------------>
+
+<!--------------------------------------default-primary--success--warning-danger--info-link-----////---------------->
+<button type="button" class="btn btn-default btn-block btn-center" data-toggle="modal" data-target="#mml_13"><p> >>> Прилог </p></button>
+<ol><p><b>Abaqus tutorials</b>: #Concrete cylindre# compression test using #Abaqus |15:28|</p></ol>
+<div id="mml_13" class="modal fade" role="dialog">
+  <div class="modal-dialog"> <!---- modal-lg ---->
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Imm-2023</h4>
+      </div>
+      <div class="modal-body">
+<!-----------------------видео--------------------------------------->                            
+<iframe width="100%" height="320px" src="https://www.youtube.com/embed/7a-BV2lyTXw" frameborder="0" allowfullscreen></iframe>
+<div id="linija"></div>
+<p><b>Abaqus tutorials</b>: #Concrete cylindre# compression test using #Abaqus |15:28|</p>
+<div id="linija"></div>        
+<!-------------------------------------------------------------------->
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!------------------------------------------///////------------------------------------------------------------------>
+
+<!--------------------------------------default-primary--success--warning-danger--info-link-----////---------------->
+<button type="button" class="btn btn-default btn-block btn-center" data-toggle="modal" data-target="#mml_14"><p> >>> Прилог </p></button>
+<ol><p><b>Abaqus tutorials</b>: Concrete cube #compression and how to draw force/deflection curve using #Abaqus |16:42|</p></ol>
+<div id="mml_14" class="modal fade" role="dialog">
+  <div class="modal-dialog"> <!---- modal-lg ---->
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Imm-2023</h4>
+      </div>
+      <div class="modal-body">
+<!-----------------------видео--------------------------------------->                            
+<iframe width="100%" height="320px" src="https://www.youtube.com/embed/kGwidWECCPU" frameborder="0" allowfullscreen></iframe>
+<div id="linija"></div>
+<p><b>Abaqus tutorials</b>: Concrete cube #compression and how to draw force/deflection curve using #Abaqus |16:42|</p>
+<div id="linija"></div>        
+<!-------------------------------------------------------------------->
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!------------------------------------------///////------------------------------------------------------------------>
+
+<!--------------------------------------default-primary--success--warning-danger--info-link-----////---------------->
+<button type="button" class="btn btn-default btn-block btn-center" data-toggle="modal" data-target="#mml_15"><p> >>> Прилог </p></button>
+<ol><p><b>Van Dang Tran</b>: Cyclic loading assign using displacement control in ABAQUS | CYCLIC LOADING ANALYSIS |10:09|</p></ol>
+<div id="mml_15" class="modal fade" role="dialog">
+  <div class="modal-dialog"> <!---- modal-lg ---->
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Imm-2023</h4>
+      </div>
+      <div class="modal-body">
+<!-----------------------видео--------------------------------------->                            
+<iframe width="100%" height="320px" src="https://www.youtube.com/embed/5W85U59ue2M" frameborder="0" allowfullscreen></iframe>
+<div id="linija"></div>
+<p><b>Van Dang Tran</b>: Cyclic loading assign using displacement control in ABAQUS | CYCLIC LOADING ANALYSIS |10:09|</p>
+<div id="linija"></div>        
+<!-------------------------------------------------------------------->
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!------------------------------------------///////------------------------------------------------------------------>
+
+<!--------------------------------------default-primary--success--warning-danger--info-link-----////---------------->
+<button type="button" class="btn btn-default btn-block btn-center" data-toggle="modal" data-target="#mml_16"><p> >>> Прилог </p></button>
+<ol><p><b>Ahmed Elkady</b>: #33 ABAQUS Tutorial: Metal Plasticity | Engineering to True Stress-Strain Conversion |30:16|</p></ol>
+<div id="mml_16" class="modal fade" role="dialog">
+  <div class="modal-dialog"> <!---- modal-lg ---->
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Imm-2023</h4>
+      </div>
+      <div class="modal-body">
+<!-----------------------видео--------------------------------------->                            
+<iframe width="100%" height="320px" src="https://www.youtube.com/embed/3Q1mhU72CRk" frameborder="0" allowfullscreen></iframe>
+<div id="linija"></div>
+<p><b>Ahmed Elkady</b>: #33 ABAQUS Tutorial: Metal Plasticity | Engineering to True Stress-Strain Conversion |30:16|</p>
+<div id="linija"></div>        
+<!-------------------------------------------------------------------->
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!------------------------------------------///////------------------------------------------------------------------>
+
+<!--------------------------------------default-primary--success--warning-danger--info-link-----////---------------->
+<button type="button" class="btn btn-default btn-block btn-center" data-toggle="modal" data-target="#mml_17"><p> >>> Прилог </p></button>
+<ol><p><b>H Moges</b>: Composites with particle inclusions |06:16|</p></ol>
+<div id="mml_17" class="modal fade" role="dialog">
+  <div class="modal-dialog"> <!---- modal-lg ---->
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Imm-2023</h4>
+      </div>
+      <div class="modal-body">
+<!-----------------------видео--------------------------------------->                            
+<iframe width="100%" height="320px" src="https://www.youtube.com/embed/EB9krGDanJc" frameborder="0" allowfullscreen></iframe>
+<div id="linija"></div>
+<p><b>H Moges</b>: Composites with particle inclusions |06:16|</p>
+<div id="linija"></div>        
+<!-------------------------------------------------------------------->
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!------------------------------------------///////------------------------------------------------------------------>
+
+<!--------------------------------------default-primary--success--warning-danger--info-link-----////---------------->
+<button type="button" class="btn btn-default btn-block btn-center" data-toggle="modal" data-target="#mml_18"><p> >>> Прилог </p></button>
+<ol><p><b>Dr. Michael Okereke - CM Videos</b>: RVE modelling of Metal Matrix Composites in ABAQUS #Abaqus |31:15|</p></ol>
+<div id="mml_18" class="modal fade" role="dialog">
+  <div class="modal-dialog"> <!---- modal-lg ---->
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Imm-2023</h4>
+      </div>
+      <div class="modal-body">
+<!-----------------------видео--------------------------------------->                            
+<iframe width="100%" height="320px" src="https://www.youtube.com/embed/iNdFo5xwStI" frameborder="0" allowfullscreen></iframe>
+<div id="linija"></div>
+<p><b>Dr. Michael Okereke - CM Videos</b>: RVE modelling of Metal Matrix Composites in ABAQUS #Abaqus |31:15|</p>
+<div id="linija"></div>        
+<!-------------------------------------------------------------------->
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!------------------------------------------///////------------------------------------------------------------------>
+
+<!--------------------------------------default-primary--success--warning-danger--info-link-----////---------------->
+<button type="button" class="btn btn-default btn-block btn-center" data-toggle="modal" data-target="#mml_19"><p> >>> Прилог </p></button>
+<ol><p><b>Dr.-Ing. Ronald Wagner</b>: ABAQUS Tutorial: 4-Point Bending of a Concrete Beam with Concrete Damage Plasticitys |14:26|</p></ol>
+<div id="mml_19" class="modal fade" role="dialog">
+  <div class="modal-dialog"> <!---- modal-lg ---->
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Imm-2023</h4>
+      </div>
+      <div class="modal-body">
+<!-----------------------видео--------------------------------------->                            
+<iframe width="100%" height="320px" src="https://www.youtube.com/embed/FdpUwecdy8s" frameborder="0" allowfullscreen></iframe>
+<div id="linija"></div>
+<p><b>Dr.-Ing. Ronald Wagner</b>: ABAQUS Tutorial: 4-Point Bending of a Concrete Beam with Concrete Damage Plasticitys |14:26|</p>
+<div id="linija"></div>        
+<!-------------------------------------------------------------------->
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!------------------------------------------///////------------------------------------------------------------------>
+
+<!--------------------------------------default-primary--success--warning-danger--info-link-----////---------------->
+<button type="button" class="btn btn-default btn-block btn-center" data-toggle="modal" data-target="#mml_20"><p> >>> Прилог </p></button>
+<ol><b>Park Systems</b>: 3D Printing: Testing for Mechanical Properties | Park Systems Webinar |50:01|</p></ol>
+<div id="mml_20" class="modal fade" role="dialog">
+  <div class="modal-dialog"> <!---- modal-lg ---->
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Imm-2023</h4>
+      </div>
+      <div class="modal-body">
+<!-----------------------видео--------------------------------------->                            
+<iframe width="100%" height="320px" src="https://www.youtube.com/embed/xuPinbK0zoY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div id="linija"></div>
+<b>Park Systems</b>: 3D Printing: Testing for Mechanical Properties | Park Systems Webinar |50:01|</p>
+<div id="linija"></div>        
+<!-------------------------------------------------------------------->
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!------------------------------------------///////------------------------------------------------------------------>
+<!----------------------------------------------------
+<br>
+<div id="linija"></div>
+<iframe width="100%" height="160" src="https://www.youtube.com/embed/GfOPaztB8Xs" title="J-Integral" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div id="linija"></div>
+<p><b>nptelhrd:</b> J-Integral |54:18|</p>
+<div id="linija"></div>
+<br>
+<div id="linija"></div>
+<iframe width="100%" height="160" src="https://www.youtube.com/embed/eGwqCwgFBlw" title="HRR Fields and CTOD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div id="linija"></div>
+<p><b>nptelhrd:</b> HRR Fields and CTOD |52:50|</p>
+<div id="linija"></div>
+<br>
+<div id="linija"></div>
+<iframe width="100%" height="160" src="https://www.youtube.com/embed/6HhswarEfiY" title="FAD and Mixed Mode Fracture" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div id="linija"></div>
+<p><b>nptelhrd:</b>FAD and Mixed Mode Fracture |51:58|</p>
+<div id="linija"></div>
+<br>
+<div id="linija"></div>
+<iframe width="100%" height="160" src="https://www.youtube.com/embed/tcmyN1fPkFM" title="Dugdale Model" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div id="linija"></div>
+<p><b>nptelhrd:</b> Dugdale Model  |52:57|</p>
+<div id="linija"></div>
+<br>
+<div id="linija"></div>
+<iframe width="100%" height="160" src="https://www.youtube.com/embed/A7iXe_cQccc" title="Irwin's Model" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div id="linija"></div>
+<p><b>nptelhrd:</b> Irwin's Model  |52:28|</p>
+<div id="linija"></div>
+----------------------------------------------->
+</div>
+</div>
+</div>
+</h3>
+
+<!-------------------------------------------------- ДЕСНИ СТУБАЦ ----------------------------------------------->
+<div id="rightcolumn">
+<div class="innertube">
+<div id="linija"></div>	
+	<a target="_blank" href="https://www.eduroam.org/"><img src="img/eduroam.png"></a>
+	<div id="linija"></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+<!-------------------------------------------------- End Wrapper -------------------------------------------------->
+<!----<div id="linija"></div>-->
+<div id="linija"></div>
+<div class="linija"></div>
+<footer>
+	<section>
+		<ul>
+	<li><a href="index.html">| Почетна</a> |</li>
+	<li><a href="01_biografija.html">Curriculum vitae</a> |</li>
+	<li><a href="02_osnovne.html">Поверена настава</a> |</li>
+	<li><a href="05_moja_istrazivanja.html">Моја истраживања</a> |</li>
+	<li><a href="06_mostovi.html">Мостови</a> |</li>
+	<li><a href="index.html#kontakt">Контакт</a> |</li>
+		</ul>
+	</section>
+
+	<section>	
+		<ul>
+	<li><a href="02_osnovne.html">| Основне академске студије</a> |</li>
+	<li><a href="03_master.html">Мастер академске студије</a> |</li>
+	<li><a href="04_doktorske.html">Докторске академске студије</a> |</li>
+	<li><a href="07_mentorstvo.html">Менторство</a> |</li>
+		</ul>
+	</section>	
+	<section>
+		<ul>
+	<li><a href="http://nastavnik.gf.uns.ac.rs/12sawst1r9v9ld12qhv6h1i4se4b/">| Наставнички</a> |</li>
+	<li><a href="http://athos.gf.uns.ac.rs/moodle/">E-learning</a> |</li>
+	<li><a href="http://webmail.gf.uns.ac.rs/">Webmail</a> |</li> 
+	<li><a href="http://www.gf.uns.ac.rs/~zbornik/">Зборник радова Грађевинског факултета |</a></li>	
+		</ul>
+	</section>
+
+<section>&nbsp;</section>
+
+<section><a href="http://www.gf.uns.ac.rs/">www.gf.uns.ac.rs</a></section>
+</footer>	
+<div class="linija"></div>
+<a href="#" class="to_top"></a>
+<script>
+jQuery(document).ready(function() {
+    var offset = 220;
+    var duration = 500;
+    jQuery(window).scroll(function() {
+        if (jQuery(this).scrollTop() > offset) {
+            jQuery('.to_top').fadeIn(duration);
+        } else {
+            jQuery('.to_top').fadeOut(duration);
+        }
+    });
+    
+    jQuery('.to_top').click(function(event) {
+        event.preventDefault();
+        jQuery('html, body').animate({scrollTop: 0}, duration);
+        return false;
+    })
+});
+</script>
+</body>
+</html>

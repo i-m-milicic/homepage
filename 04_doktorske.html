@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html> 
+<!DOCTYPE html> 
 <html>
 <head>
 <meta charset="utf-8">
@@ -13,10 +13,14 @@
 <meta name="author" content="Илија Миличић">
 <title>Илија М. МИЛИЧИЋ</title>
 <link rel="shortcut icon" href="img/ilija.ico" type="image/x-icon">
-
-
-<!------------------------------------------------------------------>
+<!------------------------------------------------------------------------------------------------------------------->
 <!-- Styles -->
+<!---->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all">
 <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />
 
@@ -57,8 +61,7 @@
     });  
 });
 </script>
-
-<!------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
 <style>
 hr { 
     display: block;
@@ -70,11 +73,9 @@ hr {
     border-width: 0.5px;
 } 
 </style>
-<!-------------------------------------------------------->
-<!------------------------------------------------------------------>
+<!------------------------------------------------------------------------------------------------------------------->
 </head>
-
-<!--------------------------------------------------------- Body ---------------------------------------------------------->
+<!-------------------------------------------------- Body ----------------------------------------------------------->
 <table>
 <tbody>
 <tr>
@@ -89,8 +90,9 @@ hr {
 <table style="width:100%">
   	<tr>
    	<th style="background-color: #FFFFFF;">
-<img src="img/ilija.jpg" class="img-circle" height="115" width="109" alt="praksa" /></th>
-    	<td style="background-color: #FFFFFF;" rowspan="1"><h1 id="ime">проф. др <b>Илија М. МИЛИЧИЋ</b></h1>ВАНРЕДНИ ПРОФЕСОР УНИВЕРЗИТЕТА У НОВОМ САДУ
+   	<!--<img src="img/ilija.jpg" class="img-circle" height="115" width="109" alt="praksa" /></th>-->	
+    <center><img src="img/ilija.jpg" class="img" height="115" width="109" alt="praksa" /></th></center>
+    <td style="background-color: #FFFFFF;" rowspan="1"><h1 id="ime">проф. др <b>Илија М. МИЛИЧИЋ</b></h1>ВАНРЕДНИ ПРОФЕСОР УНИВЕРЗИТЕТА У НОВОМ САДУ
 	<hr /></div>
 	шеф Катедре за инжењерску механику</td>
 </tr>
@@ -102,95 +104,63 @@ hr {
 	<li><a href="#">lat</a></li>
 	<li><a href="#">eng</a></li>
 	</ul>
-<!------------------------------------- ГЛАВНИ МЕНИ ----------------------------------------------------------------------->
+<!------------------------------------- ГЛАВНИ МЕНИ ----------------------------------------------------------------->
 <div id="linija"></div>
-
-
 <nav id="glavni_meni">
 <ul id="glavni">
-	<li><a href="index.html"><img src="img/home.png" alt="kucica" /></a></li>
-	<li><a href="01_biografija.html">Curriculum vitae</a></li>
-	<li><a href="02_osnovne.html">Поверена настава</a></li>
-	<li><a href="05_moja_istrazivanja.html">Моја истраживања</a></li>
-	<li><a href="06_mostovi.html">Мостови</a></li>
-	<li><a href="index.html#kontakt">Контакт</a></li>
-	<!-------li><a href="https://plus.google.com/u/0/100868037933547941108/posts"> <p><span style="color: #0000ff;">G</span><span style="color: #ff0000;">o</span><span style="color: #ffcc00;">o</span><span style="color: #0000ff;">g</span><span style="color: #008000;">l</span><span style="color: #ff0000;">e</span>+</p></a></li>
-</ul-------!>
-	<li><a href="https://classroom.google.com/h"> <p><span style="color: #0000ff;">G</span><span style="color: #ff0000;">o</span><span style="color: #ffcc00;">o</span><span style="color: #0000ff;">g</span><span style="color: #008000;">l</span><span style="color: #ff0000;">e</span> Classroom</p></a></li>
+    <li><a href="index.html"><img src="img/home.png" alt="kucica" /></a></li>
+    <li><a href="01_biografija.html">Curriculum vitae</a></li>
+    <li><a href="02_osnovne.html">Поверена настава</a></li>
+    <li><a href="05_moja_istrazivanja.html">Моја истраживања</a></li>
+    <li><a href="06_mostovi.html">Мостови</a></li>
+    <li><a href="index.html#kontakt">Контакт</a></li>
+<!------<li><a href="https://plus.google.com/u/0/100868037933547941108/posts"> <p><span style="color: #0000ff;">G</span><span style="color: #ff0000;">o</span><span style="color: #ffcc00;">o</span><span style="color: #0000ff;">g</span><span style="color: #008000;">l</span><span style="color: #ff0000;">e</span>+</p></a></li>
+</ul>------->
+    <li><a href="https://classroom.google.com/h"> <p><span style="color: #0000ff;">G</span><span style="color: #ff0000;">o</span><span style="color: #ffcc00;">o</span><span style="color: #0000ff;">g</span><span style="color: #008000;">l</span><span style="color: #ff0000;">e</span> Classroom</p></a></li>
 </ul>
-	
-
-<!---------------------------------- ПЛУТАЈУЋИ МЕНИ ----------------------------------------------------------------------->
-
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------- ПЛУТАЈУЋИ МЕНИ -------------------------------------------------------->
 <div class="flip"><img src="img/home.png" alt="kucica" /> Мени</div>
 <div id='glavni2'>
 <ul>
-
 <li><a href="index.html">Почетна страна</a></li>
-
 <li class='active has-sub'><a href='#'><span>Curriculum vitae</span></a>
-      	<ul>
-<li><a href="01_biografija.html">Биографија</a></li>
-<li><a href="01_1_radovi.html">Научни рад</a></li>
-<li><a href="01_2_radovi.html">Стручни рад</a></li>
-<li><a href="01_3_recenzije.html">Рецензије</a></li>
-<li><a href="01_4_uredjivanje.html">Уређивање часописа</a></li>
-	</ul>
-    	</li>
-   
-<li class='active has-sub'><a href='#'><span>Основне академске студије</span></a>
-
-<ul>
-<li><a href="http://www.gf.uns.ac.rs/~milicic/Mehanika%201/M1_predavanja/MEHANIKA%201_1.htm">Механика 1</a></li>
-<li><a href="http://www.gf.uns.ac.rs/~milicic/KS/KS_predavanja/KS%201_1.htm">Механика 2</a></li>
-<li><a href="http://www.gf.uns.ac.rs/~milicic/KS/KS_predavanja/KS%201_1.htm">Конструктивни системи</a></li>
-<li><a href="http://www.gf.uns.ac.rs/~milicic/Statika/SK_predavanja/SK_1.htm">Статика конструкција</a></li>
-<li><a href="http://www.gf.uns.ac.rs/~milicic/Statika%201/SK1_predavanja/STATIKA%201_1.htm">Статика конструкција 1</a></li>
-<li><a href=" ">Мостови</a></li>
-</ul>
+  <ul>
+  <li><a href="01_biografija.html">Биографија</a></li>
+  <li><a href="01_1_radovi.html">Научни рад</a></li>
+  <li><a href="01_2_radovi.html">Стручни рад</a></li>
+  <li><a href="01_3_recenzije.html">Рецензије</a></li>
+  <li><a href="01_4_uredjivanje.html">Уређивање часописа</a></li>
+  </ul>
 </li>
-
-
-<li class='active has-sub'><a href='#'><span>Мастер академске студије</span></a>
-<ul>
-<li><a href="oas.html">Рачунарско моделирање конструкција</a></li>
-</ul>
+<li class='active has-sub'><a href='#'><span>Поверена настава</span></a>
+  <ul>
+  <li><a href="02_osnovne.html">Основне академске студије</a></li>
+  <li><a href="03_master.html">Мастер академске студије</a></li>
+  <li><a href="04_doktorske.html">Докторске академске студије</a></li>
+  </ul>
 </li>
-
-<li class='active has-sub'><a href='#'><span>Докторске академске студије</span></a>
-<ul>
-<li><a href="oas.html">  </a></li>
-</ul>
-</li>
-
 <li class='active has-sub'><a href='#'><span>Моја истраживања</span></a>
-<ul>
-<li><a href="05_moja_istrazivanja.html">Магистарски рад</a></li>
-<li><a href="05_2_moja_istrazivanja.html">Докторска дисертација</a></li>
-<li><a href="05_3_moja_istrazivanja.html">Етно-еко-пасивна кућа</a></li>
-</ul>
+  <ul>
+  <li><a href="05_moja_istrazivanja.html">Магистарски рад</a></li>
+  <li><a href="05_2_moja_istrazivanja.html">Докторска дисертација</a></li>
+  <li><a href="05_3_moja_istrazivanja.html">Етно-еко-пасивна кућа</a></li>
+  </ul>
 </li>
-
 <li><a href="06_mostovi.html">Мостови</a></li>
 <li><a href="07_mentorstvo.html">Менторство</a></li>
-
-
-<li class='last'><a href='index.html#kontakt'><span>Контакт</span></a></li>
-	</ul>
-	</div>
-	</nav>
+<li><a href='index.html#kontakt'><span><p>Контакт</p></span></a></li>
+<li class='last'><a href="https://classroom.google.com/h"><p><span style="color: #0000ff;">G</span><span style="color: #ff0000;">o</span><span style="color: #ffcc00;">o</span><span style="color: #0000ff;">g</span><span style="color: #008000;">l</span><span style="color: #ff0000;">e</span> Classroom</p></a></li>
+</ul>
+</div>
+</nav>
 <div class="clear"></div>
 <div id="linija"></div>
-
 <div class="clear" /></div>
-<!-------------------------------------------------- End Menu ------------------------------------------------------------->
+<!----------------------------------------- End plutajući meni ------------------------------------------------------>
+<!-------------------------------------------------- End Menu ------------------------------------------------------->
 
-
-
-
-
-
-<!----------------------------------------------- СРЕДЊИ ДЕО ------------------------------------------------------>
+<!----------------------------------------------- СРЕДЊИ ДЕО ------------------------------------------------------->
 <div id="maincontainer">
 <div id="contentwrapper">
 <div id="contentcolumn">
@@ -200,36 +170,368 @@ hr {
 <section>
 <h1  id="Грађевинарство">Грађевинарство</h1>
 <ul>
-<li><a target="_blank" href="џџџ">Микро и макро маханичко моделирање материјала</a></li>
+<li><a target="_blank" href="11_mmmmm.html">Микро и макро маханичко моделирање материјала</a></li>
 </ul>
 </section>
 
+<br>
+<h3>
+<p><b>Изучавање теоријских основа</b></p>
+<p>Одзив материјала у тесту на затезање. Дефиниција напона и деформације. Крива напон-деформација.
+Ефекти температуре и брзине деформације на затежуће понашање. Елементи теорије дислокација.
+Чврстоћа идеалних кристала. Имперфекције кристалне решетке-дислокације. Отпорност кристалне решетке при 
 
+кретању дислокације. Еластичне карактеристике дислокација. Структура пластично деформисаних метала.
+Деформацијски одзив кристаластих материјала при високим температурама. Течење чврстих материјала.
+Релације температура-напон-брзина деформације. Механизми деформације. Суперпластичност. Деформацијски одзив 
 
-<!-------------------------- End intertube ---------------------->
+инжењерских полимера. Полимерне структуре. Вискоеластични одзив полимера. Чврстоћа полимера.</p>
+<br>
+<p><b>Практичан рад</b></p>
+<p>Током семестра ће се задавати краћи задаци са роком израде од једне до две недеље односно дужи
+задаци – семестрални пројекти.</p>
+
+</h3>
+<br>
+<!------------------------------------------------------------------->
+    <iframe height="570px" width="100%" src="1/MMMMM/Reologija_seminarski/index.html" style="border:none"allowfullscreen></iframe>
+    <div id="linija"></div>
+    <b>ИММ</b>: Реологија материјала - семинарски рад |1998|.
+    <div id="linija"></div>
+<!------------------------------------------------------------------->
+<br>
+<br>
+<!-----------------------------почетак хоризонталног менија---------------------------------------------------------->
+ <div class="servisi">
+ <ul class="nav nav-tabs">
+<!--<ul class="nav nav-pills">-->
+    <li class="active"><a data-toggle="tab" href="#home">Концепт семинарског рада</a></li>
+    <li><a data-toggle="tab" href="#menu2">2</a></li>
+    <li><a data-toggle="tab" href="#menu3">3</a></li>
+    <li><a data-toggle="tab" href="#menu4">4</a></li>
+    <li><a data-toggle="tab" href="#menu5">5</a></li>
+    <li><a data-toggle="tab" href="#menu6">6</a></li>
+    <li><a data-toggle="tab" href="#menu7">7</a></li>
+    <li><a data-toggle="tab" href="#menu8">8</a></li>
+    <li><a data-toggle="tab" href="#menu9">9</a></li>
+    <li><a data-toggle="tab" href="#menu10">10</a></li>
+    </ul>
+
+  <div class="tab-content">
+    <div id="home" class="tab-pane fade in active">
+    <p>.</p>
+<!------------------------------------------------------------------->
+    <iframe height="570px" width="100%" src="1/MMMMM/2021_seminarski rad_koncept/index.html" style="border:none"allowfullscreen></iframe>
+	<div id="linija"></div>
+	<b>ИММ</b>: Идеја за семестрални задатак (пројект) - концепт.
+	<div id="linija"></div>
+<!-------------------------------------------------------------------> 
+    </div>
+
+    <div id="menu2" class="tab-pane fade">
+<!--<p> Prilog 2. </p>-->
+    <br>
+<!-------------------------------------------------------------------->
+    <iframe width="100%" height="377" src="https://www.youtube.com/embed/uWgnBNOy-rA" title="Metals 101-7 Tensile Testing and the Stress Strain Diagram" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+    <div id="linija"></div>
+    <p><b>ToolNotes</b>: Metals 101-7 Tensile Testing and the Stress Strain Diagram |05:50|</p>
+    <div id="linija"></div>
+<!-------------------------------------------------------------------->
+    </div>
+
+    <div id="menu3" class="tab-pane fade">
+<!--<p> Prilog 3. </p>-->
+    <br>
+<!--------------------------------------------------------------------> 
+	<iframe width="100%" height="377" src="https://www.youtube.com/embed/gY_hYswySH4" title="What is a Universal Testing Machine/Tensile Testing Machine?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <div id="linija"></div>
+	<p><b>Instron</b>: What is a Universal Testing Machine/Tensile Testing Machine? |03:50|</p>
+	<div id="linija"></div>
+<!-------------------------------------------------------------------->
+    </div>
+
+    <div id="menu4" class="tab-pane fade">
+<!--<p> Prilog 4. </p>-->
+    <br>
+<!-------------------------------------------------------------------->
+	<iframe width="100%" height="377" src="https://www.youtube.com/embed/XovtUrnQuM4" title="Software of Hydrualic universal testing machine" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>         
+    <div id="linija"></div>
+	<p><b>HST Group Testing machine</b>: Software of Hydrualic universal testing machine |05:17|</p>
+	<div id="linija"></div>     
+<!-------------------------------------------------------------------->  
+    </div>
+
+    <div id="menu5" class="tab-pane fade">
+<!--<p> Прилог 5. </p>-->
+    <br>
+    <!-------------------------------------------------------------------->
+    <iframe width="100%" height="377" src="https://www.youtube.com/embed/SzFzHYY7ObU" title="Reliable Test Results in Materials Testing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	<div id="linija"></div>
+	<p><b>ZwickRoellTV</b>: Reliable Test Results in Materials Testing |04:04|</p>
+	<div id="linija"></div>     
+<!-------------------------------------------------------------------->         
+    </div>
+
+    <div id="menu6" class="tab-pane fade">
+<!--<p> Прилог 6. </p>-->
+    <br>
+    <!-------------------------------------------------------------------->
+	<iframe width="100%" height="377" src="https://www.youtube.com/embed/s1JAxrLDfw8" title="Crack growth test on CT specimen to ASTM E647 with ZwickRoell HA250" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <div id="linija"></div>
+	<p><b>ZwickRoellTV</b>: Crack growth test on CT specimen to ASTM E647 with ZwickRoell HA250 |02:03|</p>
+	<div id="linija"></div>     
+<!-------------------------------------------------------------------->
+    </div>
+    
+    <div id="menu7" class="tab-pane fade">
+<!--<p> Прилог 7. </p>-->
+    <br>
+    <!-------------------------------------------------------------------->
+    <iframe width="100%" height="377" src="https://www.youtube.com/embed/oloGxe2DGAA" title="Hot-mountable extensometer for high-temperature strain measurement (Epsilon Technology - Model 3549)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <div id="linija"></div>
+    <p><b>Epsilon Technology Corp.</b>: Hot-mountable extensometer for high-temperature strain measurement (Epsilon Technology - Model 3549) |03:18|</p>
+    <div id="linija"></div>     
+<!-------------------------------------------------------------------->
+    </div>
+
+    <div id="menu8" class="tab-pane fade">
+<!--<p> Прилог 8. </p>-->
+    <br>
+    <!-------------------------------------------------------------------->
+    <iframe width="100%" height="377" src="https://www.youtube.com/embed/_Tr3ojXW8b0" title="Ductile Damage evolution in Abaqus (02 - Effect of Fracture strain on Element deletion)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <div id="linija"></div>
+	<p><b>SimTech05</b>: Ductile Damage evolution in Abaqus (02 - Effect of Fracture strain on Element deletion) |10:01|</p>
+	<div id="linija"></div>     
+<!-------------------------------------------------------------------->         
+    </div>
+
+    <div id="menu9" class="tab-pane fade">
+<!--<p> Прилог 9. </p>-->
+    <br>
+    <!-------------------------------------------------------------------->
+    <iframe width="100%" height="377" src="https://www.youtube.com/embed/3Q1mhU72CRk" title="#33 ABAQUS Tutorial: Metal Plasticity | Engineering to True Stress-Strain Conversion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <div id="linija"></div>
+    <p><b>Ahmed Elkady</b>: #33 ABAQUS Tutorial: Metal Plasticity | Engineering to True Stress-Strain Conversion |30:15|</p>
+    <div id="linija"></div>     
+<!-------------------------------------------------------------------->         
+    </div>
+
+    <div id="menu10" class="tab-pane fade">
+<!--<p> Прилог 10. </p>-->
+    <br>
+    <!-------------------------------------------------------------------->
+    <iframe width="100%" height="377" src="https://www.youtube.com/embed/e_WzpeG9mkY" title="Robotic Testing System roboTest L for Tensile Tests on Rubber" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <div id="linija"></div>
+    <p><b>ZwickRoellTV</b>: Robotic Testing System roboTest L for Tensile Tests on Rubber |01:29|</p>
+    <div id="linija"></div>     
+<!-------------------------------------------------------------------->         
+    </div>
+
 </div>
 </div>
+<!--------------------------------- крај хоризонталног менија -------------------------------------------------------->
+<br>
+<br>
+<!---------------------------------- Литература --------------------------------------------------------------------->
+<section>
+	<h1  id="Литература">Литература</h1>
+        <ol>
+        <h3>
+<li>М.М. Ристић: Принципи науке о материјалима, САНУ, Књига DCXVII, Одељење техничких наука, Београд, 1993.</li>
+<li>H.V.V. Lawrence: Elements of Materials Science and Engineering, Addison-Wesley Publishing Company, USA, 1984.</li>
+<li>R.W.Hertzberg: Deformation and Fracture Mechanics of Engineering Materials, John Wiley & Sons, New York, 1976.</li>
+        </ol>
+        </h3>
+</section>	        
+<br>
+<section>
+<!-------------------------------------------------////-------------------------------------------------------------->
+<button type="button" class="btn btn-warning btn-block" data-toggle="modal" data-target="#KS_sira_literatura"><p> Коментар </p></button>
+<ol><h3><p>због тога што је и моје интересовање усмерено микро и макро механичком моделирању материјала, приложена је и шира литература за информисање и истраживање.</p></h3></ol>
+<div id="KS_sira_literatura" class="modal fade" role="dialog">
+  <div class="modal-dialog">    <!--<div class="modal-dialog (modal-lg)">-->
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Imm-2023</h4>
+      </div>
+      <div class="modal-body">
+<!---------------------------------------------------------------------------------------------------------->
+    <ol>
+    <h3>
+	<li><a href="1/MMMMM/01_Materials Science and Engineering.pdf" target="_blank">W.D. Callister, D.G. Rethwisch: Materials Science and Engineering, Wiley, 2018.</a></li>
 
+    <li><a href="1/MMMMM/02_Materials_Engineering_Science_Processing_and_Design.pdf" target="_blank">M. Ashby, H. Shercliff, D. Cebon: Materials (Engineering, Science, Processing and Design), Butterworth-Heinemann is an imprint of Elsevier, 2007.</a></li>
 
+    <li><a href="1/MMMMM/03_Mechanics of materials.pdf" target="_blank">J.M. Gere, S.P. Timoshenko: Mechanics of materials, PWS Publishing Company, 1997.</a></li>
 
-<!-------------------------------------------------- ЛЕВИ СТУБАЦ ----------------------------------------------->
+    <li><a href="1/MMMMM/04_Concrete Technology.pdf" target="_blank">A.M. Neville, J.J. Brooks: Concrete technology, Longman Group UK Limited, 1987.</a></li>
+
+    <li><!--<a href="1/MMMMM/05_MECHANICS_II_MECHANICS_OF_MATERIALS.pdf" target="_blank">-->J.W. Dally, R.J. Bonenberger, W.L. Fourney: Mechanics II, College House Enterprises, LLC, 2015.</a></li>
+
+    <li><!--<a href="1/MMMMM/06_The Vitreous State_thermodynamics, structure, rheology and crystallization.pdf" target="_blank">-->I.S. Gutzow, J.W.P. Schmelzer: The Vitreous State (Thermodynamics, Structure, Rheology and Crystallization, Springer-Verlag Berlin Heidelberg, 2013.</a></li>
+
+    <li><!--<a href="1/MMMMM/07_Materials_Selection_in_Mechanical_Design.pdf" target="_blank">-->M.F. Ashby: Materials Selection in Mechanical Design, Published by Elsevier Ltd., 2011.</a></li>
+
+    <li><!--<a href="1/MMMMM/08_M_E_C_H_A_N_I_C_S.pdf" target="_blank">-->A.K. Kaw: Mechanics of composite materials, CRC Press, 2006.</a></li>
+
+    <li><!--<a href="1/MMMMM/09_ENGINEERING_COMPOSITE_MATERIALS.pdf" target="_blank">-->B. Harris: Engineering composite materials, The Institute of Materials, London, 1999.</a></li>
+
+    <li><!--<a href="1/MMMMM/10_Essentials of Materials Science & Engineering.pdf" target="_blank">-->D.R. Askeland, P.P. Fulay: Essentials of Materials Science and Engineering, Cengage Learning, Toronto, 2009.</a></li>
+
+    <li><!--<a href="1/MMMMM/11_Polymers Polymer Blends Polymer Composites And Filled Polymers_Synthesis Properties and Applications.pdf" target="_blank">-->A.K. Mikitaev, M.Kh. Ligidov, G.E. Zaikov: Polymers, polymer blends, polymer composites, and filled polymers, Nova Science Publishers, Inc., New York, 2006.</a></li>
+
+    <li><!--<a href="1/MMMMM/12_A Manual for Design of Hot-Mix Asphalt with Commentary.pdf" target="_blank">-->National Academies of Sciences, Engineering, and Medicine 2011. A Manual for Design of Hot-Mix Asphalt with Commentary. Washington, DC: The National Academies Press. https://doi.org/10.17226/14524.</a></li>
+
+    <li><!--<a href="1/MMMMM/13_Asphalt mixture selection.pdf" target="_blank">-->C. Nicholls, A. Hannah: Asphalt Mixture Selection, CRC Press is an imprint of Taylor & Francis Group, 2020.</a></li>
+
+    <li><!--<a href="1/MMMMM/14_Mechanical Behaviour and Testing of Materials.pdf" target="_blank">-->A.K. Bhargava, C.P. Sharma: Mechanical behavioour and testing of materijals, PHI Learning, New Delhi, 2014.</a></li>
+
+    <li><!--<a href="1/MMMMM/15_Rheology Modifiers Handbook_Practical Use and Applilcation.pdf" target="_blank">-->D.B. Braun, M.R. Rosen: Rheology modifiers handbook: practical use & application, William Andrew Publishing Norwich, New York, USA, 2000.</a></li>
+
+    <li><!--<a href="1/MMMMM/16_Rheological and Morphological Properties of Dispersed Polymeric Materials_Filled Polymers and Polymer Blends.pdf" target="_blank">-->H. Münstedt: Rheological and Morphological Properties of Dispersed Polymeric Materials, Carl Hanser Verlag, Munich 2016.</a></li>
+
+    <li><!--<a href="1/MMMMM/17_Rheology and Processing of Polymeric Materials_Volume 1_Polymer Rheology.pdf" target="_blank">-->C.D. Han: Rheology and processing of polymeric materials-Volume 1, Oxford University Press, Inc., 2007.</a></li>
+
+    <li><!--<a href="1/MMMMM/18_Rheology and Processing of Polymeric Materials_Volume 2_Polymer Rheology.pdf" target="_blank">-->C.D. Han: Rheology and processing of polymeric materials-Volume 2, Oxford University Press, Inc., 2007.</a></li>
+
+    <li><!--<a href="1/MMMMM/19_Handbook of Damage Mechanics.pdf" target="_blank">-->G.Z. Voyiadjis: Handbook of Damage Mechanics, Springer Science+Business Media, New York, 2015.</a></li>
+
+    <li><!--<a href="1/MMMMM/20_Inelastic Behavior of Materials and Structures Under Monotonic and Cyclic Loading.pdf" target="_blank">-->H. Altenbach, M. Brünig: Inelastic Behavior of Materials and Structures Under Monotonic and Cyclic Loading, Springer International Publishing, Switzerland, 2015.</a></li>
+
+    <li><!--<a href="1/MMMMM/21_DEFORMATION AND FRACTURE MECHANICS OF ENGINEERING.pdf" target="_blank">-->R.W. Hertzberg: Deformation and fracture mechanics of engineering materials, John Wiley & Sons, Inc., 1996.</a></li>
+
+    <li><!--<a href="1/MMMMM/22_Deformation and Fracture Mechanics of Engineering Materials.pdf" target="_blank">-->R.W. Hertzberg, R.P. Vinci, J.L. Hertzberg: Deformation and fracture mechanics of engineering materials, John Wiley & Sons, Inc., 2013.</a></li>
+
+    <li><!--<a href="1/MMMMM/23_Damage and Fracture Mechanics Failure Analysis of Engineering Materials and Structures.pdf" target="_blank">-->T. Boukharouba, M. Elboujdaini, G. Pluvinage: Damage and Fracture Mechanics, Springer Science + Business Media B.V. 2009.</a></li>
+    
+    <li><!--<a href="1/MMMMM/24_Fracture and size effect in concrete and other quasibrittle materials.pdf" target="_blank">-->Z.P. Bažant, J. Planas: Fracture and size effect, CRC Press is an imprint of Taylor & Francis Group, Boca Raton, London, New York, 1998.</a></li>
+
+    <li><!--<a href="1/MMMMM/25_Fracture mechanics fundamentals and applications.pdf" target="_blank">-->T.L. Anderson: Fracture mechanics, CRC Press is an imprint of Taylor & Francis Group, Boca Raton, London, New York, 2017.</a></li>
+
+    <li><!--<a href="1/MMMMM/25_1_SSGG_7_Continuous_and_Discontinuous_Mode.pdf" target="_blank">-->J. Tejchman, J. Bobi´nski:  Continuous and Discontinuous Modelling of Fracture in Concrete Using FEM, Springer-Verlag Berlin Heidelberg,  2013.</a></li>
+
+    <li><a href="1/MMMMM/26_Introduction to Computational Plasticity.pdf" target="_blank">F. Dunne, N. Petrinic: Introduction to Computational Plasticity, Oxford University Press, 2005.</a></li>
+
+    <li><a href="1/MMMMM/J_integral/1921 Griffith The phenomena of rupture and flow in solids.pdf" target="_blank">A.A. Griffith: The Phenomena of Rupture and Flow in Solids, Vol. CCXXL-A 587, London, 1920. 163-198.</a></li>
+
+    <li><a href="1/MMMMM/J_integral/rsta_1921_0006.pdf" target="_blank">A.A. Griffith: The Phenomena of Rupture and Flow in Solids. Philosophical Transactions of the Royal Society of London Series A, Containing Papers of a Mathematical or Physical Character, Vol. 221, 1921, pp. 163-198.</a></li>
+
+    <li><a href="1/MMMMM/J_integral/rice1968.pdf" target="_blank">J.R. Rice: A Path Independent Integral and the Approximate Analysis of Strain Concentration by Notches and Cracks, Journal of Applied Mechanics, 1968. pp. 379-386.</a></li> 
+
+    <li><!--<a href="1/MMMMM/29_A First Course in Differential Equations with Modeling Applications_Tenth Edition.pdf" target="_blank">-->D.G. Zill: A First Course in Differential Equations with Modeling Applications, Cengage Learning, Boston, 2013.</a></li>
+
+    <li><!--<a href="1/MMMMM/30_Principles of Structural Design_Wood Steel and Concrete.pdf" target="_blank">-->R.S. Gupta: Principles of structural design (Wood, Steel and Concrete), CRC Press Taylor & Francis Group, LLC, NY, 2014.</a></li> 
+    </ol>
+    </h3>
+<!-------------------------------------------------------------------->
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+</section>
+<br>
+<!------------------------------------------///////------------------------------------------------------------------>
+<!---------------------------------- крај Литература ---------------------------------------------------------------->
+<!-------------------------------------------------- End intertube -------------------------------------------------->
+</div>
+</div>
+</div>
+<!-------------------------------------------------- ЛЕВИ СТУБАЦ --------------------------------------------------->
 <div id="leftcolumn">
-
 <div class="innertube">
 <div class="leftnav">
+<h3>
 <ul>
 	<li><a href="02_osnovne.html">Основне академске студије</a></li>
 	<li><a href="03_master.html">Мастер академске студије</a></li>
 	<li><a href="04_doktorske.html">Докторске академске студије</a></li>
 </ul>
-</br>
+</h3>
+<br>
 <img src="slike/doktorske.png"></a>
+<br>
+<br>
 <div class="small">Докторске академске студије</br></div>
+<br>
+<p><b>Напомена:</b></p>
+<p> Прилози су у циљу едукације студената.</p>
+<br>
+<!-----------------------------------------------/////--------------------------------------------------------------->
+<button type="button" class="btn btn-default btn-block" data-toggle="modal" data-target="#ImmMD"><p> >>> Прилог </p></button>
+<ol><p><b>ИММ</b>: Прекинута веза вешаљке и греде за укрућење на друмском ланчаном мосту преко реке Тисе на путу Кањижа - Нови Кнежевац <b>замором материјала</b> |2003.год.|</p></ol>
+  <div class="modal fade" id="ImmMD" role="dialog">
+    <div class="modal-dialog">      <!--<div class="modal-dialog modal-lg">-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <h4 class="modal-title">Imm-2023</h4>
+        </div>
+        <div class="modal-body">
+<!--------------------------------------------------------------->  
+<div id="linija"></div>
+<img src="slike/mmmmm/Slika_015.jpg"></a>
+<div id="linija"></div>
+<center>-1-</center>
+<div id="linija"></div><br>
+<img src="slike/mmmmm/Slika_042.jpg"></a>
+<div id="linija"></div>
+<center>-2-</center>
+<div id="linija"></div><br>
+<img src="slike/mmmmm/Slika_060.jpg"></a>
+<div id="linija"></div>
+<center>-3-</center>
+<div id="linija"></div>
+<p><b>ИММ</b>: Прекинута веза вешаљке и греде за укрућење на друмском ланчаном мосту преко реке Тисе на путу Кањижа - Нови Кнежевац <b>замором материјала</b> |2003.год.|</p>
+<div id="linija"></div>
+<!---------------------------------------------------------------> 
+</div>  
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+     </div>
+    </div>
+  </div>
+</div>
+<!-----------------------------------------------/////--------------------------------------------------------------->
+<br>
+<img src="slike/mmmmm/DSC_0474.jpg"></a>
+<div id="linija"></div>
+<b>ИММ</b>: Узорци за тестирања при затезању.
+<div id="linija"></div>
+<br>
+<img src="slike/mmmmm/IMG_0949.jpg"></a>
+<div id="linija"></div>
+<b>ГФС</b>: Утврђивање статичког модула еластичности на основу тестирања при затезању.
+<div id="linija"></div>
+<br>
+<img src="slike/mmmmm/HPIM3445.jpg"></a>
+<div id="linija"></div>
+<b>ИММ</b>: Узорци за тестирања при чистом савијању.
+<div id="linija"></div>
+<br>
+<img src="slike/mmmmm/HPIM3469.jpg"></a>
+<div id="linija"></div>
+<b>ГФС</b>: Утврђивање статичког модула еластичности на основу тестирања при чистом савијању.
+<div id="linija"></div>
+<!--<br>
+<div id="linija"></div>
+<img src="slike/mmmmm/Slika_015.jpg"></a>
+<br>1.<br>
+<img src="slike/mmmmm/Slika_042.jpg"></a>
+<br>2.<br>
+<img src="slike/mmmmm/Slika_060.jpg"></a>
+<div id="linija"></div>
+<b>ИММ</b>: Прекинута веза вешаљке-замор материјала |2003.|
+<div id="linija"></div>-->
+<!------------------------------------------------------------------------------------------------------------------->
 </div>
 </div>
 </div>
-
-<!-------------------------------------------------- ДЕСНИ СТУБАЦ ----------------------------------------------->
+<!-------------------------------------------------- ДЕСНИ СТУБАЦ ------------------------------------------------->
 <div id="rightcolumn">
 <div class="innertube">
 <div id="linija"></div>	
@@ -239,43 +541,37 @@ hr {
 </div>
 </div>
 <div class="clear"></div>
-
-
-
-<!-------------------------------------------------- End Wrapper -------------------------------------------------->
-
-<!div id="linija"></div>
+<!-------------------------------------------------- End Wrapper --------------------------------------------------->
+<!----<div id="linija"></div>-->
 <div id="linija"></div>
 <div class="linija"></div>
 <footer>
 	<section>
-		<ul>
+	<ul>
 	<li><a href="index.html">| Почетна</a> |</li>
 	<li><a href="01_biografija.html">Curriculum vitae</a> |</li>
 	<li><a href="02_osnovne.html">Поверена настава</a> |</li>
 	<li><a href="05_moja_istrazivanja.html">Моја истраживања</a> |</li>
 	<li><a href="06_mostovi.html">Мостови</a> |</li>
 	<li><a href="index.html#kontakt">Контакт</a> |</li>
-		</ul>
+	</ul>
 	</section>
-
 	<section>	
-		<ul>
+	<ul>
 	<li><a href="02_osnovne.html">| Основне академске студије</a> |</li>
 	<li><a href="03_master.html">Мастер академске студије</a> |</li>
 	<li><a href="04_doktorske.html">Докторске академске студије</a> |</li>
 	<li><a href="07_mentorstvo.html">Менторство</a> |</li>
-		</ul>
+	</ul>
 	</section>	
 	<section>
-		<ul>
+	<ul>
 	<li><a href="http://nastavnik.gf.uns.ac.rs/12sawst1r9v9ld12qhv6h1i4se4b/">| Наставнички</a> |</li>
 	<li><a href="http://athos.gf.uns.ac.rs/moodle/">E-learning</a> |</li>
 	<li><a href="http://webmail.gf.uns.ac.rs/">Webmail</a> |</li> 
 	<li><a href="http://www.gf.uns.ac.rs/~zbornik/">Зборник радова Грађевинског факултета |</a></li>	
-		</ul>
+	</ul>
 	</section>
-
 <section>&nbsp;</section>
 
 <section><a href="http://www.gf.uns.ac.rs/">www.gf.uns.ac.rs</a></section>
