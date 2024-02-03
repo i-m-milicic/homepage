@@ -1,0 +1,182 @@
+﻿<!DOCTYPE html>
+<html>
+
+<!-- Styles -->
+<link href="css/style.css" rel="stylesheet" type="text/css" media="all">
+<link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />
+<!-- Scripts -->
+<script type='text/javascript' src='js/jquery.min.js'></script>
+<script type='text/javascript' src='js/menu.js'></script>
+<script type="text/javascript" src="js/jquery.flexslider-min.js"></script>
+<script type="text/javascript" charset="utf-8">
+ $(window).load(function() {
+    $('.flexslider').flexslider({
+      animation: "fade",
+      controlsContainer: ".flex-container", 
+	  controlNav: true,
+	  slideshowSpeed: 8000, 
+	  animationLoop: true,
+	  pauseOnAction: true,   
+	  pauseOnHover: true,
+	   start: function(slider) {
+         // animate your caption ... 
+         // find the item that is the current slide's .slidecaption and animate it
+         $('.flex-active-slide').find('.flex-caption').css("display", "block");
+		  $('ul#menu').hover(
+		  function(){
+            slider.pause();        
+			}
+		);
+        },
+	  before: function(slider) {
+         // animate your caption ... 
+         // find the item that is the current slide's .slidecaption and animate it
+         $('.flex-active-slide').find('.flex-caption').css("display", "none");        
+    }, 
+        after: function(slider) {
+         // animate your caption ... 
+         // find the item that is the current slide's .slidecaption and animate it	 
+         $('.flex-active-slide').find('.flex-caption').fadeIn("400");
+      }
+    });  
+});
+</script>
+</head>
+
+
+
+
+
+<!-- Body -->
+<body>
+<!--<div id="linija"></div> -->
+
+<!-- Flex -->
+<div class="flex-container center">
+<div class="flexslider">
+<ul class="slides">
+
+	<li><img src="img/01_2015.jpg" alt="NG">
+	<div class="flex-caption polozaj3">
+        <div class="featureCopy">2015</div>
+        <div class="featureCopy">Данијела Видаковић 7/2013</div>
+  	</li>
+
+    <li><img src="img/02_2015.jpg" alt="NG">
+        <div class="flex-caption polozaj3">
+        <div class="featureCopy">2015</div>
+        <div class="featureCopy">Ђурђија Добричић 91/2015</div>
+    </li>
+
+    <li><img src="img/01_2016.jpg" alt="GFS">
+        <div class="flex-caption polozaj3">
+        <div class="featureCopy">2016</div>
+        <div class="featureCopy">Желимир Томић 88/2013</div>
+  	</li>
+
+    <li><img src="img/02_2016.jpg" alt="NG">
+        <div class="flex-caption polozaj3">
+        <div class="featureCopy">2016</div>
+        <div class="featureCopy">Здравко Мирић 86/2015</div>
+  	</li>
+
+    <li><img src="img/03_2016.jpg" alt="NG">
+        <div class="flex-caption polozaj3">
+        <div class="featureCopy">2016</div>
+        <div class="featureCopy">Данијел Лацко 3/2014</div>
+  	</li>
+
+    <li><img src="img/04_2016.jpg" alt="NG">
+        <div class="flex-caption polozaj3">
+        <div class="featureCopy">2016</div>
+        <div class="featureCopy">Нена Вучићевић 94/2015</div>
+  	</li>
+
+    <li><img src="img/05_2016.jpg" alt="NG">
+        <div class="flex-caption polozaj3">
+        <div class="featureCopy">2016</div>
+        <div class="featureCopy">Предраг Кузмановић 106/2015</div>
+  	</li>
+
+    <li><img src="img/06_2016.png" alt="NG">
+        <div class="flex-caption polozaj3">
+        <div class="featureCopy">2016</div>
+        <div class="featureCopy">Ивана Симић 90/2015</div>
+  	</li>
+
+    <li><img src="img/07_2016.png" alt="NG">
+        <div class="flex-caption polozaj3">
+        <div class="featureCopy">2016</div>
+        <div class="featureCopy">Милош Гатарић 79/2015</div>
+    </li>                
+<!------------------------------------------------------->
+
+   <li><img src="img/08_2017.png" alt="NG">
+        <div class="flex-caption polozaj3">
+        <div class="featureCopy">2017</div>
+        <div class="featureCopy">Борис Спасојевић 13/2015</div>
+    </li> 
+<!------------------------------------------------------->
+
+
+
+<!------------------------------------------------------->
+   <li><img src="img/12_2020.jpg" alt="NG">
+        <div class="flex-caption polozaj3">
+        <div class="featureCopy">2020</div>
+        <div class="featureCopy">Миљан Везмар 51/2015</div>
+    </li> 
+
+   <li><img src="img/13_2020.jpg" alt="NG">
+        <div class="flex-caption polozaj3">
+        <div class="featureCopy">2020</div>
+        <div class="featureCopy">Алекса Вуковић 44/2018</div>
+    </li> 
+<!------------------------------------------------------->
+    <li><img src="img/14_2021.jpg" alt="NG">
+        <div class="flex-caption polozaj3">
+        <div class="featureCopy">2021</div>
+        <div class="featureCopy">Милена Симић 15/2019</div>
+  	</li>
+
+    <li><img src="img/15_2021.jpg" alt="NG">
+        <div class="flex-caption polozaj3">
+        <div class="featureCopy">2021</div>
+        <div class="featureCopy">Димитрије Стојановић 16/2019</div>
+ 	</li>
+ 
+   <li><img src="img/16_2022.png" alt="NG">
+        <div class="flex-caption polozaj3">
+        <div class="featureCopy">2022</div>
+        <div class="featureCopy">Енике Молнар 17/2020</div>
+ 	</li>        
+
+       
+</ul>   	
+</div>
+<!--------------------------- End Flex ------------------->
+
+</footer>	
+<!--<div id="linija"></div>-->
+<a href="#" class="to_top"></a>
+<script>
+jQuery(document).ready(function() {
+    var offset = 220;
+    var duration = 500;
+    jQuery(window).scroll(function() {
+        if (jQuery(this).scrollTop() > offset) {
+            jQuery('.to_top').fadeIn(duration);
+        } else {
+            jQuery('.to_top').fadeOut(duration);
+        }
+    });
+    
+    jQuery('.to_top').click(function(event) {
+        event.preventDefault();
+        jQuery('html, body').animate({scrollTop: 0}, duration);
+        return false;
+    })
+});
+</script>
+</body>
+</html>
