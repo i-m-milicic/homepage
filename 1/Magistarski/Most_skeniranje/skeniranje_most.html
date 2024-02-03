@@ -1,0 +1,142 @@
+﻿<!DOCTYPE html>
+<html>
+<!-- Styles -->
+<link href="css/style.css" rel="stylesheet" type="text/css" media="all">
+<link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />
+<!-- Scripts -->
+<script type='text/javascript' src='js/jquery.min.js'></script>
+<script type='text/javascript' src='js/menu.js'></script>
+<script type="text/javascript" src="js/jquery.flexslider-min.js"></script>
+<script type="text/javascript" charset="utf-8">
+ $(window).load(function() {
+    $('.flexslider').flexslider({
+      animation: "fade",
+      controlsContainer: ".flex-container", 
+	  controlNav: true,
+	  slideshowSpeed: 8000, 
+	  animationLoop: true,
+	  pauseOnAction: true,   
+	  pauseOnHover: true,
+	   start: function(slider) {
+         // animate your caption ... 
+         // find the item that is the current slide's .slidecaption and animate it
+         $('.flex-active-slide').find('.flex-caption').css("display", "block");
+		  $('ul#menu').hover(
+		  function(){
+            slider.pause();        
+			}
+		);
+        },
+	  before: function(slider) {
+         // animate your caption ... 
+         // find the item that is the current slide's .slidecaption and animate it
+         $('.flex-active-slide').find('.flex-caption').css("display", "none");        
+    }, 
+        after: function(slider) {
+         // animate your caption ... 
+         // find the item that is the current slide's .slidecaption and animate it	 
+         $('.flex-active-slide').find('.flex-caption').fadeIn("400");
+      }
+    });  
+});
+</script>
+</head>
+
+
+<!-- Body -->
+<body>
+<div id="linija" /></div>
+<div id="linija" /></div>
+
+
+<!-- Flex -->
+<div class="flex-container center">
+    <div class="flexslider">
+    <ul class="slides">
+		<li><img src="img/01.PNG" alt="NG" />
+		<div class="flex-caption polozaj3">
+          	<div class="featureCopy">3Д ласерско скенирање (Cyrax 2500)- леви део главног отвора моста.</div>
+          	<div class="featureCopy">(поглед низводно са леве обале)
+        
+		</div>
+  		</li>
+        	<li><img src="img/02.PNG" alt="NG" />
+        	<div class="flex-caption polozaj3">
+       	 	<div class="featureCopy">Друмски ланчани мост преко реке Тисе на путу Кањижа - Нови Кнежевац.</div>
+          	<div class="featureCopy">(један од објеката научног теоријско експерименталног истраживања)
+
+
+		</div>
+       		</li> 
+       		<li><img src="img/08.JPG" alt="GFS" />
+          	<div class="flex-caption polozaj3">
+           	<div class="featureCopy">3Д ласерски скенер - Leica Cyrax HD 2500.</div>
+          	<div class="featureCopy">(оператери: Угљеша и Марко)
+        
+		</div>
+       		</li> 
+       		<li><img src="img/03.PNG" alt="GFS" />
+          	<div class="flex-caption polozaj3">
+           	<div class="featureCopy">3Д ласерско скенирање - средњи део главног отвора моста.</div>
+          	<div class="featureCopy">(поглед низводно са леве обале)
+
+		</div>
+  		</li>
+        	<li><img src="img/04.PNG" alt="NG" />
+        	<div class="flex-caption polozaj3">
+       	 	<div class="featureCopy">Друмски ланчани мост преко реке Тисе на путу Кањижа - Нови Кнежевац.</div>
+          	<div class="featureCopy">(један од објеката научног, теоријско експерименталног истраживања)
+
+		</div>
+       		</li> 
+       		<li><img src="img/07.JPG" alt="GFS" />
+          	<div class="flex-caption polozaj3">
+           	<div class="featureCopy">3Д ласерско скенирање - Leica Cyrax HD 2500.</div>
+          	<div class="featureCopy">(дана: 03.VI.2003. године)
+
+		</div>
+  		</li>
+        	<li><img src="img/05.PNG" alt="NG" />
+        	<div class="flex-caption polozaj3">
+		<div class="featureCopy">3Д ласерско скенирање - леви део главног отвора моста.</div>
+          	<div class="featureCopy">(поглед низводно са леве обале) 
+
+		</div>
+  		</li>
+        	<li><img src="img/06.PNG" alt="NG" />
+        	<div class="flex-caption polozaj3">
+		<div class="featureCopy">3Д ласерско скенирање - главни отвор моста.</div>
+          	<div class="featureCopy">(поглед низводно са леве обале) 
+
+ 	</li>        
+      	</ul>   
+    	</div>
+	</div>
+<!-- End Flex -->
+
+
+</footer>	
+<div id="linija" /></div>
+<div id="linija" /></div>
+<a href="#" class="to_top"></a>
+<script>
+jQuery(document).ready(function() {
+    var offset = 220;
+    var duration = 500;
+    jQuery(window).scroll(function() {
+        if (jQuery(this).scrollTop() > offset) {
+            jQuery('.to_top').fadeIn(duration);
+        } else {
+            jQuery('.to_top').fadeOut(duration);
+        }
+    });
+    
+    jQuery('.to_top').click(function(event) {
+        event.preventDefault();
+        jQuery('html, body').animate({scrollTop: 0}, duration);
+        return false;
+    })
+});
+</script>
+</body>
+</html>
