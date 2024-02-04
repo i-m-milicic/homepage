@@ -1,0 +1,1615 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Search><pages Count="27"><page Index="1"><![CDATA[Introduction to the RC building example. Modeling and analysis of the design example.
+                                                    P. Fajfar and M. Kreslin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                              (a)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                             (b)
+
+
+                 Figure 2.1.1 Floor plan of the building: (a) basement levels and (b) levels above 0. The X- and
+                 Y-axes as well as the origin of the global coordinate system and the centre of mass (CM) are
+                                                         marked
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                           28]]></page><page Index="2"><![CDATA[Introduction to the RC building example. Modeling and analysis of the design example.
+                                                    P. Fajfar and M. Kreslin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    Figure 2.1.2 Schematic cross-section of the building
+
+
+
+
+
+               2.1.2 ACTIONS
+
+
+               2.1.2.1 Seismic actions
+
+               The seismic action is represented by the elastic response spectrum, Type 1 (M s  > 5.5, EN 1998-
+               1/3.2.2.2(2)P) for soil B (EN 1998-1/Table 3.1). The reference peak ground acceleration amounts to
+               a gR  = 0.25g. The values of the periods (T B , T C , T D ) and of the soil factor (S), which describe the shape
+               of the elastic response spectrum, amount to T B  = 0.15s, T C  = 0.5 s, T D  = 2.0 s and S = 1.2 (EN 1998-
+               1/Table 3.2). The building is classified  as importance class II (EN 1998-1/Table 4.3) and the
+               corresponding  importance factor amounts to  J I  = 1.0 (EN 1998-1/4.2.5(5)P).  Therefore the peak
+               ground acceleration is equal to the reference peak ground acceleration a g  = J I *a gR  = 0.25g. Using the
+               equation in EN 1998-1/3.2.2.2 the elastic response spectrum was defined for 5% damping.
+               For the design of the building the design response spectrum is used (i.e. elastic response spectrum
+               reduced by the behaviour factor q). Determination of the behaviour factor q, which depends on the
+               type of the structural system,  regularity  in elevation and plan, and ductility class, is described in
+               Section  2.4. It amounts  to 3.0. The design spectrum for elastic analysis  was defined using
+               expressions in EN 1998-1/3.2.2.5(4)P.  The elastic response spectrum and  the  design response
+               spectrum (q = 3.0) are plotted in Figure 2.1.3.
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                           29]]></page><page Index="3"><![CDATA[Introduction to the RC building example. Modeling and analysis of the design example.
+                                                    P. Fajfar and M. Kreslin
+
+
+                      uncracked section were multiplied by factor 0.5. Also the torsional stiffness of the elements
+                      has been reduced. Torsional stiffness of  the cracked section  was set equal to 10% of the
+                      torsional stiffness of the uncracked section.
+
+                  o   Infills are not considered in the model.
+                  o   The accidental torsional effects are taken into account by means of torsional moments about
+                      the vertical axis according to EN 1998/4.3.3.3.3 (see section 2.5.3)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                               Figure 2.2.1 Structural model
+
+
+               2.2.1.1 Effective widths of beams
+
+
+               The effective widths of beams  b eff  were calculated according to EN 1992/5.3.2.1. Determined were
+               two different widths for interior beams (BINT1 and BINT2, Fig 2.2.2) and two widths for exterior beams
+               (BEXT1 and BEXT2 Fig. 2.2.2). A constant width was adopted over the whole span. In such a case
+               the value of the b eff  applicable for the span should used (EN 1992/5.3.2.1(4)). The corresponding l o
+               (distance between points of zero moment) amounts to 70% of the element length (EN 1992, Figure
+               5.2). The values of the effective widths b eff  are shown in Fig. 2.2.2. They are rounded to 5 cm.
+
+
+
+
+
+
+
+
+
+
+
+                                                           32]]></page><page Index="4"><![CDATA[Introduction to the RC building example. Modeling and analysis of the design example.
+                                                    P. Fajfar and M. Kreslin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                         Figure 2.2.2 Effective widths of the beams
+
+
+               2.2.1.2 Modelling the peripheral walls
+
+               The peripheral walls are modelled with line elements and a rigid beam at the top of each element.
+               The rigid beams (denotation RB in ETABS) are modelled as rectangular cross section 0.5/0.5 m. A
+               large value for the beam stiffness was obtained by multiplying all characteristics (area, shear area,
+               moment of inertia, torsional constant) with  a factor of 100.  Eight fictitious columns in X direction
+               (denotation WB1), four columns in Y direction (WB2) and four corner columns (WBCOR, see Figure
+               2.2.3) are used for the modelling of peripheral walls. For each column, the area, the moment of inertia
+               about the strong axis and the shear area in the direction of the strong axis are calculated as a part of
+               the respective characteristic of the whole peripheral wall in the selected direction (WB1* in X direction,
+               WB2* in Y direction). The cross sections of the walls are 30*0.3 m and 21*0.3 m in the case of WB1*
+               and WB2*, respectively. The moment about the weak axis and the shear area in the direction of weak
+               axes are determined using the effective width of the fictitious column. We arbitrarily assumed that the
+               effective width for columns WB1 and WB2 amounts to 4 m, which is the same value as the width of
+               the walls W1-W4 in the storeys above basement. The torsional stiffness of the columns is neglected.
+               In the case of the column  WB1, the area, shear  area and moment of inertia about strong axes
+               represent 1/5 of the values corresponding to the whole wall WB1*, whereas in the case of the column
+               WB2, they amount to 1/3 of the values of the wall WB2*. For the corner columns (WBCOR), the area
+               represents the sum of the proportional values of both walls (WB1* and WB2*), the shear area (A s,22 )
+               and the moment of inertia about the axis 3 originates from the wall WB1*, whereas the shear area
+               (A s,33 ) and the moment about  the axis 2 originate from the  wall WB2*.  Local  axes (2 and 3) of all
+               columns are oriented in such a way, that the axis 2 coincides with the global axis X and the axis 3
+               with the global axis Y.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                           33]]></page><page Index="5"><![CDATA[Introduction to the RC building example. Modeling and analysis of the design example.
+                                                    P. Fajfar and M. Kreslin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Figure 2.2.3 Modelling the peripheral walls
+
+
+
+
+               2.3 Structural regularity
+
+
+
+               Regularity of the structure (in elevation and in plan) influences the required structural model (planar or
+               spatial), the required method of analysis and the value of the behaviour factor q (EN 1998-1/4.2.3.1).
+               As shown in this section, the test structure can be categorized as being regular in elevation and in
+               plan. A lot of work has to be done to check the criteria for regularity in plan (see section 2.3.1) and, in
+               practice, a designer may wish to avoid this work by assuming that the structure is irregular in plan.
+               (Ir)regularity in plan may  influence the magnitude of the seismic action (via the overstrength factor
+               D u /D 1 ). In the case of the investigated building the overstrength factor does no apply and there is no
+               difference between seismic actions for a plan-regular and plan-irregular building. The test structure is
+               regular also in elevation, if we do not consider the irregularity due to basement. For a structure regular
+               in plan and in elevation, the most simple approach can be applied, i.e.a planar model can be used
+               and a lateral force method can be performed. Moreover, the reference value of the basic behaviour
+               factor q 0  can be used (see EN 1998-1/Table 4.1). Nevertheless, in this report, the standard (i.e.
+               spatial) model and the standard (i.e. modal response spectrum) analysis will be used.
+
+
+
+               2.3.1 CRITERIA FOR REGULARITY IN PLAN
+
+
+               In general, the regularity in plan can be checked when the structural model is defined. The criteria for
+               regularity in plan are described in EN 1998-1 (4.2.3.2)
+
+                  o   the slenderness of the building shall be not higher than 4 (O = L max /L min ),
+                  o   the structural eccentricity shall be smaller than 30% of the torsional radius (e 0X d 0.30r X , e 0Y d
+                      0.30r Y ) and
+                  o   the torsional radius shall be larger than the radius of the gyration of the floor mass in plan
+                      (r Xtl s , r Ytl s ).
+
+
+
+
+
+                                                           34]]></page><page Index="6"><![CDATA[Introduction to the RC building example. Modeling and analysis of the design example.
+                                                    P. Fajfar and M. Kreslin
+
+
+               six  modes would be  sufficient  to satisfy the  requirements in EN 1998-1/4.3.3.3(3) (the sum of the
+               effective modal masses amounts to at least 90% of the total mass).
+
+                Table 2.5.1 The elastic periods (T), the effective masses and the effective mass moments (M eff )
+
+                                                   T       M eff,UX  M eff,UY  M eff,MZ
+                                       Mode
+                                                   (s)      (%)      (%)       (%)
+                                         1        0.92     80.2       0.0      0.2
+                                         2        0.68      0.0      76.3      0.0
+                                         3        0.51      0.2       0.0      75.2
+                                         4        0.22     15.0       0.0      0.2
+                                         5        0.15      0.0      18.5      0.0
+                                         6        0.12      0.2       0.0      17.6
+                                                 6 M eff  =    95.7   94.7     93.1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     Figure 2.5.1 Three fundamental modes of vibration
+
+
+
+               2.5.3 ACCIDENTAL TORSIONAL EFFECTS
+
+
+               The torsional effects were considered  by means of the torsional moments (M Xi  and  M Yi ) about the
+               vertical axis according to  EN 1998-1/4.3.3.3.3. They are determined as a product of the horizontal
+               forces in each horizontal direction (F Xi  and F Yi ) and the corresponding accidental eccentricity (e Xi  and
+               e Yi ). The horizontal forces are obtained by the Lateral force method of analysis (see section 2.6.3).
+               Accidental eccentricities are equal to 5% of the floor-dimensions (L Xi  and  L Yi , see Figure 2.1.1).
+               Torsional moments as well as horizontal forces and accidental eccentricity are shown in Table 2.5.2.
+               Only torsional moments above level 0 were considered in the analysis.
+
+
+
+
+                                                           39]]></page><page Index="7"><![CDATA[Specific rules for design and detailing of concrete buildings. Design for DCM and DC. Illustration of elements...
+                                                   M.N. Fardis and G. Tsionis
+
+               3.3 Geometry of foundation elements
+
+
+
+
+               Figures 3.3.1 and 3.3.2 depict the layout of the foundation in plan and a vertical section of the building
+               showing the foundation elements. Single footings with dimensions 2.0×2.0×0.8 (width×depth×height in
+               meters) are used for columns C7 and C10, 1.8×1.8×0.8 for columns C8 and C9 and 2.0×1.5×0.8 for
+               columns C12 to C15. A common footing with dimensions 4.0×5.0×1.0 is used for the two walls W3,
+               W4 and an individual footing with dimensions 4.5×2.5×0.8 for wall W5. A strip footing with width 1.0 m
+               and height 0.30 m is used for the perimeter walls. Instead of a system of two-way  tie-beams,
+               horizontal connection  of the footings and the foundation strip  of the basement perimeter  walls is
+               provided by a foundation slab cast right below the top of the footings and the perimeter foundation
+               strip (see clause 5.4.1.2 para. (2), (3) and (7) of EN 1998-5:2004). This slab serves also as a floor of
+               the lower basement and helps create a rigid-box foundation system together with the perimeter walls
+               and the slab at the roof of the upper basement.
+
+
+
+                      1               2               3               4              5               6
+
+                A
+
+
+
+
+
+
+
+
+
+
+                B
+
+                                             SLAB
+
+
+
+
+
+
+
+                C
+
+
+
+
+
+
+
+
+
+                D
+
+                                                           BASEMENT
+
+                                             Fig. 3.3.1 Plan of the foundation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                           56]]></page><page Index="8"><![CDATA[Specific rules for design and detailing of concrete buildings. Design for DCM and DC. Illustration of elements...
+                                                   M.N. Fardis and G. Tsionis
+
+                                       D             C            B             A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                       SCHEMATIC SECTION
+
+                            Fig. 3.3.2 Section in the Y direction showing the foundation elements
+
+
+
+               3.4 ULS  and  SLS  verifications  and  detailing  according  to
+
+                      Eurocodes 8 and 2
+
+
+
+               3.4.1 GENERAL
+
+
+
+               Clause 4.4.2.1(1) of Eurocode 8 prescribes the conditions regarding resistance, ductility, equilibrium
+               and foundation stability that should be met at the ultimate limit state. To  satisfy the resistance
+               condition, it is verified that for all structural elements and all critical regions E d  ≤ R d , where E d  is the
+               design value of the action effect due to the seismic design situation and  R d  is the corresponding
+               design resistance of the element. In the resistance calculations, clause 5.2.4(2) recommends the use
+               of the partial factors for material properties applicable for the persistent and transient design situations.
+               According to clause 2.4.2.4(1) of Eurocode 2, their recommended values are γ c  = 1.5 for concrete and
+               γ s  = 1.15 for reinforcing steel.
+
+
+               3.4.2 OVERVIEW OF THE DETAILED DESIGN PROCEDURE
+
+
+               Especially in frames, capacity design introduces strong interdependence between various phases of a
+               building’s detailed seismic design for ductility, within or between members:
+                      o  dimensioning a column in flexure depends on the amount and layout of the longitudinal
+                          reinforcement of the beams it is connected to in any horizontal direction;
+                      o  dimensioning of a column or a beam in shear depends on the amount and detailing of its
+                          own longitudinal reinforcement, as well as of those framing into them at either end;
+
+
+
+
+                                                           57]]></page><page Index="9"><![CDATA[Specific rules for the design...: (iii).Composite steel concrete frame with eccentric and concentric bracings
+                                                   H. Degee and A Plumier
+
+
+
+               5.18 Definition of the structure
+
+
+
+
+               5.18.1 DIMENSIONS, MATERIAL PROPERTIES AND EARTHQUAKE ACTION
+
+
+               Dimensions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Fig. 5.18.1 3D view of the 5 storey building
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 View of the building – X-direction – Eccentric   View of the  building – Y-direction – Concentric
+                                 bracings                                     bracings
+                                      Fig. 5.18.2 The office building and its bracings
+
+
+
+
+
+
+
+
+
+                                                           191]]></page><page Index="10"><![CDATA[3  6  5  4                                                                  Fig. 3.5.6 Beam framing plan at roof   70
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      2
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      1
+
+                                                                                              Roof
+
+                               A                           B                           C]]></page><page Index="11"><![CDATA[6
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      5
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                  Fig. 3.5.6 Beam framing plan at roof
+                      4
+
+
+
+
+
+
+                                                                                                                  70
+
+
+
+
+
+                      3
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      2
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      1
+
+                                                                                              Roof
+                               A                           B                           C]]></page><page Index="12"><![CDATA[3  6  5  4                                                                  Fig. 3.5.7 Beam framing plan at storey 5   71
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    2
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    1
+                                                                                           Level 5
+
+
+
+                             A                           B                           C]]></page><page Index="13"><![CDATA[6
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    5
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    4
+
+
+
+
+
+
+                                                                                                Fig. 3.5.7 Beam framing plan at storey 5   71
+
+
+
+
+
+                    3
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    2
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    1
+                                                                                           Level 5
+
+
+                             A                           B                           C]]></page><page Index="14"><![CDATA[3  6  5  4                                                                  Fig. 3.5.8 Beam framing plan at storey 4   72
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    2
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    1
+                                                                                           Level 4
+
+
+
+                             A                           B                           C]]></page><page Index="15"><![CDATA[6
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    5
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    4
+
+
+
+
+
+
+                                                                                                Fig. 3.5.8 Beam framing plan at storey 4   72
+
+
+
+
+
+                    3
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    2
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    1
+                                                                                           Level 4
+
+
+                             A                           B                           C]]></page><page Index="16"><![CDATA[3  6  5  4                                                                  Fig. 3.5.9 Beam framing plan at storey 3   73
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    2
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    1
+                                                                                           Level 3
+
+
+
+                             A                           B                           C]]></page><page Index="17"><![CDATA[6
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    5
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    4
+
+
+
+
+
+
+                                                                                                Fig. 3.5.9 Beam framing plan at storey 3   73
+
+
+
+
+
+                    3
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    2
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    1
+                                                                                           Level 3
+
+
+                             A                           B                           C]]></page><page Index="18"><![CDATA[3  6  5  4                                                                  Fig. 3.5.10 Beam framing plan at storey 2      74
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    2
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    1
+                                                                                            Level 2
+
+
+
+                             A                           B                           C]]></page><page Index="19"><![CDATA[6
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    5
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    4
+
+
+
+
+
+
+                                                                                                Fig. 3.5.10 Beam framing plan at storey 2      74
+
+
+
+
+
+                    3
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    2
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    1
+                                                                                            Level 2
+
+
+
+                             A                           B                           C]]></page><page Index="20"><![CDATA[3  6  5  4                                                                  Fig. 3.5.11 Beam framing plan at storey 1   75
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    2
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    1
+                                                                                            Level 1
+
+
+
+                             A                           B                           C]]></page><page Index="21"><![CDATA[6
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    5
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    4
+
+
+
+
+
+
+                                                                                                Fig. 3.5.11 Beam framing plan at storey 1   75
+
+
+
+
+
+                    3
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    2
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    1
+                                                                                            Level 1
+
+
+                             A                           B                           C]]></page><page Index="22"><![CDATA[3  6  5  4                                                                         Beam framing plan at storey 0   76
+                                                                                                        Fig. 3.5.12
+
+
+
+
+
+
+
+
+
+
+                     2
+
+
+
+
+
+
+
+
+
+
+
+                     1
+                                                                                                  Level 0
+
+
+                            A                     B                    C                     D]]></page><page Index="23"><![CDATA[6
+
+
+
+
+
+
+
+
+
+
+                     5
+
+
+
+
+
+
+                                                                                                        Beam framing plan at storey 0
+
+
+
+                     4
+
+
+
+
+
+                                                                                                                  76
+
+
+
+
+                     3
+                                                                                                        Fig. 3.5.12
+
+
+
+
+
+
+
+
+
+
+                     2
+
+
+
+
+
+
+
+
+
+
+
+                     1
+                                                                                                  Level 0
+
+
+                            A                     B                    C                     D]]></page><page Index="24"><![CDATA[3  6  5  4                                                                        Beam framing plan at storey -1   77
+                                                                                                       Fig. 3.5.13
+
+
+
+
+
+
+
+
+
+
+                     2
+
+
+
+
+
+
+
+
+
+
+                     1
+                                                                                                 Level -1
+
+
+                            A                    B                     C                    D]]></page><page Index="25"><![CDATA[6
+
+
+
+
+
+
+
+
+
+
+
+                     5
+
+
+
+
+
+                                                                                                       Beam framing plan at storey -1
+
+
+
+                     4
+
+
+
+
+
+                                                                                                                  77
+
+
+
+
+                     3
+                                                                                                       Fig. 3.5.13
+
+
+
+
+
+
+
+
+
+                     2
+
+
+
+
+
+
+
+
+
+
+
+                     1
+                                                                                                 Level -1
+
+
+                            A                    B                     C                    D]]></page><page Index="26"><![CDATA[Fig. 3.5.14
+                     3  6  5  4                                                                   BASEMENT  Reinforcement of footings   78
+
+
+
+                                                        SLAB
+
+
+
+
+
+                     2
+
+
+
+
+
+
+
+
+
+
+
+                     1
+
+
+
+                            A                     B                    C                     D]]></page><page Index="27"><![CDATA[6
+
+
+
+
+
+
+
+
+
+
+
+                     5
+
+
+
+
+
+
+
+                                                                                                        Reinforcement of footings
+
+
+                     4
+
+
+                                                                                                  BASEMENT
+
+                                                                                                                  78
+
+
+
+
+                                                                                                        Fig. 3.5.14
+                     3
+
+
+
+                                                        SLAB
+
+
+
+
+
+                     2
+
+
+
+
+
+
+
+
+
+
+
+                     1
+
+
+
+                            A                     B                    C                     D]]></page></pages></Search>
