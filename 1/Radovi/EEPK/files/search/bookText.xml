@@ -1,0 +1,632 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Search><pages Count="11"><page Index="1"><![CDATA[Miličić, I. M., et al.: Model for the Analysis of Thermal Conductivity of Composite Material ...
+                     THERMAL SCIENCE: Year 2019, Vol. 23, No. 6A, pp. 3513-3523                 3513
+
+
+
+
+                          MODEL  FOR  THE  ANALYSIS  OF  THERMAL  CONDUCTIVITY
+                                OF  COMPOSITE  MATERIAL  OF  NATURAL  ORIGIN
+
+                                                           by
+
+                                                                  b
+                                                                                            a
+                                            a*
+                            Ilija M. MILIČIĆ   , Radomir J. FOLIĆ   , Aleksandar D. PROKIĆ   ,
+                                                   and Arpad A. ČEH   a
+                             a  Faculty of Civil Engineering Subotica, University of Novi Sad, Subotica, Serbia
+                                b  Faculty of Technical Sciences, University of Novi Sad, Novi Sad, Serbia
+                                                    Original scientific paper
+                                              https://doi.org/10.2298/TSCI181215267M
+
+                             Thermal properties of the wall structure elements made from gel and straw (“Eth-
+                             no-eco-passive houses”) have been investigated. The gel was made from a mixture
+                             of clay, lime, and water. A 1-D mathematical model based on the continuum me-
+                             chanics, for predicting the thermal conductivity, is proposed. The results obtained
+                             by applying the proposed mathematical model were compared with the measure-
+                             ment data of experimental tests, using the Isomet 2114 instrument. The program
+                             envisages the measurement of thermal conductivity of three specimens, 5-year-old,
+                             comprising three series within 365 days. In the theoretical analysis, the same pa-
+                             rameters of thermal stability were treated as in the experiment. The average value
+                             of the material thermal conductivity is 0.0990 W/mK, so it can be concluded that,
+                             the composite material intended for the envelope of the proposed constructive sys-
+                             tem “Ethno-eco-passive house” is verified as thermally suitable.
+                             Key words: thermal analysis, thermal conductivity, composite plate
+
+                     Introductory remarks
+                             In order to use the new material for building Ethno-eco-passive houses [1], it is nec-
+                     essary to check thermal properties. The reason for this is that the thermal stability of the basic
+                     and complementary elements of constructive systems is an important parameter in determining
+                     the category of energy efficiency of the structure [2-5]. In thermal analysis for determining the
+                     thermal conductivity of materials, depending on whether the temperature distribution within the
+                     specimen is time-dependent or not, two groups of methods are used: static and dynamic.
+                             Static methods, i. e. methods of stable thermal conductivity conditions are obtained
+                     by using the Fourier’s law for conducting heat by measuring the temperature gradient, gradT,
+                     and the heat flux, q.
+                             In the case of a cylindrical form of a sample the dominant passage of thermal energy
+                     is in the axial direction with isothermal plane that are perpendicular to the axis of the cylinder.
+                     So, this is the basis of the physical model of linear heat energy implementation. On the other
+                     hand, due to the losses of heat caused by passing through the material it cannot be considered
+                     that the temperature gradient is always directed perpendicular to the isothermal plane. It is then
+                     necessary to pay a particular attention to the measurement of the temperature gradient value.
+
+
+
+                     * Corresponding author, e-mail: milicic@gf.uns.ac.rs]]></page><page Index="2"><![CDATA[Miličić, I. M., et al.: Model for the Analysis of Thermal Conductivity of Composite Material ...
+                     3514                             THERMAL SCIENCE: Year 2019, Vol. 23, No. 6A, pp. 3513-3523
+
+                             Dynamic methods, i. e. the methods of unstable states treat the distribution of the
+                     specimen temperature as a variable size in time, whereby the application of the differential 3-D
+                     equation of heat propagation is necessary. If the test time is short, then the heat loss has less
+                     influence on the measurement results. Dynamic methods can be divided into two categories:
+                     transient – if the amount of heat is transferred to a sample with one function treated as a con-
+                     stant source, or periodic – with modulation of a certain period. Consequently, the temperature
+                     changes in the treated material specimen will be either transient or periodic. When the thermal
+                     conductivity of building materials of weak thermal insulation properties is tested, the applica-
+                     tion of stable state methods requires more time to achieve the thermal equilibrium. Therefore,
+                     the dynamic method of measurement is faster and more convenient. The most commonly used
+                     is the so–called thermal conductivity probe with linear heat source [6]. The treated mathemati-
+                     cal 3-D model is based on the theoretical foundations of the Continuum Mechanics, for predict-
+                     ing the thermal conductivity, similar to [7-16].
+                             In this paper, the thermal theoretical experimental analysis was carried out on the ba-
+                     sis of which a model for estimating the thermal conductivity was formulated. In order to verify
+                     the accuracy of the model, an experimental analysis was performed on specimens collected
+                     from gel and straw. Gel is a mixture of clay, lime and water. The research was motivated by the
+                     need for examining the material for the construction of the building Ethno-eco-passive house,
+                     proposed by [1]. In the experiment realization, a non-standard method for testing the thermal
+                     conductivity was used. The results of the experiment confirmed the applicability of the tested
+                     building materials and were the basis for the validation of the proposed mathematical model for
+                     the prediction of thermal properties.
+                     Material and methods of experimental research
+
+                     Material for sample testing – composites
+                             The new construction material in this study was put on site, dried at daily tempera-
+                     ture and assembled as a mixture of minced straw and gel. The panel obtained by the method
+                     of incorporating a composite in wooden moulds 60×120×10 cm, fig. 1(c), was realized in two
+                     independent phases.
+                             The first phase is the preparation of the gel, fig. 1(b), made up of a mixture of water,
+                     clay and slag lime prepared by mixing. The second phase is completely independent and rep-
+                     resents the grinding of dry straw on a sieve with openings of 5.0 mm in diameter. Thus, fibrous
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                 (a)                (b)                 (c)
+                                Figure 1. Preparation and installation of composite materials in
+                                wooden moulds]]></page><page Index="3"><![CDATA[Miličić, I. M., et al.: Model for the Analysis of Thermal Conductivity of Composite Material ...
+                     THERMAL SCIENCE: Year 2019, Vol. 23, No. 6A, pp. 3513-3523                 3515
+                     (needle) granulation is obtained as the dominant component of the composite material of natu-
+                     ral origin, fig. 1(a).
+                             Therefore, prepared straw fibres have, with volume ratio, the largest share in the new
+                     composite thermo insulating material. The next stage of the composite material preparation is
+                     mixing based on gel volume constraints (one mix design specified by the project) and the fibre
+                                                                                          3
+                     of the ground straw to achieve the density of the material of about ρ = 600 kg/m . Thus, one
+                     feature is defined in the project Ethno-eco-passive houses, with a limit value for the density of
+                     the composite material.
+                             Generally, this boundary classifies material with good thermal insulating properties,
+                     provide receiving and transmitting external impacts. Among other activities, the drying regime
+                     was another activity during the preparation and realization of the composite material. In fig. 2,
+                     a diagram of the registered air temperature for 28 days is shown in the area in which the prefab-
+                     ricated panels are made of the composite material.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                             Morning  Midday  Maximum daily temperature
+                            Figure 2. Temperature of air in Pelagicevo – Republic of Srpska (09.08. – 05.09.2012)
+                                               (for color image see journal web site)
+                          Based on the consistently presented, a composite material
+                     of natural origin should provide high thermal stability, i. e. good
+                     thermal properties for the future building envelope. Elements for
+                     mounting of the constructive system Ethno-eco-passive houses                  b
+                     are coupled  T-crossing cross-sections  wood-composite plate-
+                     wood with steel screws as a means of clamping.
+                          Since the thermal analysis of the composite slab was
+                     the subject of the study, it was realized by taking three sam-
+                     ples of a prismatic form with a controlled geometry and by               a
+                     measuring the mass of the specimens during the course of the   d
+                     experiment, fig. 4.                                      Figure 4. Geometry of the
+                                                                              specimen of the prism tested
+                     Measuring system for experimental testing
+                             For the thermal analysis of specimens of the new composite material, the measuring
+                     system Isomet 2114 [6] was used, a portable hand-held measuring instrument for direct mea-
+                     surement of heat transfer properties.
+                             This system, fig. 3, uses a dynamic metering method to test composite specimens,
+                     and is equipped with two types of measuring probes: needle probe (for non-consolidated and
+                     composite materials) – applied in this study, and surface probe (for consolidated-solid and
+                     composite materials). On the basis of the above presented, non-standard procedures for testing
+                     specimens of composite materials in construction design from the point of view of determining
+                     the thermal conductivity under real environmental conditions were carried out.]]></page><page Index="4"><![CDATA[Miličić, I. M., et al.: Model for the Analysis of Thermal Conductivity of Composite Material ...
+                     3516                             THERMAL SCIENCE: Year 2019, Vol. 23, No. 6A, pp. 3513-3523
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Figure 3. The Isomet 2114 instrument for thermal conductivity
+                                measurements
+                             The program envisages measuring of thermal conductivity in three series with three
+                     specimens, 5 years old, within 365 days. In the theoretical analysis, the same parameters of
+                     thermal stability as in the experiment were treated.
+                     Geometry of specimens
+                             Experimental test specimens were subjected to the geometry control and volume cal-
+                     culation. The data are shown in tab. 1.
+                     Table 1. Geometric data of the specimens
+                       Specimen            I                     II                     III
+                        a [mm]   195   195   198  198   192   191  190   190   189  190   191   191
+                      a [mm]             196.5                  190.75                190.25
+                       av
+                      b [mm]     210   203   208   211  205   204  204   205   203  205   204   206
+                      b [mm]              208                   204.5                  204.5
+                       av
+                      d [mm]      87    80   80    85    89   84    79    84   88    80    83   80
+                      d [mm]              83                     84                    82.8
+                       av
+                            2
+                      P  [mm ]           40872                 39008.38              38906.13
+                       av
+                      V  [mm ]          3392376                3276704                3219482
+                            3
+                       av
+                     Test results of composite specimens
+                             The first specimen of the material ILIJA1 was tested in the period from 11:18 to 12:49,
+                     with the measuring instrument Isomet 2114. In fig. 5, the display shows the results of measur-
+                     ing of the thermal parameters of the first specimen from the first series. Individually important
+                     results for all three specimens in all three series of tests are shown in tab. 2.
+                        Table 2. The experimental results for all three specimens in all three series of testing
+                          Specimen            I                   II                  III
+                         Series of test  1   2      3      1      2      3     1      2      3
+                         Mass [g]    1760.2  1695.8  1692.4  1741.6  1678.2  1674.4  1757.0  1697.2  1692.8
+                         ρ [kgm ]    518.87  517.53  525.67  513.39  512.16  520.08  517.93  517.96  525.80
+                              –3
+                         λ [Wm K ]   0.0989  0.1003  0.0976  0.0990  0.1004  0.0967  0.0982  0.1005  0.0993
+                                –1
+                              –1
+                             Finally, the thermal conductivity of the composite material is found as the average
+                     value of the thermal conductivity of all three specimens from the three series of measurements:]]></page><page Index="5"><![CDATA[Miličić, I. M., et al.: Model for the Analysis of Thermal Conductivity of Composite Material ...
+                     THERMAL SCIENCE: Year 2019, Vol. 23, No. 6A, pp. 3513-3523                 3517
+                                 1
+                              λ =  (0.0987 0.1004 0.0979+  +  ) 0.0990=
+                                 3
+
+                     Theoretical analysis and mathematical modelling
+                          The mathematical model of 3-D extending heat through a
+                     homogeneous mechanical body is based on the physical law on
+                     the maintenance of energy [7, 8]. Solving the problem of heat
+                     spreading is based on the determination of:
+                        – the scalar temperature field – T(x, y, z, t),  
+                        – vector field of intensity of heat flux (flow) –  q( , , , )x y zt .
+                          The final solution is obtained when a connection between
+                     these two values is established. The law on energy maintenance
+                     must be satisfied at every material point of the mechanical body,
+                     so that the equation of the energy thermal equilibrium of the unit   Figure 5. Display results of
+                     volume, dV, can be written in the form:                  Isomet 2114
+                                                         ∂ (   ρ  )Tc
+                                                  divq −      p  +  f =  0                        (1)
+                                                            t ∂
+                     where the operator of the divergence of the vector field of the heat flux is:
+                                                           q ∂   q ∂  q ∂
+                                                divq = ∇=    1  +  2  +  3
+                                                        q
+                                                             x ∂  y ∂  z ∂
+                             Provided that the temperature describes the field of the potential of heat energy, then
+                                                                                               
+                     Fourier’s law is a constitutive relation, i. e. the connection between the heat flux vector,  q , per
+                     unit area in the chosen direction and the gradient temperature, grad T, for that direction. For the
+                     area or domain of the observed body, Ω, that is:
+                                                       
+                                                       q = − λ gradT                              (2)
+                     that is, in the tensor form it is:
+
+                                                                       T ∂
+                                                                        
+                                                 q x   λ  xx  λ   xy  λ  xz     x ∂  
+                                                   q y         λ = −  xy  λ  yy  λ  yz        ∂ T   
+                                                                     y ∂  
+                                                 q z     λ  xz  λ  yz  λ  zz     ∂ T  
+                                                                        
+                                                                       z ∂ 
+                     where the negative sign for Λ is introduced due to the convention for the direction of the heat
+                     flux, from a lower to a higher temperature level.
+                             By connecting eqs. (1) and (2) it follows that:
+
+                                                              ∂ (  ρ  )Tc
+                                                div( λ grad ) =  T  p  −  f                       (3)
+                                                    −
+                                                                  t ∂
+                     that is, the strict form of the differential equation of the law on the maintenance of energy, suit-
+                     able for solving the problem of spreading heat is:]]></page><page Index="6"><![CDATA[Miličić, I. M., et al.: Model for the Analysis of Thermal Conductivity of Composite Material ...
+                     3518                             THERMAL SCIENCE: Year 2019, Vol. 23, No. 6A, pp. 3513-3523
+
+                                                                ∂ ()T
+                                                    divq +  f =  ρ c                              (4)
+                                                                p
+                                                                   t ∂
+                     where in eqs. (4) and (2) λ is the symmetric second-order tensor-the thermal conductivity coef-
+                     ficient which, in the case of a homogeneous body, is scalar, according to [7], f – the heat energy
+                     produced in unit volume material, ρ – the density of material, c  – the specific heat of the mate-
+                                                                         p
+                     rial at constant pressure, and t – the time.
+                             Therefore, the parameters (f, ρ, c , λ) in the eqs. (1)-(4) are in general the case of func-
+                                                        p
+                     tions and positions and temperatures. However, the temperature, T, is the fundamental variable
+                     (primary size), while the heat flux, q, is dual size. This is especially important when choosing
+                     a disk space of discrete functions in the application of numerical methods, e. g. in physical dis-
+                     cretization with finite elements, i. e. their networks [8].
+                             The boundary conditions for the complete solution of the 3-D heat spread problem
+                     are defined for:
+                        – temperature, T, by the body border element, ∂Ω ,
+                                                                T
+                        – the heat flux, q, along the elements of the body boundary (∂Ω ), (∂Ω ), and ∂Ω , in the form:
+                                                                           q
+                                                                                         r
+                                                                                 c
+                                                    T = T   on the (∂ΩT),                         (5)
+                                                          h
+                                                  qn = q =   on the (∂Ωq),                        (6)
+                                                       h
+                                              qn =  c  h c ( q =  T   on the (∂Ωc),               (7)
+                                                              )T −
+                                                             a
+                                            qn =  r  h σ  ( q =  4  T a 4  ) A T −    on the (∂Ωr),   (8)
+                                                     r
+                             By the eq. (5) the boundary conditions are defined at the material points of the bound-
+                     ary of the body due to the known (set) temperature. Other boundary conditions are given by
+                     the eqs. (6)-(8) for the heat flux along the elements of the body’s surface area, if it is: known or
+                     assigned, due to heat transfer by convection, and due to heat transfer by radiation; where n is
+                     the unit normal of body surface treated, h  – the coefficient of convection, h  – the coefficient
+                                                                                     r
+                                                        c
+                     of radiation, σ = 5.67∙10  W/m K  – the Stefan-Boltzmann constant, T – the unknown body
+                                                  4
+                                                2
+                                          –8
+                     temperature on the observed surface, and T  – the ambient temperature of the environment of
+                                                         a
+                     the observed surface element.
+                             If the observed body consists of several different homogeneous isotropic materials,
+                     which is not the case of the material considered in this paper, the second-order tensor, Λ, is
+                     reduced to a scalar, λ, according to [7], which will be different for each material in the structure.
+                     Therefore, the system of eqs. (1)-(8) represents a closed system of equations of the problem of
+                     the 3-D spread of heat in a material continuous medium. If the coefficients λ, ρ, c , are indepen-
+                                                                                        p
+                     dent of the temperature, this is because they are poorly changed at the observed temperature
+                     interval. It is pointed out that this is characteristic for construction structures under normal
+                     service/operational conditions (not at high temperatures such as fire or explosions).
+                             On the other hand, starting from a differential equation that describes the Newton’s
+                     law of conducting heat (cooling), the change in the specimen temperature is proportional to
+                     the difference in specimen temperature and the environment. We consider the proportionality
+                     in this paper as a constant, k, and it is called the thermal conductivity, which is known to be
+                     different for all treated specimens of the material, so it can be written:
+                                                      dT
+                                                                  ) k T −
+                                                         =  (   T                                 (9)
+                                                      dt      l  d]]></page><page Index="7"><![CDATA[Miličić, I. M., et al.: Model for the Analysis of Thermal Conductivity of Composite Material ...
+                     THERMAL SCIENCE: Year 2019, Vol. 23, No. 6A, pp. 3513-3523                 3519
+                             The expression (9) treats the temperature difference as an unknown function of time,
+                     t, represents a 1-D model for verification of measurement the thermal conductivity and with the
+                     method of separating variables according to (10):
+                                                         dT
+                                                             =  d k t
+                                                       T − T d
+                                                        l
+                                                         dT
+                                                      ∫  T − T d  = k ∫  dt                      (10)
+                                                        l
+                                                    −  ln T −  l  T =  d  kt C+
+                     it follows that:
+
+                                                      T −  l  T =  d  C e − kt                   (11)
+                     that is, we have the following cases:
+                        – heating T  < T   solution  ()Tt = T + C e − kt
+                                                   l
+                                   d
+                                l
+                                                         kt
+                                                        −
+                        – cooling T  > T solution  ()Tt = T − C e .
+                                   d
+                                l
+                                                   l
+                     Theoretical experimental comparative thermal analysis
+                             In this theoretical thermal analysis, by the mathematical 1-D model of heat conduc-
+                     tion (9) it is simpler to verify certain parameters obtained by measuring, with the measuring
+                     system Isomet 2114. The determined size is the thermal conductivity expressed on the basis of
+                     the heat capacity. Due to the fact that the parameters of the 3-D model of thermal conductivity
+                     of materials have become scalar quantities, we can separately verify those mathematically us-
+                     ing measurement data. The treated parameters are those that indicate the rate of heating-cool-
+                     ing, or the ability to accumulate heat in a homogeneous material. The initial parameters of heat
+                     stability for heat accumulation are:
+                        – volumetric heat (thermal) capacity,  c =  ρ c
+                                                       ρ
+                        – thermal diffusivity,  a =  / kc =  / k ρ c
+                                              ρ
+                        – coefficient of heat absorption, b = (  c )λρ  1/2
+                             Based on the registered values of the thermal capacity of the first specimen for all
+                     three measurements and density of the specimen material, tab. 2, there is a specific heat capacity
+                     in the form:
+                                                             c
+                                                          c =  ρ
+                                                             ρ
+                     with which the thermal diffusivity, a, is verified in tab. 3.
+
+                     Numerical analysis
+                             Based on the solution (11) of the 1-D model for the case (T  < T  and T > T ) and the
+                                                                                  d
+                                                                               l
+                                                                                            d
+                                                                                        l
+                     data presented in tab. 3, the numerical comparative thermal analysis of the first specimen was
+                     conducted for all three series of measurements of the thermal conductivity of the material. In
+                     the cross-section of two curves (heating and cooling) there is a point which gives the time, t,
+                     of the experimental registration of the thermal conductivity of the material and the mean value
+                     of the temperature, T mean , in conducting the test. To confirm this hypothesis, it is accessed by
+                     computer simulations in the case of the first specimen with a test time of t = 1.5 hours. The]]></page><page Index="8"><![CDATA[Miličić, I. M., et al.: Model for the Analysis of Thermal Conductivity of Composite Material ...
+                     3520                             THERMAL SCIENCE: Year 2019, Vol. 23, No. 6A, pp. 3513-3523
+
+                             Table 3. Theoretical experimental results of the first specimen (Isomet 2114)
+                                  The first series    The second series     The third series
+                                   (08.09.2017.)        (12.03.2018.)        (20.06.2018.)
+                                              3
+                                          6
+                                                               6
+                                                                   3
+                                                                                    6
+                               c  = 0.6244 ∙10  J/m K  c  = 0.6224∙10  J/m K  c  = 0.6198∙10  J/m K
+                                                                                        3
+                                ρ
+                                                     ρ
+                                                                          ρ
+                                 λ = 0.0989 W/mK      λ = 0.0990 W/mK      λ = 0.0982 W/mK
+                                 ρ = 518.87 kg/m 3    ρ = 513.39 kg/m 3    ρ = 517.93 kg/m 3
+                                                     Specific heat capacity
+                                                                                     2
+                                                              3
+                                                                                   3
+                                                                2
+                                         3
+                                           2
+                                c = 1.203∙10  m /Ks 2  c = 1.212∙10  m /Ks 2  c = 1.197∙10  m /Ks 2
+                                                     Thermal diffusivity
+                                                                                       2
+                                a = 1.584∙10  m /s   a = 1.591∙10  m /s   a = 1.584∙10  m /s
+                                                                                    −7
+                                          −7
+                                             2
+                                                                  2
+                                                               −7
+                                                  Coefficient of heat absorption
+                                b = 248.502 kg/Ks 2.5  b = 248.229 kg/Ks 2.5  b = 246.707 kg/Ks 2.5
+                     verification of the measurement results with the proposed 1-D model has extended the numer-
+                     ical analysis of the first specimen to all three series of the experiment carried out, showing the
+                     functions of the temperature distribution in time for:
+                        – heating – T1z(t), T2z(t), and T3z(t), that is
+                        – cooling – T1h(t), T2h(t), and T3h(t).
+                             Let us look at three cross section points of the temperature distribution functions
+                     T1z(t) and T1h(t), T2z(t), and T2h(t) and T3z(t), and T3h(t), according to the solution (11),
+                     figs. 6-8. Since the test time of the first specimen in all three series is the same, then the ordinate
+                     for t = 1.5 goes through all three points of the intersection of the solution (11) and thus verifies
+                                                                             o
+                     three experimental data, T mean  = 29.712  C, 29.654  C, and 29.619  C.
+                                                                o
+                                                      o
+                             Accordingly, the solution (11) of the proposed 1-D model (9) based on the simulations
+                     for t = 1.5 hours successfully validates the experimentally registered quantities for the first
+                     specimen in all three batches during testing of t = 1.5 hours. On the other hand, by the proposed
+                     1-D model, for the known experimentally registered thermal conductivity of materials, it is
+                     possible to predict the same registered size for all three specimens in three series, at different
+                     experiment time t =1, 1.5, 2, and 12 hours. Thus, based on the computer simulations performed,
+                     figs. 9 and 10, the mathematical 1-D model verifies the experimentally registered data for the
+                     mean temperature value: T mean  = 29.712  C, the first series, T mean  = 29.654  C, the second series,
+                                                                                   o
+                                                      o
+                     and T mean  = 29.617  C, the third series.
+                                     o
+                            Specimen 1 – first series
+                            Experimental data:  λ =  0.0989 W/mK
+                            t = 1.5 hours                        T1z(t)
+                            Numerical data according to (11):    T1h(t)
+                            k  =  λ = 0.0989 W/mK
+                            10.225 C=  e −  0.0989 1.5⋅
+                            C = 11.86
+                            T 1 ( ) 39.937 11.86ezt =  −  −  0.0989 t⋅                   t
+                            T 1 ( ) 19.487 11.86eht =  +  −  0.0989 t⋅  Figure 6. Distribution of the
+                                                                 temperature of the first series]]></page><page Index="9"><![CDATA[Miličić, I. M., et al.: Model for the Analysis of Thermal Conductivity of Composite Material ...
+                     THERMAL SCIENCE: Year 2019, Vol. 23, No. 6A, pp. 3513-3523                 3521
+                            Specimen 1 – second series
+
+
+                            Experimental data:  λ =  0.0990 W/mK
+                            t = 1.5 hours                        T2z(t)
+                                                                 T2h(t)
+                            Numerical data according to (11):
+                            k =  λ = 0.0990 W/mK
+                            9.9910 C=  e −  0.0990 1.5⋅
+                            C = 11.59                                                    t
+                            T 2 ( ) 39.645 11.59ezt =  −  −  0.0990 t⋅  Figure 7. Distribution of
+                            T 2 ( ) 19.663 11.59eht =  +  −  0.0990 t⋅  the temperature of the
+                                                                 second series
+                            Specimen 1 – third series
+
+                            Experimental data:  λ =  0.0982 W/mK
+                                                                 T3z(t)
+                            t = 1.5 hours
+                                                                 T3h(t)
+                            Numerical data according to (11):
+                            k =  λ = 0.0982 W/mK
+                            10.057 C=  e −  0.0982 1.5⋅
+                            C = 11.65                                                    t
+                            T 3 ( ) 39.674 11.65ezt =  −  −  0.0982 t⋅  Figure 8. Distribution of
+
+                            T 3 ( ) 19.560 11.65eht =  +  −  0.0982 t⋅  the temperature of the
+                                                                 third series
+
+                             Finally, the results of all computer simulations for the assumed experiment time are
+                     separated for transparency, for t = 1 and t = 1.5 hours, on fig. 9, that is, for t = 2 and t = 12 hours,
+                     on fig. 10, for all three specimens materials and all three series of tests.
+                             The presented solutions of the numerical analysis given in figs. 9 and 10 in the graphic
+                     form are:
+                        – Tijz(t) – the distribution function of the heating temperature,
+                        – Tijh(t) – cooling distribution function (Newton’s law of conducting heat)
+                     where i – the specimen number, j – the serial number of the test series, z – the fault of heating,
+                     and h – curve cooling.
+                             Therefore, no matter how long time the measuring system needs when registering
+                     thermal parameters for one specimen of the material, it is possible to register one mean tem-
+                     perature, T mean , and one thermal conductivity, fig. 5.
+                             The results of numerical analyses with the proposed 1-D mathematical model for
+                     specimen 2 and 3 in all three series are not presented here due to their extensiveness.
+                     Final remarks and conclusions
+                             In this paper, the proposed 1-D mathematical model verified the results of the ex-
+                     perimental analysis of thermal conductivity. For real environmental conditions, three series of]]></page><page Index="10"><![CDATA[Miličić, I. M., et al.: Model for the Analysis of Thermal Conductivity of Composite Material ...
+                     3522                             THERMAL SCIENCE: Year 2019, Vol. 23, No. 6A, pp. 3513-3523
+
+
+
+
+                     T11z(t)                                  T13z(t)
+                     T11h(t)                                  T13h(t)
+                     T21z(t)                                  T23z(t)
+                     T21h(t)                                  T22h(t)
+                     T31z(t)                                  T33z(t)
+                     T31h(t)                                  T33h(t)
+                     T12z(t)                                  T14z(t)
+                     T12h(t)                                  T14h(t)
+                     T22z(t)                                  T24z(t)
+                     T22h(t)                                  T24h(t)
+                     T32z(t)                                  T34z(t)
+                     T32h(t)                                  T34h(t)
+
+
+
+
+
+
+
+
+
+
+
+
+                                                      t                                        t
+                     Figure 9. Enlarged part of the simulation results   Figure 10. Simulation results for t = 2
+                     for t = 1 and 1.5 hours                  and 12 hours
+                     (for color image see journal web site)   (for color image see journal web site)
+
+                     testing within 365 days, and age of specimen of 5 years, the obtained thermal conductivity of
+                     the tested material was 0.0990 W/mK.
+                             Higher heat capacity of the material means that it can accumulate a higher amount of
+                     heat. Based on the numerical analysis carried out with the proposed 1-D mathematical model
+                     (9), it has been shown that higher density materials have a higher thermal capacity. This indi-
+                     cates the need for an adequate selection of the recipes, i. e. the share of individual components
+                     in the preparation of materials for building Ethno-eco-passive houses.
+                     References
+                     [1]  Miličić, I. M., Conceptual Design “Ethno–Eko–Passive House” with Plate Elements Made Form Com-
+                         posite Natural Material, Faculty of Civil Engineering, Subotica, Serbia, 2010
+                     [2]  Milanović, R. A, et al., Earth-Sheltered House: A Case Study of Dobraca Village House near Kragujevac,
+                         Serbia, Sustainability, 10 (2018), 10, 3629
+                     [3]  Ferreira, M. G. P. R., Experimental Study of the Thermal Behavior on Green Façades, Extended Abstract,
+                         Instituto Superior Técnico, Lisboa, 2015
+                     [4]  Ilinčić, N., Miličić, I., Applay of Modern Structural Engineerings and Reasons of Failure in Subotica,
+                         Monograph, Construction Technology – Construction Management 97, Subotica, Serbia, 1997, pp. 19-28
+                         (in Serbian)]]></page><page Index="11"><![CDATA[Miličić, I. M., et al.: Model for the Analysis of Thermal Conductivity of Composite Material ...
+                     THERMAL SCIENCE: Year 2019, Vol. 23, No. 6A, pp. 3513-3523                 3523
+                     [5]  Oka, S. N., National Energy Efficiency Program: Foundation, Strategy, Priorities Formulation, and Imple-
+                         mentation Activities, Termotehnika, 28 (2002), 1-4, pp. 13-23
+                     [6]  ***, Isomet 2114, Portable System for Measurement of Heat Transfer Properties of Materials, Applied
+                         Precision Ltd. Stavitelska 1, 83104 Bratislava, Slovakia, 2015, www.appliedp.com
+                     [7]  Jarić, J., Mehanika Kontinuuma, Građevinska knjiga, Beograd, 1988 (in Serbian)
+                     [8]  Lienhard, IV H. J., Lienhard, V H. J., A Heat Transfer Textbook, Phlogiston Press, Cambridge, Mass.,
+                         USA, 2003
+                     [9]  Bowles, D. E., Tompkins, S. S., Prediction of Coefficients of Thermal Expansion for Unidirectional Com-
+                         posites, Journal of Composite Materials, 23 (1998), 4, pp. 370-388
+                     [10]  Bažant, Z. P., Kaplan, M. F., Concrete at High Temperatures: Material Properties and Mathematical
+                         Models, Concrete design and Construction series, Longman Group Limited, Harlow, UK, 1996, pp. 412
+                     [11]  Beneš, M., et al., Analysis of Coupled Transport Phenomena in Concrete at Elevated Temperatures, In
+                         Applied Mathematics and Computation, 219 (2013), 13, pp. 7262-7274
+                     [12]  Balocco, C., A Simple Model to Study a Ventilated Facade Energy Performance, Energy and Buildings,
+                         34 (2002), 5, pp. 469-475
+                     [13]  Blomberg, T., Computer Programs for Transient and Steady-State Heat Conduction in Three Dimensions
+                         HEAT3, Sweden: Department of Building Physics, Lund University
+                     [14]  Pietrak, K., Wisniewak, T. S., A Review of Models for Effective Thermal Conductivity of Composite
+                         Materials, Journal of Power Technologies,95 (2015), 1, pp. 14-24
+                     [15]  Mityushev, V. V., et al., Analytical Methods for Heat Conduction in Composites and Porous Media, Cel-
+                         lular and Porous Materials, in: Thermal Properties Simulation and Prediction, (Eds. Ochsner, A., Murch,
+                         G. E.,  de Lemos, M. J. S.,), Wiley–VCH Verlag GmbH & Co. KGaA, Weinheim, Germany, 2008
+                     [16]  Ran, Z., et a., Determination of Thermal Expansion Coefficients for Unidirectional Fiber–Reinforced
+                         Composites, Chinese Journal of Aeronautics, 27 (2014), 5, pp 1180-1187
+                     [17]  Tang, K. T., Mathematical Methods for Engineers and Scientists 3, Springer, Berlin Heidelberg New
+                         York, USA, 2007
+                     [18]  ***,  CEN  European  Committee  for  Standardization  (1996)  Building  Components  and  Building  Ele-
+                         ments-Thermal Resistance and Thermal Transmittance: Calculation Method, Brussels, Ref. br. EN ISO
+                         6946:1996
+                     [19]  ***, PTC, MathCAD 14.0, User’s Guide, February 2007
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                     Paper submitted: December 15, 2018                  © 2019 Society of Thermal Engineers of Serbia
+                     Paper revised: May 2, 2019            Published by the Vinča Institute of Nuclear Sciences, Belgrade, Serbia.
+                     Paper accepted: May 20, 2019  This is an open access article distributed under the CC BY-NC-ND 4.0 terms and conditions]]></page></pages></Search>
