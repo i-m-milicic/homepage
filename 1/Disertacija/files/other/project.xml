@@ -1,0 +1,2290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flipbookmaker version="4.0.0" IsQuick="false" QuickFile="G:\03_IZBOR_U_ZVANJE_UNS_GFS_2013_inzenjerska mehanika\02_IMM_Strucna dokumenta za konkurs_UNS_GFS_2013\04_IMM_Doktorska_disertacija_2007.pdf" ProjectName="C:\Users\DrIlijaM\Desktop\04_IMM_Doktorska_disertacija_2007\04_IMM_Doktorska_disertacija_2007.fb" DefaultName="04_IMM_Doktorska_disertacija_2007" Google="" UseMiniMode="false" UsePSW="false" MiniWidth="400" MiniHeight="300" PSW="" StartPage="0" UseFlipSound="true" UseBackSound="false" UseSingleSound="false" BackSoundPath="" IsRight2Left="false" IsFastene="false" IsHardCover="false" IsHardPage="false" IsAnimate="true" IsCenterBook="true" IsLandScape="false" IsOpenBook="1" DragArea="top,middle,bottom" FlipSpeed="0.25" PageThick="0.1" SpineColor="13421772" Curvature="-0.5" PageBackColor="13421772" PageTranColor="0" FoldLine="0.5" ZoomStep="" UseReflection="false" RefTransparent="75" RefOffset="0" IsAutoPlay="false" IsRepeat="false" DurationPlay="3" Preloader="bookcase" LoadText="" PowerBy="" NavigationStyle="" ButtonStyle="" ShowCover="true" ShowPreNext="true" ShowPlayStop="true" ShowScreen="true" ShowToc="true" ShowZoom="true" ShowBookmark="true" ShowDownload="true" DownloadUrl="" ShowText="true" ShowSlider="false" ShowShare="true" ShowPrint="true" ShowZoomBar="true" ShowSearch="true" ShowSearchBox="true" ShowMusic="true" ShowThumbnail="true" ShowExit="true" ShowBookCase="true" ButtonScale="0" IntroMovie="" IntroEffect="" Scene="" ShowAbout="true" ShowDraw="true" ShowLang="true" UseGradient="true" Edge="1" EdgeColor="13421772" TemplateGroup="float" TemplateName="metal" ExeTitle="" HtmlTitle="" HtmlKeywords="" HtmlDescription="" HtmlScript="" PageWidth="1131" PageHeight="1600" CoverWidth="1131" CoverHeight="1600" Langs="en" BookLangs="en,jp,fr,de,ar">
+  <book title="kvisoft.com" plugins="navigationbar, keyboardnavigation, links, password, pdflinks, anchors, index, titles, search, gestures, draw, tuio, slideshow,javascript,swfaddress,print,thumbnails,bookmarks,select,musicplayers, toc, share, about, bookcase" pagewidth="1131" pageheight="1600" searchindex="files/search_index/en.txt" stiffskew="1" foldfx="0.5" guipath="files/gui/" lang="en,jp,fr,de,ar" langpath="files/langs/" flagpath="files/flags/" pagethickness="0.1" pluginpath="files/plugins/" priorities="vid(20); snd(15); area(5); nav(5); txt(5); gal(30)" reflectionalpha="0.25" shadows="0.25" sndpath="files/snd/" dragspeed="0.25" password="" pwstart="0" spinecurvature="-0.5" zoommaxscale="2" zoomminscale="0.25" slidestart="false" slidedelay="3" sliderepeat="false" toc="files/data/toc.xml" bookcase="files/data/bookcase.xml" download="" minimode="false" miniwidth="400" miniheight="300" layout="files/data/layout.xml" buttoncfg="files/data/buttoncfg.xml" about="files/data/about.xml" abc="chdb">
+    <background>
+      <box name="" anchors="0,0,ph,pw"/>
+    </background>
+    <bookmarks/>
+    <chapter pagewidth="1131" pageheight="1600">
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_1_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_1_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_2_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_2_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+    </chapter>
+    <chapter pagewidth="1131" pageheight="1600">
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_3_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_3_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_4_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_4_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_5_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_5_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_6_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_6_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_7_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_7_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_8_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_8_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_9_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_9_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_10_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_10_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_11_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_11_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_12_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_12_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_13_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_13_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_14_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_14_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_15_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_15_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_16_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_16_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_17_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_17_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_18_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_18_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_19_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_19_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_20_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_20_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_21_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_21_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_22_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_22_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_23_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_23_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_24_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_24_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_25_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_25_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_26_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_26_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_27_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_27_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_28_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_28_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_29_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_29_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_30_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_30_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_31_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_31_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_32_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_32_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_33_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_33_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_34_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_34_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_35_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_35_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_36_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_36_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_37_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_37_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_38_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_38_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_39_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_39_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_40_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_40_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_41_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_41_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_42_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_42_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_43_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_43_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_44_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_44_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_45_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_45_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_46_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_46_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_47_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_47_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_48_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_48_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_49_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_49_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_50_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_50_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_51_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_51_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_52_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_52_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_53_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_53_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_54_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_54_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_55_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_55_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_56_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_56_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_57_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_57_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_58_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_58_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_59_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_59_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_60_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_60_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_61_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_61_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_62_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_62_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_63_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_63_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_64_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_64_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_65_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_65_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_66_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_66_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_67_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_67_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_68_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_68_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_69_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_69_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_70_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_70_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_71_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_71_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_72_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_72_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_73_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_73_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_74_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_74_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_75_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_75_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_76_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_76_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_77_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_77_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_78_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_78_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_79_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_79_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_80_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_80_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_81_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_81_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_82_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_82_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_83_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_83_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_84_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_84_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_85_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_85_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_86_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_86_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_87_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_87_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_88_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_88_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_89_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_89_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_90_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_90_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_91_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_91_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_92_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_92_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_93_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_93_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_94_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_94_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_95_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_95_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_96_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_96_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_97_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_97_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_98_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_98_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_99_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_99_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_100_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_100_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_101_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_101_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_102_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_102_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_103_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_103_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_104_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_104_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_105_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_105_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_106_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_106_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_107_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_107_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_108_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_108_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_109_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_109_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_110_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_110_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_111_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_111_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_112_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_112_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_113_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_113_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_114_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_114_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_115_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_115_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_116_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_116_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_117_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_117_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_118_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_118_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_119_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_119_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_120_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_120_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_121_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_121_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_122_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_122_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_123_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_123_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_124_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_124_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_125_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_125_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_126_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_126_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_127_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_127_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_128_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_128_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_129_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_129_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_130_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_130_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_131_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_131_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_132_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_132_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_133_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_133_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_134_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_134_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_135_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_135_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_136_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_136_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_137_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_137_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_138_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_138_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_139_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_139_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_140_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_140_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_141_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_141_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_142_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_142_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_143_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_143_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_144_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_144_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_145_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_145_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_146_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_146_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_147_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_147_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_148_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_148_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_149_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_149_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_150_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_150_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_151_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_151_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_152_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_152_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_153_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_153_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_154_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_154_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_155_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_155_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_156_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_156_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_157_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_157_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_158_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_158_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_159_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_159_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_160_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_160_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+    </chapter>
+    <chapter pagewidth="1131" pageheight="1600">
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_161_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_161_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1131" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\high\04_IMM_Doktorska_disertacija_2007_162_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+          <src lang="en">C:\Users\DrIlijaM\AppData\Local\Temp\flipbook_{BA920B82-89EE-40C6-B887-F89BF7CC45DB}\files\pages\en\low\04_IMM_Doktorska_disertacija_2007_162_{D3755963-0693-445B-8375-1A370D931788}_en.swf</src>
+        </img>
+      </page>
+    </chapter>
+  </book>
+  <MyFont Name="Verdana" Color="10460316" Size="12" Style="1" Text="kvisoft.com" Url=""/>
+  <Backgd UseBackImg="true" BackColor1="0" BackColor2="10066329" ColorStyle="radial" ImagePath="files/assets/skin/bg.png" ImageStyle="Tile" TransParent="10" AType="0"/>
+  <Logo Name="" Color="0" Size="0" Style="0" Text="" Url="" UseLogo="false" UseImage="false" ImagePath="" ImageTrans="10" BackColor="0" Width="100" Height="100" Target=""/>
+  <FontObj Name="" Color="0" Size="0" Style="0"/>
+  <Bookmarks/>
+  <Playlist skin="" miniskin="" startmini="false" onlywhenactive="false" playmode="1" loopmode="1"/>
+  <BookCase/>
+</flipbookmaker>
